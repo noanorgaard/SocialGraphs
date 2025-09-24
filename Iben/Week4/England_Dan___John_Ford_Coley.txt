@@ -1,0 +1,1 @@
+{"warnings":{"main":{"*":"Unrecognized parameter: _John_Ford_Coley."}},"batchcomplete":"","query":{"normalized":[{"from":"England_Dan_","to":"England Dan"}],"pages":{"1651960":{"pageid":1651960,"ns":0,"title":"England Dan","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Dan Seals]]"}}}]}}}}
