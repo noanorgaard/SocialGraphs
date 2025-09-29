@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"The_B-52's","to":"The B-52's"}],"pages":{"32556868":{"pageid":32556868,"ns":0,"title":"The B-52's","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[The B-52s]]\n\n{{R from alternative punctuation}}\n{{R from move}}\n{{R up}}"}}}]}}}}
