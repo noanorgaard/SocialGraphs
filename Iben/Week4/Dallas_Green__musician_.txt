@@ -1,1 +1,0 @@
-{"batchcomplete":"","query":{"normalized":[{"from":"Dallas_Green_(musician)","to":"Dallas Green (musician)"}],"pages":{"2250418":{"pageid":2250418,"ns":0,"title":"Dallas Green (musician)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[City and Colour]]\n{{R from alternative name}}"}}}]}}}}
