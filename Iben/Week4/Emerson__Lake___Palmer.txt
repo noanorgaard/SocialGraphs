@@ -1,1 +1,0 @@
-{"warnings":{"main":{"*":"Unrecognized parameter: _Palmer."}},"batchcomplete":"","query":{"normalized":[{"from":"Emerson,_Lake_","to":"Emerson, Lake"}],"pages":{"8848100":{"pageid":8848100,"ns":0,"title":"Emerson, Lake","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Emerson, Lake & Palmer]]"}}}]}}}}
