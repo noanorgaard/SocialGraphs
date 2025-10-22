@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Poison_(American_band)","to":"Poison (American band)"}],"pages":{"39465533":{"pageid":39465533,"ns":0,"title":"Poison (American band)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Poison (band)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}
