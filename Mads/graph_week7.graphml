@@ -1,0 +1,1822 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="genres" attr.type="string"/>
+<graph edgedefault="undirected"><node id="10cc">
+  <data key="d0">['articles']</data>
+</node>
+<node id="311__band_">
+  <data key="d0">['alternative rock', 'rap rock', 'reggae rock', 'funk rock', 'funk metal']</data>
+</node>
+<node id="38_Special__band_">
+  <data key="d0">['songs', '38-special-mn0000500781']</data>
+</node>
+<node id="3_Doors_Down">
+  <data key="d0">['post-grunge', '3-doors-down-mn0000923323', '2015']</data>
+</node>
+<node id="Accept__band_">
+  <data key="d0">['heavy metal']</data>
+</node>
+<node id="AC_DC">
+  <data key="d0">['hard rock', 'blues rock', 'rock and roll', 'heavy metal']</data>
+</node>
+<node id="Aerosmith">
+  <data key="d0">['hard rock', 'blues rock', 'heavy metal']</data>
+</node>
+<node id="Alice_in_Chains">
+  <data key="d0">['grunge', 'alternative metal']</data>
+</node>
+<node id="Alter_Bridge">
+  <data key="d0">['hard rock', 'heavy metal', 'alternative metal', 'progressive metal', 'alternative rock', 'post-grunge']</data>
+</node>
+<node id="Ambrosia__band_">
+  <data key="d0">['progressive rock', 'soft rock', 'jazz fusion', 'blue-eyed soul']</data>
+</node>
+<node id="Anthrax__American_band_">
+  <data key="d0">['thrash metal', 'heavy metal', 'groove metal']</data>
+</node>
+<node id="April_Wine">
+  <data key="d0">['hard rock']</data>
+</node>
+<node id="Arctic_Monkeys">
+  <data key="d0">['indie rock', 'garage rock']</data>
+</node>
+<node id="Avenged_Sevenfold">
+  <data key="d0">['heavy metal', 'progressive metal']</data>
+</node>
+<node id="Awolnation">
+  <data key="d0">['alternative rock', 'electronic rock']</data>
+</node>
+<node id="A_Perfect_Circle">
+  <data key="d0">['alternative rock']</data>
+</node>
+<node id="Bad_Company">
+  <data key="d0">['songs']</data>
+</node>
+<node id="Barenaked_Ladies">
+  <data key="d0">['alternative pop', 'folk rock', 'pop rock', 'comedy rock']</data>
+</node>
+<node id="Bee_Gees">
+  <data key="d0">['pop', 'soul', 'disco', 'rock', 'subgenre', 'soft-rock-ma0000011841']</data>
+</node>
+<node id="Ben_Folds_Five">
+  <data key="d0">['alternative rock', 'power pop']</data>
+</node>
+<node id="Billy_Talent">
+  <data key="d0">['punk rock', 'alternative rock']</data>
+</node>
+<node id="Black_Veil_Brides">
+  <data key="d0">['hard rock', 'alternative metal']</data>
+</node>
+<node id="Blink-182">
+  <data key="d0">['pop-punk', 'punk rock', 'skate punk', 'alternative rock']</data>
+</node>
+<node id="Blondie__band_">
+  <data key="d0">['new wave', 'punk rock', 'pop rock', 'pop', 'disco']</data>
+</node>
+<node id="Bloodhound_Gang">
+  <data key="d0">['alternative rock', 'rap rock', 'pop-punk', 'new wave']</data>
+</node>
+<node id="Blue_Öyster_Cult">
+  <data key="d0">['hard rock', 'heavy metal', 'occult rock', 'psychedelic rock', 'progressive rock', 'acid rock']</data>
+</node>
+<node id="Blur__band_">
+  <data key="d0">['britpop', 'indie rock', 'alternative rock', 'art pop']</data>
+</node>
+<node id="Bon_Jovi">
+  <data key="d0">['hard rock', 'glam metal', 'arena rock', 'pop rock']</data>
+</node>
+<node id="Boston__band_">
+  <data key="d0">['hard rock', 'arena rock']</data>
+</node>
+<node id="Bowling_for_Soup">
+  <data key="d0">['pop-punk', 'pop rock']</data>
+</node>
+<node id="Boys_Like_Girls">
+  <data key="d0">['pop rock', 'pop-punk', '17037', 'daily-aztec-stories', '2017']</data>
+</node>
+<node id="Breaking_Benjamin">
+  <data key="d0">['hard rock', 'post-grunge', 'alternative metal']</data>
+</node>
+<node id="Bring_Me_the_Horizon">
+  <data key="d0">['metalcore', 'alternative metal', 'alternative rock', 'post-hardcore']</data>
+</node>
+<node id="Buckcherry">
+  <data key="d0">['albums', 'reviews']</data>
+</node>
+<node id="Bullet_for_My_Valentine">
+  <data key="d0">['melodic metalcore']</data>
+</node>
+<node id="Cage_the_Elephant">
+  <data key="d0">['alternative rock', 'indie rock', 'psychedelic rock', 'garage rock', 'punk blues', 'post-punk']</data>
+</node>
+<node id="Catfish_and_the_Bottlemen">
+  <data key="d0">['alternative rock', 'indie rock', 'post-punk revival']</data>
+</node>
+<node id="Cheap_Trick">
+  <data key="d0">['rock', 'hard rock', 'power pop']</data>
+</node>
+<node id="Chevelle__band_">
+  <data key="d0">['hard rock', 'alternative metal', 'alternative rock', 'post-grunge']</data>
+</node>
+<node id="Cinderella__band_">
+  <data key="d0">['glam metal', 'hard rock']</data>
+</node>
+<node id="Collective_Soul">
+  <data key="d0">['alternative rock', 'hard rock']</data>
+</node>
+<node id="Counting_Crows">
+  <data key="d0">['story', 'entertainment', '2014', '06', '13', '10509809']</data>
+</node>
+<node id="Crash_Test_Dummies">
+  <data key="d0">['alternative rock', 'folk rock']</data>
+</node>
+<node id="Creedence_Clearwater_Revival">
+  <data key="d0">['swamp rock', 'roots rock', 'blues rock', 'country rock', 'southern rock']</data>
+</node>
+<node id="Creed__band_">
+  <data key="d0">['post-grunge', 'hard rock']</data>
+</node>
+<node id="Damn_Yankees__band_">
+  <data key="d0">['news', 'hcools', '20220522204741', 'https:', 'news', 'hcools', '2022']</data>
+</node>
+<node id="Dashboard_Confessional">
+  <data key="d0">['emo', 'alternative rock']</data>
+</node>
+<node id="Daughtry__band_">
+  <data key="d0">['post-grunge', 'hard rock', 'pop rock']</data>
+</node>
+<node id="Dave_Matthews_Band">
+  <data key="d0">['rock', 'jam rock']</data>
+</node>
+<node id="Death_Cab_for_Cutie">
+  <data key="d0">['indie rock', 'alternative rock', 'indie pop', 'emo (early)']</data>
+</node>
+<node id="Deftones">
+  <data key="d0">['alternative metal', 'art rock', 'shoegaze']</data>
+</node>
+<node id="Dio__band_">
+  <data key="d0">['heavy metal']</data>
+</node>
+<node id="Dire_Straits">
+  <data key="d0">['roots rock', 'blues rock', 'pub rock']</data>
+</node>
+<node id="Disturbed__band_">
+  <data key="d0">['heavy metal', 'alternative metal']</data>
+</node>
+<node id="Dropkick_Murphys">
+  <data key="d0">['celtic punk', 'folk punk', 'features', 'entry']</data>
+</node>
+<node id="Drowning_Pool">
+  <data key="d0">['alternative metal', 'nu metal']</data>
+</node>
+<node id="Duran_Duran">
+  <data key="d0">['pop rock', 'synth-pop', 'new wave', 'dance-rock']</data>
+</node>
+<node id="Europe__band_">
+  <data key="d0">['2022']</data>
+</node>
+<node id="Evanescence">
+  <data key="d0">['alternative metal', 'gothic metal', 'gothic rock', 'hard rock', 'industrial rock', 'symphonic metal', 'nu metal (early)']</data>
+</node>
+<node id="Everclear__band_">
+  <data key="d0">['alternative rock', 'power pop']</data>
+</node>
+<node id="Extreme__band_">
+  <data key="d0">['album']</data>
+</node>
+<node id="Filter__band_">
+  <data key="d0">['industrial rock', 'post-grunge', 'alternative rock']</data>
+</node>
+<node id="Finger_Eleven">
+  <data key="d0">['roxanne']</data>
+</node>
+<node id="Fleetwood_Mac">
+  <data key="d0">['pop rock', 'soft rock', 'blues rock', 'art pop']</data>
+</node>
+<node id="Flogging_Molly">
+  <data key="d0">['celtic punk', 'folk punk']</data>
+</node>
+<node id="Foals__band_">
+  <data key="d0">['indie rock', 'alternative rock']</data>
+</node>
+<node id="Foreigner__band_">
+  <data key="d0">['features', 'best-foreigner-songs']</data>
+</node>
+<node id="Foster_the_People">
+  <data key="d0">['indie pop', 'synth-pop', 'dance-pop', 'alternative rock', 'indie rock']</data>
+</node>
+<node id="Franz_Ferdinand__band_">
+  <data key="d0">['indie rock', 'post-punk revival']</data>
+</node>
+<node id="Fuel__band_">
+  <data key="d0">['alternative rock', 'hard rock', 'post-grunge', 'alternative metal']</data>
+</node>
+<node id="Fun__band_">
+  <data key="d0">['pm', 'review', '20091120050502', 'http:', 'pm', 'review']</data>
+</node>
+<node id="Garbage__band_">
+  <data key="d0">['alternative rock', 'electronic rock']</data>
+</node>
+<node id="Genesis__band_">
+  <data key="d0">['progressive rock', 'art rock', 'pop rock', 'soft rock']</data>
+</node>
+<node id="Ghost__Swedish_band_">
+  <data key="d0">['hard rock', 'heavy metal', 'arena rock', 'pop rock']</data>
+</node>
+<node id="Gin_Blossoms">
+  <data key="d0">['alternative rock', 'jangle pop', 'power pop', 'post-grunge', 'country rock']</data>
+</node>
+<node id="Godsmack">
+  <data key="d0">['alternative metal', 'hard rock']</data>
+</node>
+<node id="Good_Charlotte">
+  <data key="d0">['pop-punk', 'alternative rock', 'emo', 'pop rock']</data>
+</node>
+<node id="Grand_Funk_Railroad">
+  <data key="d0">['2019']</data>
+</node>
+<node id="Grateful_Dead">
+  <data key="d0">['rock']</data>
+</node>
+<node id="Great_White">
+  <data key="d0">['hard rock']</data>
+</node>
+<node id="Guns_N__Roses">
+  <data key="d0">['hard rock', 'heavy metal']</data>
+</node>
+<node id="Halestorm">
+  <data key="d0">['2015']</data>
+</node>
+<node id="Heart__band_">
+  <data key="d0">['rock', 'hard rock', 'folk rock', 'pop rock']</data>
+</node>
+<node id="Highly_Suspect">
+  <data key="d0">['alternative rock', 'hard rock']</data>
+</node>
+<node id="Hinder">
+  <data key="d0">['post-grunge', 'hard rock']</data>
+</node>
+<node id="Hoobastank">
+  <data key="d0">['alternative rock']</data>
+</node>
+<node id="Huey_Lewis_and_the_News">
+  <data key="d0">['story', 'news', '2003', '01', '03', '28734836007']</data>
+</node>
+<node id="Imagine_Dragons">
+  <data key="d0">['pop rock', 'electropop', 'pop']</data>
+</node>
+<node id="Incubus__band_">
+  <data key="d0">['alternative rock', 'alternative metal', 'funk metal (early)', 'nu metal (early)']</data>
+</node>
+<node id="INXS">
+  <data key="d0">['new wave', 'pub rock']</data>
+</node>
+<node id="Iron_Maiden">
+  <data key="d0">['heavy metal']</data>
+</node>
+<node id="Jane_s_Addiction">
+  <data key="d0">['alternative rock', 'alternative metal', 'funk metal', 'psychedelic rock']</data>
+</node>
+<node id="Jefferson_Starship">
+  <data key="d0">['rock', 'hard rock', 'psychedelic rock', 'progressive rock', 'od', 'artistsfj', 'p', '20160304200930', 'http:', 'od', 'artistsfj', 'p']</data>
+</node>
+<node id="Jethro_Tull__band_">
+  <data key="d0">['progressive rock', 'folk rock']</data>
+</node>
+<node id="Journey__band_">
+  <data key="d0">['journey-mn0000291043', '20140109174334', 'http:', 'journey-mn0000291043']</data>
+</node>
+<node id="Judas_Priest">
+  <data key="d0">['heavy metal']</data>
+</node>
+<node id="Kaleo__band_">
+  <data key="d0">['blues rock', 'indie folk', 'alternative rock']</data>
+</node>
+<node id="Killswitch_Engage">
+  <data key="d0">['melodic metalcore']</data>
+</node>
+<node id="Korn">
+  <data key="d0">['nu metal', 'alternative metal']</data>
+</node>
+<node id="Lamb_of_God__band_">
+  <data key="d0">['groove metal', 'metalcore', 'thrash metal']</data>
+</node>
+<node id="Led_Zeppelin">
+  <data key="d0">['hard rock', 'blues rock', 'folk rock', 'heavy metal']</data>
+</node>
+<node id="Limp_Bizkit">
+  <data key="d0">['nu metal', 'rap rock', 'rap metal']</data>
+</node>
+<node id="Live__band_">
+  <data key="d0">['alternative rock', 'post-grunge', 'hard rock']</data>
+</node>
+<node id="Loverboy">
+  <data key="d0">['arena rock', 'hard rock', 'pop rock']</data>
+</node>
+<node id="Lynyrd_Skynyrd">
+  <data key="d0">['2020']</data>
+</node>
+<node id="Manfred_Mann">
+  <data key="d0">['texas', 'news']</data>
+</node>
+<node id="Manfred_Mann_Chapter_Three">
+  <data key="d0">['jazz rock']</data>
+</node>
+<node id="Marilyn_Manson__band_">
+  <data key="d0">['industrial rock', 'industrial metal', 'gothic rock', 'alternative metal']</data>
+</node>
+<node id="Men_at_Work">
+  <data key="d0">['men-at-work-mn0000873085']</data>
+</node>
+<node id="Metallica">
+  <data key="d0">['heavy metal', 'thrash metal']</data>
+</node>
+<node id="Midnight_Oil">
+  <data key="d0">['2013', '05', '20130713000619', 'http:', '2013', '05']</data>
+</node>
+<node id="Mike_and_the_Mechanics">
+  <data key="d0">['rock', 'pop rock']</data>
+</node>
+<node id="Modest_Mouse">
+  <data key="d0">['indie rock', 'alternative rock', 'post punk revival', 'punk rock', 'emo (early)']</data>
+</node>
+<node id="Motörhead">
+  <data key="d0">['heavy metal']</data>
+</node>
+<node id="Mötley_Crüe">
+  <data key="d0">['heavy metal', 'glam metal', 'hard rock']</data>
+</node>
+<node id="No_Doubt">
+  <data key="d0">['ska punk', 'pop rock']</data>
+</node>
+<node id="Our_Lady_Peace">
+  <data key="d0">['alternative rock', 'post-grunge']</data>
+</node>
+<node id="Panic__at_the_Disco">
+  <data key="d0">['pop rock', 'baroque pop', 'electropop']</data>
+</node>
+<node id="Pantera">
+  <data key="d0">['groove metal', 'thrash metal']</data>
+</node>
+<node id="Papa_Roach">
+  <data key="d0">['alternative rock', 'nu metal', 'alternative metal', 'rap metal', 'hard rock']</data>
+</node>
+<node id="Paramore">
+  <data key="d0">['pop-punk', 'emo', 'pop rock']</data>
+</node>
+<node id="Parliament-Funkadelic">
+  <data key="d0">['funk']</data>
+</node>
+<node id="Paul_McCartney_and_Wings">
+  <data key="d0">['interview']</data>
+</node>
+<node id="Pink_Floyd">
+  <data key="d0">['progressive rock', 'art rock', 'psychedelic rock', 'space rock', 'experimental rock']</data>
+</node>
+<node id="Pop_Evil">
+  <data key="d0">['hard rock', 'alternative metal', 'post-grunge']</data>
+</node>
+<node id="Primus__band_">
+  <data key="d0">['alternative metal', 'funk metal', 'experimental rock', 'progressive rock']</data>
+</node>
+<node id="Puddle_of_Mudd">
+  <data key="d0">['post-grunge', 'hard rock', 'alternative rock']</data>
+</node>
+<node id="Queen__band_">
+  <data key="d0">['rock', 'pop']</data>
+</node>
+<node id="Quiet_Riot">
+  <data key="d0">['heavy metal', 'hard rock', 'glam metal']</data>
+</node>
+<node id="Radiohead">
+  <data key="d0">['art rock', 'alternative rock', 'electronica', 'experimental rock']</data>
+</node>
+<node id="Ratt">
+  <data key="d0">['culture', '135976']</data>
+</node>
+<node id="Red_Hot_Chili_Peppers">
+  <data key="d0">['funk rock', 'alternative rock', 'rap rock']</data>
+</node>
+<node id="Rise_Against">
+  <data key="d0">['punk rock', 'melodic hardcore']</data>
+</node>
+<node id="Santana__band_">
+  <data key="d0">['rock and roll', 'style', '20190104182743', 'https:', 'style']</data>
+</node>
+<node id="Saving_Abel">
+  <data key="d0">['rock', 'hard rock', 'post-grunge', 'southern rock']</data>
+</node>
+<node id="Scorpions__band_">
+  <data key="d0">['hard rock', 'heavy metal']</data>
+</node>
+<node id="Seether">
+  <data key="d0">['post-grunge', 'hard rock']</data>
+</node>
+<node id="Sex_Pistols">
+  <data key="d0">['punk rock']</data>
+</node>
+<node id="Shinedown">
+  <data key="d0">['hard rock', 'alternative metal']</data>
+</node>
+<node id="Simple_Minds">
+  <data key="d0">['simple-minds-mn0000049374']</data>
+</node>
+<node id="Simple_Plan">
+  <data key="d0">['pop-punk', 'alternative rock', 'pop rock', 'power pop', 'emo']</data>
+</node>
+<node id="Skid_Row__American_band_">
+  <data key="d0">['heavy metal', 'hard rock']</data>
+</node>
+<node id="Skillet__band_">
+  <data key="d0">['christian rock']</data>
+</node>
+<node id="Slayer">
+  <data key="d0">['thrash metal']</data>
+</node>
+<node id="Slipknot__band_">
+  <data key="d0">['nu metal', 'alternative metal']</data>
+</node>
+<node id="Smash_Mouth">
+  <data key="d0">['alternative rock', 'power pop', 'pop rock', 'ska punk']</data>
+</node>
+<node id="Smokie__band_">
+  <data key="d0">['pop rock', 'soft rock', 'albums']</data>
+</node>
+<node id="Sonic_Youth">
+  <data key="d0">['noise rock', 'alternative rock', 'experimental rock', 'indie rock']</data>
+</node>
+<node id="Soundgarden">
+  <data key="d0">['grunge', 'heavy metal', 'alternative metal']</data>
+</node>
+<node id="Staind">
+  <data key="d0">['alternative metal']</data>
+</node>
+<node id="Starset">
+  <data key="d0">['alternative rock', 'electronic rock']</data>
+</node>
+<node id="Steely_Dan">
+  <data key="d0">["'aja", '2024']</data>
+</node>
+<node id="Sublime_with_Rome">
+  <data key="d0">['reggae rock', 'alternative rock', 'hip hop', 'dub', 'ska punk', 'punk rock']</data>
+</node>
+<node id="Sum_41">
+  <data key="d0">['pop-punk', 'skate punk', 'punk rock', 'alternative metal', 'melodic hardcore', 'alternative rock']</data>
+</node>
+<node id="Supertramp">
+  <data key="d0">['progressive pop', 'progressive rock', 'soft rock', 'pop']</data>
+</node>
+<node id="System_of_a_Down">
+  <data key="d0">['alternative metal', 'nu metal', 'hard rock', 'progressive metal']</data>
+</node>
+<node id="The_All-American_Rejects">
+  <data key="d0">['od', 'concerts', 'a', '20090203125725', 'http:', 'od', 'concerts', 'a']</data>
+</node>
+<node id="The_Beach_Boys">
+  <data key="d0">['rock', 'pop', 'surf', 'psychedelia']</data>
+</node>
+<node id="The_Black_Keys">
+  <data key="d0">['garage rock', 'blues rock']</data>
+</node>
+<node id="The_Boxtones">
+  <data key="d0">['rock']</data>
+</node>
+<node id="The_Cab">
+  <data key="d0">['alternative rock', 'pop punk']</data>
+</node>
+<node id="The_Cardigans">
+  <data key="d0">['alternative rock', 'pop rock', 'indie rock']</data>
+</node>
+<node id="The_Clash">
+  <data key="d0">['punk rock', 'new wave']</data>
+</node>
+<node id="The_Cranberries">
+  <data key="d0">['alternative rock', 'indie rock', 'pop rock', 'jangle pop', 'post-punk', 'dream pop']</data>
+</node>
+<node id="The_Everly_Brothers">
+  <data key="d0">['rock and roll', 'rockabilly', 'country rock', 'country']</data>
+</node>
+<node id="The_Flaming_Lips">
+  <data key="d0">['neo-psychedelia', 'experimental rock', 'alternative rock', 'indie rock', 'psychedelic rock']</data>
+</node>
+<node id="The_Fray">
+  <data key="d0">['music', 'interviews', '11618063', 'page-2', '20091213031048', 'http:', 'music', 'interviews', '11618063', 'page-2']</data>
+</node>
+<node id="The_Jesus_and_Mary_Chain">
+  <data key="d0">['music']</data>
+</node>
+<node id="The_Killers">
+  <data key="d0">['alternative rock', 'indie rock']</data>
+</node>
+<node id="The_Monkees">
+  <data key="d0">['style', '2021', '08', 'amp']</data>
+</node>
+<node id="The_Moody_Blues">
+  <data key="d0">['rockers', '20180101142903', 'https:']</data>
+</node>
+<node id="The_Outfield">
+  <data key="d0">['pop rock', 'article']</data>
+</node>
+<node id="The_Presidents_of_the_United_States_of_America__band_">
+  <data key="d0">['alternative rock', 'pop-punk', 'post-grunge']</data>
+</node>
+<node id="The_Pretenders">
+  <data key="d0">['pretenders-mn0000492331']</data>
+</node>
+<node id="The_Pretty_Reckless">
+  <data key="d0">['hard rock', 'alternative rock']</data>
+</node>
+<node id="The_Rolling_Stones">
+  <data key="d0">['rock', 'pop', 'blues']</data>
+</node>
+<node id="The_Script">
+  <data key="d0">['sites', 'hughmcintyre', '2017', '09', '08']</data>
+</node>
+<node id="The_Tragically_Hip">
+  <data key="d0">['alternative rock', 'roots rock', 'folk rock']</data>
+</node>
+<node id="The_Used">
+  <data key="d0">['emo', 'screamo']</data>
+</node>
+<node id="The_Verve">
+  <data key="d0">['neo-psychedelia']</data>
+</node>
+<node id="Thin_Lizzy">
+  <data key="d0">['hard rock', 'blues rock']</data>
+</node>
+<node id="Thirty_Seconds_to_Mars">
+  <data key="d0">['alternative rock']</data>
+</node>
+<node id="Three_Days_Grace">
+  <data key="d0">['post-grunge', 'hard rock']</data>
+</node>
+<node id="Three_Dog_Night">
+  <data key="d0">['details', 'details', 'rollingstoneency00holl', 'page', '990 990]']</data>
+</node>
+<node id="Tom_Petty_and_the_Heartbreakers">
+  <data key="d0">['rock', 'heartland rock']</data>
+</node>
+<node id="Toto__band_">
+  <data key="d0">['arena rock', 'pop rock', 'hard rock', 'jazz fusion', 'progressive rock']</data>
+</node>
+<node id="Traffic__band_">
+  <data key="d0">['details']</data>
+</node>
+<node id="Train__band_">
+  <data key="d0">['rock', 'alternative rock', 'pop rock', 'roots rock']</data>
+</node>
+<node id="Traveling_Wilburys">
+  <data key="d0">['rock']</data>
+</node>
+<node id="Travis__band_">
+  <data key="d0">['post-britpop', 'pop rock', 'alternative rock']</data>
+</node>
+<node id="Trivium__band_">
+  <data key="d0">['heavy metal', 'thrash metal', 'metalcore', 'progressive metal']</data>
+</node>
+<node id="Twenty_One_Pilots">
+  <data key="d0">['alternative rock', 'electropop', 'alternative hip-hop', 'pop rap']</data>
+</node>
+<node id="Twisted_Sister">
+  <data key="d0">['heavy metal', 'glam metal', 'hard rock', 'shock rock']</data>
+</node>
+<node id="Uriah_Heep__band_">
+  <data key="d0">['hard rock', 'progressive rock', 'heavy metal']</data>
+</node>
+<node id="Vampire_Weekend">
+  <data key="d0">['consequence.net', '2019', '05', '20210416083004', 'https:', 'consequence.net', '2019', '05']</data>
+</node>
+<node id="Velvet_Revolver">
+  <data key="d0">['hard rock', 'alternative metal']</data>
+</node>
+<node id="Volbeat">
+  <data key="d0">['heavy metal', 'hard rock', 'rockabilly', 'psychobilly']</data>
+</node>
+<node id="Warrant__American_band_">
+  <data key="d0">['warrant-mn0000193963', 'albums', 'reviews']</data>
+</node>
+<node id="Weezer">
+  <data key="d0">['alternative rock', 'power pop', 'pop rock', 'geek rock', 'pop-punk', 'emo']</data>
+</node>
+<node id="Whitesnake">
+  <data key="d0">['hard rock', 'blues rock', 'glam metal']</data>
+</node>
+<node id="White_Zombie__band_">
+  <data key="d0">['groove metal', 'industrial metal', 'alternative metal', 'noise rock (early)']</data>
+</node>
+<node id="W_A_S_P___band_">
+  <data key="d0">['news', '9y8tt7', '20220629182417', 'https:', 'news', '9y8tt7', '2016']</data>
+</node>
+<node id="Yes__band_">
+  <data key="d0">['progressive rock', 'art rock', 'symphonic rock', 'pop rock']</data>
+</node>
+<edge source="10cc" target="Queen__band_"/>
+<edge source="10cc" target="Duran_Duran"/>
+<edge source="10cc" target="The_Clash"/>
+<edge source="10cc" target="Jethro_Tull__band_"/>
+<edge source="10cc" target="Steely_Dan"/>
+<edge source="10cc" target="Toto__band_"/>
+<edge source="10cc" target="The_Moody_Blues"/>
+<edge source="311__band_" target="Yes__band_"/>
+<edge source="311__band_" target="Papa_Roach"/>
+<edge source="311__band_" target="Incubus__band_"/>
+<edge source="311__band_" target="Pink_Floyd"/>
+<edge source="311__band_" target="The_Rolling_Stones"/>
+<edge source="311__band_" target="Deftones"/>
+<edge source="311__band_" target="Sublime_with_Rome"/>
+<edge source="311__band_" target="The_Clash"/>
+<edge source="311__band_" target="Red_Hot_Chili_Peppers"/>
+<edge source="311__band_" target="Led_Zeppelin"/>
+<edge source="311__band_" target="Anthrax__American_band_"/>
+<edge source="311__band_" target="Awolnation"/>
+<edge source="311__band_" target="Korn"/>
+<edge source="38_Special__band_" target="Lynyrd_Skynyrd"/>
+<edge source="38_Special__band_" target="Journey__band_"/>
+<edge source="38_Special__band_" target="Huey_Lewis_and_the_News"/>
+<edge source="38_Special__band_" target="Bon_Jovi"/>
+<edge source="38_Special__band_" target="Jefferson_Starship"/>
+<edge source="38_Special__band_" target="Grand_Funk_Railroad"/>
+<edge source="3_Doors_Down" target="Lynyrd_Skynyrd"/>
+<edge source="3_Doors_Down" target="Puddle_of_Mudd"/>
+<edge source="3_Doors_Down" target="Daughtry__band_"/>
+<edge source="3_Doors_Down" target="Shinedown"/>
+<edge source="3_Doors_Down" target="Alter_Bridge"/>
+<edge source="3_Doors_Down" target="Staind"/>
+<edge source="3_Doors_Down" target="Hinder"/>
+<edge source="3_Doors_Down" target="Breaking_Benjamin"/>
+<edge source="3_Doors_Down" target="Collective_Soul"/>
+<edge source="3_Doors_Down" target="Creed__band_"/>
+<edge source="3_Doors_Down" target="Finger_Eleven"/>
+<edge source="3_Doors_Down" target="Pop_Evil"/>
+<edge source="3_Doors_Down" target="Seether"/>
+<edge source="3_Doors_Down" target="Train__band_"/>
+<edge source="Accept__band_" target="AC_DC"/>
+<edge source="Accept__band_" target="Judas_Priest"/>
+<edge source="Accept__band_" target="Metallica"/>
+<edge source="Accept__band_" target="Slayer"/>
+<edge source="Accept__band_" target="Iron_Maiden"/>
+<edge source="Accept__band_" target="Scorpions__band_"/>
+<edge source="Accept__band_" target="W_A_S_P___band_"/>
+<edge source="Accept__band_" target="Damn_Yankees__band_"/>
+<edge source="Accept__band_" target="Pantera"/>
+<edge source="Accept__band_" target="Anthrax__American_band_"/>
+<edge source="Accept__band_" target="Alice_in_Chains"/>
+<edge source="Accept__band_" target="Soundgarden"/>
+<edge source="Accept__band_" target="Quiet_Riot"/>
+<edge source="Accept__band_" target="Uriah_Heep__band_"/>
+<edge source="Accept__band_" target="Volbeat"/>
+<edge source="AC_DC" target="Aerosmith"/>
+<edge source="AC_DC" target="Cheap_Trick"/>
+<edge source="AC_DC" target="Dio__band_"/>
+<edge source="AC_DC" target="Thin_Lizzy"/>
+<edge source="AC_DC" target="Bon_Jovi"/>
+<edge source="AC_DC" target="Scorpions__band_"/>
+<edge source="AC_DC" target="Judas_Priest"/>
+<edge source="AC_DC" target="Metallica"/>
+<edge source="AC_DC" target="Slayer"/>
+<edge source="AC_DC" target="Alice_in_Chains"/>
+<edge source="AC_DC" target="Anthrax__American_band_"/>
+<edge source="AC_DC" target="Boston__band_"/>
+<edge source="AC_DC" target="Buckcherry"/>
+<edge source="AC_DC" target="Dropkick_Murphys"/>
+<edge source="AC_DC" target="Drowning_Pool"/>
+<edge source="AC_DC" target="Duran_Duran"/>
+<edge source="AC_DC" target="Foreigner__band_"/>
+<edge source="AC_DC" target="Hinder"/>
+<edge source="AC_DC" target="INXS"/>
+<edge source="AC_DC" target="Marilyn_Manson__band_"/>
+<edge source="AC_DC" target="Pantera"/>
+<edge source="AC_DC" target="The_Pretty_Reckless"/>
+<edge source="AC_DC" target="Puddle_of_Mudd"/>
+<edge source="AC_DC" target="Sum_41"/>
+<edge source="AC_DC" target="Twisted_Sister"/>
+<edge source="AC_DC" target="Volbeat"/>
+<edge source="AC_DC" target="White_Zombie__band_"/>
+<edge source="AC_DC" target="Whitesnake"/>
+<edge source="Aerosmith" target="Led_Zeppelin"/>
+<edge source="Aerosmith" target="Metallica"/>
+<edge source="Aerosmith" target="Train__band_"/>
+<edge source="Aerosmith" target="Papa_Roach"/>
+<edge source="Aerosmith" target="Limp_Bizkit"/>
+<edge source="Aerosmith" target="Cheap_Trick"/>
+<edge source="Aerosmith" target="Thin_Lizzy"/>
+<edge source="Aerosmith" target="Ratt"/>
+<edge source="Aerosmith" target="Cinderella__band_"/>
+<edge source="Aerosmith" target="Skid_Row__American_band_"/>
+<edge source="Aerosmith" target="Extreme__band_"/>
+<edge source="Aerosmith" target="Warrant__American_band_"/>
+<edge source="Aerosmith" target="Velvet_Revolver"/>
+<edge source="Aerosmith" target="Radiohead"/>
+<edge source="Aerosmith" target="Staind"/>
+<edge source="Aerosmith" target="Godsmack"/>
+<edge source="Aerosmith" target="Heart__band_"/>
+<edge source="Aerosmith" target="Boston__band_"/>
+<edge source="Aerosmith" target="Alice_in_Chains"/>
+<edge source="Aerosmith" target="Black_Veil_Brides"/>
+<edge source="Aerosmith" target="Collective_Soul"/>
+<edge source="Aerosmith" target="Dropkick_Murphys"/>
+<edge source="Aerosmith" target="Evanescence"/>
+<edge source="Aerosmith" target="Foreigner__band_"/>
+<edge source="Aerosmith" target="Hinder"/>
+<edge source="Aerosmith" target="Mötley_Crüe"/>
+<edge source="Aerosmith" target="Pantera"/>
+<edge source="Aerosmith" target="Slayer"/>
+<edge source="Aerosmith" target="Trivium__band_"/>
+<edge source="Aerosmith" target="Twisted_Sister"/>
+<edge source="Alice_in_Chains" target="Soundgarden"/>
+<edge source="Alice_in_Chains" target="Extreme__band_"/>
+<edge source="Alice_in_Chains" target="Anthrax__American_band_"/>
+<edge source="Alice_in_Chains" target="Slayer"/>
+<edge source="Alice_in_Chains" target="Heart__band_"/>
+<edge source="Alice_in_Chains" target="Metallica"/>
+<edge source="Alice_in_Chains" target="Lynyrd_Skynyrd"/>
+<edge source="Alice_in_Chains" target="Pink_Floyd"/>
+<edge source="Alice_in_Chains" target="Puddle_of_Mudd"/>
+<edge source="Alice_in_Chains" target="Pantera"/>
+<edge source="Alice_in_Chains" target="Velvet_Revolver"/>
+<edge source="Alice_in_Chains" target="Led_Zeppelin"/>
+<edge source="Alice_in_Chains" target="Lamb_of_God__band_"/>
+<edge source="Alice_in_Chains" target="Avenged_Sevenfold"/>
+<edge source="Alice_in_Chains" target="Deftones"/>
+<edge source="Alice_in_Chains" target="Korn"/>
+<edge source="Alice_in_Chains" target="Dio__band_"/>
+<edge source="Alice_in_Chains" target="Iron_Maiden"/>
+<edge source="Alice_in_Chains" target="Jethro_Tull__band_"/>
+<edge source="Alice_in_Chains" target="Queen__band_"/>
+<edge source="Alice_in_Chains" target="Scorpions__band_"/>
+<edge source="Alice_in_Chains" target="Thin_Lizzy"/>
+<edge source="Alice_in_Chains" target="Godsmack"/>
+<edge source="Alice_in_Chains" target="Staind"/>
+<edge source="Alice_in_Chains" target="Three_Days_Grace"/>
+<edge source="Alice_in_Chains" target="Breaking_Benjamin"/>
+<edge source="Alice_in_Chains" target="Creed__band_"/>
+<edge source="Alice_in_Chains" target="Disturbed__band_"/>
+<edge source="Alice_in_Chains" target="Hoobastank"/>
+<edge source="Alice_in_Chains" target="Incubus__band_"/>
+<edge source="Alice_in_Chains" target="Seether"/>
+<edge source="Alice_in_Chains" target="Blue_Öyster_Cult"/>
+<edge source="Alice_in_Chains" target="Drowning_Pool"/>
+<edge source="Alice_in_Chains" target="Evanescence"/>
+<edge source="Alice_in_Chains" target="Finger_Eleven"/>
+<edge source="Alice_in_Chains" target="Ghost__Swedish_band_"/>
+<edge source="Alice_in_Chains" target="Slipknot__band_"/>
+<edge source="Alice_in_Chains" target="System_of_a_Down"/>
+<edge source="Alter_Bridge" target="Creed__band_"/>
+<edge source="Alter_Bridge" target="Filter__band_"/>
+<edge source="Alter_Bridge" target="Fuel__band_"/>
+<edge source="Alter_Bridge" target="Velvet_Revolver"/>
+<edge source="Alter_Bridge" target="Godsmack"/>
+<edge source="Alter_Bridge" target="Halestorm"/>
+<edge source="Alter_Bridge" target="Shinedown"/>
+<edge source="Alter_Bridge" target="Disturbed__band_"/>
+<edge source="Alter_Bridge" target="Breaking_Benjamin"/>
+<edge source="Alter_Bridge" target="Volbeat"/>
+<edge source="Alter_Bridge" target="Led_Zeppelin"/>
+<edge source="Alter_Bridge" target="Pink_Floyd"/>
+<edge source="Alter_Bridge" target="Avenged_Sevenfold"/>
+<edge source="Alter_Bridge" target="Three_Days_Grace"/>
+<edge source="Alter_Bridge" target="Bon_Jovi"/>
+<edge source="Alter_Bridge" target="Skillet__band_"/>
+<edge source="Ambrosia__band_" target="Fleetwood_Mac"/>
+<edge source="Ambrosia__band_" target="Heart__band_"/>
+<edge source="Ambrosia__band_" target="Pink_Floyd"/>
+<edge source="Ambrosia__band_" target="Journey__band_"/>
+<edge source="Anthrax__American_band_" target="Metallica"/>
+<edge source="Anthrax__American_band_" target="Slayer"/>
+<edge source="Anthrax__American_band_" target="Judas_Priest"/>
+<edge source="Anthrax__American_band_" target="Iron_Maiden"/>
+<edge source="Anthrax__American_band_" target="White_Zombie__band_"/>
+<edge source="Anthrax__American_band_" target="Pantera"/>
+<edge source="Anthrax__American_band_" target="Evanescence"/>
+<edge source="Anthrax__American_band_" target="Slipknot__band_"/>
+<edge source="Anthrax__American_band_" target="Lamb_of_God__band_"/>
+<edge source="Anthrax__American_band_" target="Killswitch_Engage"/>
+<edge source="Anthrax__American_band_" target="Cheap_Trick"/>
+<edge source="Anthrax__American_band_" target="Queen__band_"/>
+<edge source="Anthrax__American_band_" target="Thin_Lizzy"/>
+<edge source="Anthrax__American_band_" target="Boston__band_"/>
+<edge source="Anthrax__American_band_" target="Journey__band_"/>
+<edge source="Anthrax__American_band_" target="Korn"/>
+<edge source="Anthrax__American_band_" target="Limp_Bizkit"/>
+<edge source="Anthrax__American_band_" target="Papa_Roach"/>
+<edge source="Anthrax__American_band_" target="Avenged_Sevenfold"/>
+<edge source="Anthrax__American_band_" target="Deftones"/>
+<edge source="Anthrax__American_band_" target="Drowning_Pool"/>
+<edge source="Anthrax__American_band_" target="Great_White"/>
+<edge source="Anthrax__American_band_" target="Motörhead"/>
+<edge source="Anthrax__American_band_" target="Primus__band_"/>
+<edge source="Anthrax__American_band_" target="Ratt"/>
+<edge source="Anthrax__American_band_" target="Sum_41"/>
+<edge source="Anthrax__American_band_" target="Twisted_Sister"/>
+<edge source="Anthrax__American_band_" target="Volbeat"/>
+<edge source="Anthrax__American_band_" target="W_A_S_P___band_"/>
+<edge source="April_Wine" target="Jethro_Tull__band_"/>
+<edge source="April_Wine" target="Heart__band_"/>
+<edge source="April_Wine" target="The_Rolling_Stones"/>
+<edge source="April_Wine" target="Journey__band_"/>
+<edge source="April_Wine" target="Toto__band_"/>
+<edge source="April_Wine" target="Boston__band_"/>
+<edge source="April_Wine" target="Loverboy"/>
+<edge source="April_Wine" target="Uriah_Heep__band_"/>
+<edge source="April_Wine" target="Foreigner__band_"/>
+<edge source="April_Wine" target="Yes__band_"/>
+<edge source="Arctic_Monkeys" target="Bring_Me_the_Horizon"/>
+<edge source="Arctic_Monkeys" target="Radiohead"/>
+<edge source="Arctic_Monkeys" target="Led_Zeppelin"/>
+<edge source="Arctic_Monkeys" target="The_Rolling_Stones"/>
+<edge source="Arctic_Monkeys" target="Metallica"/>
+<edge source="Arctic_Monkeys" target="Catfish_and_the_Bottlemen"/>
+<edge source="Arctic_Monkeys" target="The_Clash"/>
+<edge source="Arctic_Monkeys" target="Foals__band_"/>
+<edge source="Avenged_Sevenfold" target="Disturbed__band_"/>
+<edge source="Avenged_Sevenfold" target="System_of_a_Down"/>
+<edge source="Avenged_Sevenfold" target="Bullet_for_My_Valentine"/>
+<edge source="Avenged_Sevenfold" target="Pantera"/>
+<edge source="Avenged_Sevenfold" target="Iron_Maiden"/>
+<edge source="Avenged_Sevenfold" target="Three_Days_Grace"/>
+<edge source="Avenged_Sevenfold" target="Seether"/>
+<edge source="Avenged_Sevenfold" target="Black_Veil_Brides"/>
+<edge source="Avenged_Sevenfold" target="Metallica"/>
+<edge source="Avenged_Sevenfold" target="Cage_the_Elephant"/>
+<edge source="Avenged_Sevenfold" target="Led_Zeppelin"/>
+<edge source="Avenged_Sevenfold" target="Chevelle__band_"/>
+<edge source="Avenged_Sevenfold" target="Korn"/>
+<edge source="Avenged_Sevenfold" target="Staind"/>
+<edge source="Avenged_Sevenfold" target="Volbeat"/>
+<edge source="Avenged_Sevenfold" target="Trivium__band_"/>
+<edge source="Avenged_Sevenfold" target="Slayer"/>
+<edge source="Avenged_Sevenfold" target="Breaking_Benjamin"/>
+<edge source="Avenged_Sevenfold" target="Slipknot__band_"/>
+<edge source="Avenged_Sevenfold" target="Killswitch_Engage"/>
+<edge source="Avenged_Sevenfold" target="Ghost__Swedish_band_"/>
+<edge source="Avenged_Sevenfold" target="Good_Charlotte"/>
+<edge source="Avenged_Sevenfold" target="Halestorm"/>
+<edge source="Avenged_Sevenfold" target="Papa_Roach"/>
+<edge source="Awolnation" target="Red_Hot_Chili_Peppers"/>
+<edge source="Awolnation" target="Twenty_One_Pilots"/>
+<edge source="Awolnation" target="Scorpions__band_"/>
+<edge source="Awolnation" target="Incubus__band_"/>
+<edge source="Awolnation" target="Midnight_Oil"/>
+<edge source="Awolnation" target="Rise_Against"/>
+<edge source="A_Perfect_Circle" target="Evanescence"/>
+<edge source="A_Perfect_Circle" target="Our_Lady_Peace"/>
+<edge source="A_Perfect_Circle" target="Primus__band_"/>
+<edge source="A_Perfect_Circle" target="Marilyn_Manson__band_"/>
+<edge source="A_Perfect_Circle" target="Deftones"/>
+<edge source="A_Perfect_Circle" target="System_of_a_Down"/>
+<edge source="A_Perfect_Circle" target="Led_Zeppelin"/>
+<edge source="A_Perfect_Circle" target="Queen__band_"/>
+<edge source="A_Perfect_Circle" target="Weezer"/>
+<edge source="A_Perfect_Circle" target="Seether"/>
+<edge source="A_Perfect_Circle" target="Velvet_Revolver"/>
+<edge source="Bad_Company" target="Led_Zeppelin"/>
+<edge source="Bad_Company" target="Foreigner__band_"/>
+<edge source="Bad_Company" target="Uriah_Heep__band_"/>
+<edge source="Bad_Company" target="Damn_Yankees__band_"/>
+<edge source="Bad_Company" target="Lynyrd_Skynyrd"/>
+<edge source="Bad_Company" target="Bon_Jovi"/>
+<edge source="Bad_Company" target="Journey__band_"/>
+<edge source="Bad_Company" target="Heart__band_"/>
+<edge source="Bad_Company" target="The_Pretty_Reckless"/>
+<edge source="Bad_Company" target="Puddle_of_Mudd"/>
+<edge source="Bad_Company" target="Queen__band_"/>
+<edge source="Bad_Company" target="Velvet_Revolver"/>
+<edge source="Barenaked_Ladies" target="Genesis__band_"/>
+<edge source="Barenaked_Ladies" target="Gin_Blossoms"/>
+<edge source="Barenaked_Ladies" target="Steely_Dan"/>
+<edge source="Barenaked_Ladies" target="Dave_Matthews_Band"/>
+<edge source="Barenaked_Ladies" target="Ben_Folds_Five"/>
+<edge source="Barenaked_Ladies" target="Duran_Duran"/>
+<edge source="Barenaked_Ladies" target="The_Tragically_Hip"/>
+<edge source="Barenaked_Ladies" target="Train__band_"/>
+<edge source="Bee_Gees" target="The_Rolling_Stones"/>
+<edge source="Bee_Gees" target="Blondie__band_"/>
+<edge source="Bee_Gees" target="Duran_Duran"/>
+<edge source="Bee_Gees" target="The_Everly_Brothers"/>
+<edge source="Bee_Gees" target="Genesis__band_"/>
+<edge source="Bee_Gees" target="INXS"/>
+<edge source="Bee_Gees" target="Queen__band_"/>
+<edge source="Ben_Folds_Five" target="Steely_Dan"/>
+<edge source="Ben_Folds_Five" target="The_Flaming_Lips"/>
+<edge source="Billy_Talent" target="Rise_Against"/>
+<edge source="Billy_Talent" target="Incubus__band_"/>
+<edge source="Billy_Talent" target="Soundgarden"/>
+<edge source="Billy_Talent" target="Red_Hot_Chili_Peppers"/>
+<edge source="Billy_Talent" target="Blink-182"/>
+<edge source="Billy_Talent" target="Paramore"/>
+<edge source="Billy_Talent" target="Weezer"/>
+<edge source="Billy_Talent" target="Sum_41"/>
+<edge source="Billy_Talent" target="The_Tragically_Hip"/>
+<edge source="Billy_Talent" target="Our_Lady_Peace"/>
+<edge source="Billy_Talent" target="Thirty_Seconds_to_Mars"/>
+<edge source="Black_Veil_Brides" target="Metallica"/>
+<edge source="Black_Veil_Brides" target="Marilyn_Manson__band_"/>
+<edge source="Black_Veil_Brides" target="Pantera"/>
+<edge source="Black_Veil_Brides" target="W_A_S_P___band_"/>
+<edge source="Black_Veil_Brides" target="Slipknot__band_"/>
+<edge source="Black_Veil_Brides" target="Dropkick_Murphys"/>
+<edge source="Black_Veil_Brides" target="Queen__band_"/>
+<edge source="Black_Veil_Brides" target="Twisted_Sister"/>
+<edge source="Black_Veil_Brides" target="Skid_Row__American_band_"/>
+<edge source="Black_Veil_Brides" target="Rise_Against"/>
+<edge source="Black_Veil_Brides" target="Bullet_for_My_Valentine"/>
+<edge source="Black_Veil_Brides" target="Halestorm"/>
+<edge source="Black_Veil_Brides" target="Simple_Plan"/>
+<edge source="Blink-182" target="The_All-American_Rejects"/>
+<edge source="Blink-182" target="Metallica"/>
+<edge source="Blink-182" target="Paramore"/>
+<edge source="Blink-182" target="Radiohead"/>
+<edge source="Blink-182" target="Good_Charlotte"/>
+<edge source="Blink-182" target="Simple_Plan"/>
+<edge source="Blink-182" target="No_Doubt"/>
+<edge source="Blink-182" target="Bowling_for_Soup"/>
+<edge source="Blink-182" target="Boys_Like_Girls"/>
+<edge source="Blink-182" target="The_Cab"/>
+<edge source="Blink-182" target="Limp_Bizkit"/>
+<edge source="Blink-182" target="Primus__band_"/>
+<edge source="Blink-182" target="Trivium__band_"/>
+<edge source="Blink-182" target="Weezer"/>
+<edge source="Blondie__band_" target="Garbage__band_"/>
+<edge source="Blondie__band_" target="No_Doubt"/>
+<edge source="Blondie__band_" target="Sex_Pistols"/>
+<edge source="Blondie__band_" target="The_Pretenders"/>
+<edge source="Blondie__band_" target="Cheap_Trick"/>
+<edge source="Blondie__band_" target="Duran_Duran"/>
+<edge source="Blondie__band_" target="Franz_Ferdinand__band_"/>
+<edge source="Blondie__band_" target="Lynyrd_Skynyrd"/>
+<edge source="Blondie__band_" target="Paramore"/>
+<edge source="Bloodhound_Gang" target="Bowling_for_Soup"/>
+<edge source="Blue_Öyster_Cult" target="Cheap_Trick"/>
+<edge source="Blue_Öyster_Cult" target="Quiet_Riot"/>
+<edge source="Blue_Öyster_Cult" target="Whitesnake"/>
+<edge source="Blue_Öyster_Cult" target="Dio__band_"/>
+<edge source="Blue_Öyster_Cult" target="Grateful_Dead"/>
+<edge source="Blue_Öyster_Cult" target="Iron_Maiden"/>
+<edge source="Blue_Öyster_Cult" target="Metallica"/>
+<edge source="Blue_Öyster_Cult" target="Twisted_Sister"/>
+<edge source="Blue_Öyster_Cult" target="Ratt"/>
+<edge source="Blue_Öyster_Cult" target="White_Zombie__band_"/>
+<edge source="Blur__band_" target="The_Verve"/>
+<edge source="Blur__band_" target="Led_Zeppelin"/>
+<edge source="Blur__band_" target="Pink_Floyd"/>
+<edge source="Blur__band_" target="The_Boxtones"/>
+<edge source="Blur__band_" target="Franz_Ferdinand__band_"/>
+<edge source="Blur__band_" target="The_Jesus_and_Mary_Chain"/>
+<edge source="Bon_Jovi" target="Skid_Row__American_band_"/>
+<edge source="Bon_Jovi" target="Led_Zeppelin"/>
+<edge source="Bon_Jovi" target="Scorpions__band_"/>
+<edge source="Bon_Jovi" target="Ratt"/>
+<edge source="Bon_Jovi" target="The_Rolling_Stones"/>
+<edge source="Bon_Jovi" target="Cinderella__band_"/>
+<edge source="Bon_Jovi" target="Dashboard_Confessional"/>
+<edge source="Bon_Jovi" target="Daughtry__band_"/>
+<edge source="Bon_Jovi" target="Europe__band_"/>
+<edge source="Bon_Jovi" target="Great_White"/>
+<edge source="Bon_Jovi" target="Hinder"/>
+<edge source="Bon_Jovi" target="Metallica"/>
+<edge source="Bon_Jovi" target="Mötley_Crüe"/>
+<edge source="Bon_Jovi" target="Train__band_"/>
+<edge source="Boston__band_" target="Extreme__band_"/>
+<edge source="Boston__band_" target="Godsmack"/>
+<edge source="Boston__band_" target="Journey__band_"/>
+<edge source="Bowling_for_Soup" target="Quiet_Riot"/>
+<edge source="Bowling_for_Soup" target="Ratt"/>
+<edge source="Bowling_for_Soup" target="Simple_Plan"/>
+<edge source="Bowling_for_Soup" target="Sum_41"/>
+<edge source="Boys_Like_Girls" target="The_All-American_Rejects"/>
+<edge source="Boys_Like_Girls" target="Good_Charlotte"/>
+<edge source="Boys_Like_Girls" target="Hoobastank"/>
+<edge source="Boys_Like_Girls" target="Simple_Plan"/>
+<edge source="Boys_Like_Girls" target="Dashboard_Confessional"/>
+<edge source="Boys_Like_Girls" target="The_Cab"/>
+<edge source="Boys_Like_Girls" target="Daughtry__band_"/>
+<edge source="Breaking_Benjamin" target="Weezer"/>
+<edge source="Breaking_Benjamin" target="Godsmack"/>
+<edge source="Breaking_Benjamin" target="Evanescence"/>
+<edge source="Breaking_Benjamin" target="Seether"/>
+<edge source="Breaking_Benjamin" target="Three_Days_Grace"/>
+<edge source="Breaking_Benjamin" target="Staind"/>
+<edge source="Breaking_Benjamin" target="Puddle_of_Mudd"/>
+<edge source="Breaking_Benjamin" target="Skillet__band_"/>
+<edge source="Breaking_Benjamin" target="Chevelle__band_"/>
+<edge source="Breaking_Benjamin" target="Shinedown"/>
+<edge source="Breaking_Benjamin" target="Starset"/>
+<edge source="Breaking_Benjamin" target="Korn"/>
+<edge source="Breaking_Benjamin" target="Papa_Roach"/>
+<edge source="Breaking_Benjamin" target="Disturbed__band_"/>
+<edge source="Breaking_Benjamin" target="Daughtry__band_"/>
+<edge source="Breaking_Benjamin" target="Filter__band_"/>
+<edge source="Breaking_Benjamin" target="Live__band_"/>
+<edge source="Breaking_Benjamin" target="Hinder"/>
+<edge source="Breaking_Benjamin" target="Paramore"/>
+<edge source="Bring_Me_the_Horizon" target="Metallica"/>
+<edge source="Bring_Me_the_Horizon" target="Killswitch_Engage"/>
+<edge source="Bring_Me_the_Horizon" target="Bullet_for_My_Valentine"/>
+<edge source="Bring_Me_the_Horizon" target="Rise_Against"/>
+<edge source="Bring_Me_the_Horizon" target="Pantera"/>
+<edge source="Bring_Me_the_Horizon" target="Slipknot__band_"/>
+<edge source="Bring_Me_the_Horizon" target="Radiohead"/>
+<edge source="Bring_Me_the_Horizon" target="Twenty_One_Pilots"/>
+<edge source="Bring_Me_the_Horizon" target="Deftones"/>
+<edge source="Bring_Me_the_Horizon" target="Three_Days_Grace"/>
+<edge source="Buckcherry" target="Soundgarden"/>
+<edge source="Buckcherry" target="Pantera"/>
+<edge source="Buckcherry" target="Deftones"/>
+<edge source="Buckcherry" target="Velvet_Revolver"/>
+<edge source="Buckcherry" target="Papa_Roach"/>
+<edge source="Buckcherry" target="Limp_Bizkit"/>
+<edge source="Buckcherry" target="Mötley_Crüe"/>
+<edge source="Buckcherry" target="Skillet__band_"/>
+<edge source="Buckcherry" target="Three_Days_Grace"/>
+<edge source="Bullet_for_My_Valentine" target="Metallica"/>
+<edge source="Bullet_for_My_Valentine" target="Iron_Maiden"/>
+<edge source="Bullet_for_My_Valentine" target="Slayer"/>
+<edge source="Bullet_for_My_Valentine" target="Killswitch_Engage"/>
+<edge source="Bullet_for_My_Valentine" target="Marilyn_Manson__band_"/>
+<edge source="Bullet_for_My_Valentine" target="Pantera"/>
+<edge source="Bullet_for_My_Valentine" target="Slipknot__band_"/>
+<edge source="Bullet_for_My_Valentine" target="Seether"/>
+<edge source="Bullet_for_My_Valentine" target="Deftones"/>
+<edge source="Bullet_for_My_Valentine" target="Trivium__band_"/>
+<edge source="Bullet_for_My_Valentine" target="Korn"/>
+<edge source="Bullet_for_My_Valentine" target="Limp_Bizkit"/>
+<edge source="Bullet_for_My_Valentine" target="Judas_Priest"/>
+<edge source="Bullet_for_My_Valentine" target="Queen__band_"/>
+<edge source="Bullet_for_My_Valentine" target="Led_Zeppelin"/>
+<edge source="Bullet_for_My_Valentine" target="Dire_Straits"/>
+<edge source="Bullet_for_My_Valentine" target="Halestorm"/>
+<edge source="Cage_the_Elephant" target="The_Black_Keys"/>
+<edge source="Cage_the_Elephant" target="Foals__band_"/>
+<edge source="Cage_the_Elephant" target="Metallica"/>
+<edge source="Cage_the_Elephant" target="The_Rolling_Stones"/>
+<edge source="Cage_the_Elephant" target="Dave_Matthews_Band"/>
+<edge source="Catfish_and_the_Bottlemen" target="Highly_Suspect"/>
+<edge source="Cheap_Trick" target="Led_Zeppelin"/>
+<edge source="Cheap_Trick" target="Live__band_"/>
+<edge source="Cheap_Trick" target="Heart__band_"/>
+<edge source="Cheap_Trick" target="Loverboy"/>
+<edge source="Cheap_Trick" target="Lynyrd_Skynyrd"/>
+<edge source="Cheap_Trick" target="Simple_Plan"/>
+<edge source="Cheap_Trick" target="Weezer"/>
+<edge source="Chevelle__band_" target="Filter__band_"/>
+<edge source="Chevelle__band_" target="Disturbed__band_"/>
+<edge source="Chevelle__band_" target="Thirty_Seconds_to_Mars"/>
+<edge source="Chevelle__band_" target="Evanescence"/>
+<edge source="Chevelle__band_" target="Finger_Eleven"/>
+<edge source="Chevelle__band_" target="Halestorm"/>
+<edge source="Chevelle__band_" target="Staind"/>
+<edge source="Chevelle__band_" target="Shinedown"/>
+<edge source="Chevelle__band_" target="Three_Days_Grace"/>
+<edge source="Chevelle__band_" target="Highly_Suspect"/>
+<edge source="Chevelle__band_" target="Limp_Bizkit"/>
+<edge source="Cinderella__band_" target="Scorpions__band_"/>
+<edge source="Cinderella__band_" target="Skid_Row__American_band_"/>
+<edge source="Cinderella__band_" target="Lynyrd_Skynyrd"/>
+<edge source="Cinderella__band_" target="Ratt"/>
+<edge source="Cinderella__band_" target="Quiet_Riot"/>
+<edge source="Cinderella__band_" target="Warrant__American_band_"/>
+<edge source="Collective_Soul" target="Duran_Duran"/>
+<edge source="Collective_Soul" target="Gin_Blossoms"/>
+<edge source="Collective_Soul" target="Hinder"/>
+<edge source="Collective_Soul" target="Live__band_"/>
+<edge source="Collective_Soul" target="Three_Days_Grace"/>
+<edge source="Counting_Crows" target="Midnight_Oil"/>
+<edge source="Counting_Crows" target="Live__band_"/>
+<edge source="Counting_Crows" target="Thin_Lizzy"/>
+<edge source="Counting_Crows" target="Santana__band_"/>
+<edge source="Counting_Crows" target="Dashboard_Confessional"/>
+<edge source="Counting_Crows" target="Everclear__band_"/>
+<edge source="Counting_Crows" target="The_Fray"/>
+<edge source="Counting_Crows" target="Train__band_"/>
+<edge source="Creedence_Clearwater_Revival" target="Grateful_Dead"/>
+<edge source="Creedence_Clearwater_Revival" target="Midnight_Oil"/>
+<edge source="Creed__band_" target="Live__band_"/>
+<edge source="Creed__band_" target="Skillet__band_"/>
+<edge source="Creed__band_" target="Finger_Eleven"/>
+<edge source="Creed__band_" target="Daughtry__band_"/>
+<edge source="Creed__band_" target="Led_Zeppelin"/>
+<edge source="Creed__band_" target="Slayer"/>
+<edge source="Creed__band_" target="Metallica"/>
+<edge source="Creed__band_" target="Disturbed__band_"/>
+<edge source="Creed__band_" target="Hinder"/>
+<edge source="Creed__band_" target="Hoobastank"/>
+<edge source="Creed__band_" target="Limp_Bizkit"/>
+<edge source="Creed__band_" target="Paramore"/>
+<edge source="Creed__band_" target="Staind"/>
+<edge source="Damn_Yankees__band_" target="Lynyrd_Skynyrd"/>
+<edge source="Dashboard_Confessional" target="The_Black_Keys"/>
+<edge source="Dashboard_Confessional" target="The_Cab"/>
+<edge source="Dashboard_Confessional" target="Weezer"/>
+<edge source="Dashboard_Confessional" target="Trivium__band_"/>
+<edge source="Dashboard_Confessional" target="Twenty_One_Pilots"/>
+<edge source="Daughtry__band_" target="Fuel__band_"/>
+<edge source="Daughtry__band_" target="Live__band_"/>
+<edge source="Daughtry__band_" target="Seether"/>
+<edge source="Daughtry__band_" target="Shinedown"/>
+<edge source="Daughtry__band_" target="Three_Days_Grace"/>
+<edge source="Daughtry__band_" target="Foreigner__band_"/>
+<edge source="Daughtry__band_" target="Journey__band_"/>
+<edge source="Daughtry__band_" target="Halestorm"/>
+<edge source="Daughtry__band_" target="Puddle_of_Mudd"/>
+<edge source="Daughtry__band_" target="Finger_Eleven"/>
+<edge source="Daughtry__band_" target="Staind"/>
+<edge source="Daughtry__band_" target="Disturbed__band_"/>
+<edge source="Daughtry__band_" target="Hinder"/>
+<edge source="Daughtry__band_" target="Papa_Roach"/>
+<edge source="Dave_Matthews_Band" target="The_Flaming_Lips"/>
+<edge source="Dave_Matthews_Band" target="Grateful_Dead"/>
+<edge source="Dave_Matthews_Band" target="Disturbed__band_"/>
+<edge source="Dave_Matthews_Band" target="Limp_Bizkit"/>
+<edge source="Death_Cab_for_Cutie" target="Modest_Mouse"/>
+<edge source="Death_Cab_for_Cutie" target="The_Jesus_and_Mary_Chain"/>
+<edge source="Death_Cab_for_Cutie" target="Paramore"/>
+<edge source="Deftones" target="Radiohead"/>
+<edge source="Deftones" target="Metallica"/>
+<edge source="Deftones" target="Korn"/>
+<edge source="Deftones" target="Staind"/>
+<edge source="Deftones" target="System_of_a_Down"/>
+<edge source="Deftones" target="Slipknot__band_"/>
+<edge source="Deftones" target="Weezer"/>
+<edge source="Deftones" target="Primus__band_"/>
+<edge source="Deftones" target="Duran_Duran"/>
+<edge source="Deftones" target="Paramore"/>
+<edge source="Deftones" target="Evanescence"/>
+<edge source="Deftones" target="Filter__band_"/>
+<edge source="Deftones" target="Ghost__Swedish_band_"/>
+<edge source="Deftones" target="Highly_Suspect"/>
+<edge source="Deftones" target="Incubus__band_"/>
+<edge source="Deftones" target="Limp_Bizkit"/>
+<edge source="Deftones" target="Our_Lady_Peace"/>
+<edge source="Deftones" target="Puddle_of_Mudd"/>
+<edge source="Deftones" target="Seether"/>
+<edge source="Deftones" target="Starset"/>
+<edge source="Deftones" target="Sublime_with_Rome"/>
+<edge source="Dio__band_" target="Whitesnake"/>
+<edge source="Dio__band_" target="Ratt"/>
+<edge source="Dio__band_" target="Metallica"/>
+<edge source="Dio__band_" target="Foreigner__band_"/>
+<edge source="Dio__band_" target="Quiet_Riot"/>
+<edge source="Dio__band_" target="Judas_Priest"/>
+<edge source="Dio__band_" target="Halestorm"/>
+<edge source="Dio__band_" target="Killswitch_Engage"/>
+<edge source="Dio__band_" target="Motörhead"/>
+<edge source="Dio__band_" target="Sum_41"/>
+<edge source="Dio__band_" target="Trivium__band_"/>
+<edge source="Dio__band_" target="Uriah_Heep__band_"/>
+<edge source="Dio__band_" target="Volbeat"/>
+<edge source="Dire_Straits" target="Toto__band_"/>
+<edge source="Dire_Straits" target="Tom_Petty_and_the_Heartbreakers"/>
+<edge source="Dire_Straits" target="The_Everly_Brothers"/>
+<edge source="Dire_Straits" target="Jethro_Tull__band_"/>
+<edge source="Dire_Straits" target="The_Killers"/>
+<edge source="Dire_Straits" target="Steely_Dan"/>
+<edge source="Dire_Straits" target="Traveling_Wilburys"/>
+<edge source="Disturbed__band_" target="Slipknot__band_"/>
+<edge source="Disturbed__band_" target="Godsmack"/>
+<edge source="Disturbed__band_" target="Marilyn_Manson__band_"/>
+<edge source="Disturbed__band_" target="Korn"/>
+<edge source="Disturbed__band_" target="System_of_a_Down"/>
+<edge source="Disturbed__band_" target="Killswitch_Engage"/>
+<edge source="Disturbed__band_" target="The_Used"/>
+<edge source="Disturbed__band_" target="Judas_Priest"/>
+<edge source="Disturbed__band_" target="Metallica"/>
+<edge source="Disturbed__band_" target="Halestorm"/>
+<edge source="Disturbed__band_" target="Incubus__band_"/>
+<edge source="Disturbed__band_" target="Pop_Evil"/>
+<edge source="Disturbed__band_" target="Staind"/>
+<edge source="Disturbed__band_" target="Heart__band_"/>
+<edge source="Disturbed__band_" target="Three_Days_Grace"/>
+<edge source="Disturbed__band_" target="Iron_Maiden"/>
+<edge source="Disturbed__band_" target="Pantera"/>
+<edge source="Disturbed__band_" target="Soundgarden"/>
+<edge source="Disturbed__band_" target="Papa_Roach"/>
+<edge source="Disturbed__band_" target="Trivium__band_"/>
+<edge source="Dropkick_Murphys" target="The_Clash"/>
+<edge source="Dropkick_Murphys" target="Sex_Pistols"/>
+<edge source="Dropkick_Murphys" target="Flogging_Molly"/>
+<edge source="Drowning_Pool" target="Seether"/>
+<edge source="Drowning_Pool" target="Saving_Abel"/>
+<edge source="Drowning_Pool" target="Fuel__band_"/>
+<edge source="Drowning_Pool" target="Metallica"/>
+<edge source="Drowning_Pool" target="Slipknot__band_"/>
+<edge source="Drowning_Pool" target="Soundgarden"/>
+<edge source="Drowning_Pool" target="Slayer"/>
+<edge source="Drowning_Pool" target="Led_Zeppelin"/>
+<edge source="Drowning_Pool" target="Judas_Priest"/>
+<edge source="Drowning_Pool" target="Iron_Maiden"/>
+<edge source="Drowning_Pool" target="Pantera"/>
+<edge source="Drowning_Pool" target="Mötley_Crüe"/>
+<edge source="Drowning_Pool" target="Pop_Evil"/>
+<edge source="Drowning_Pool" target="Puddle_of_Mudd"/>
+<edge source="Duran_Duran" target="The_Cranberries"/>
+<edge source="Duran_Duran" target="Queen__band_"/>
+<edge source="Duran_Duran" target="Pink_Floyd"/>
+<edge source="Duran_Duran" target="Led_Zeppelin"/>
+<edge source="Duran_Duran" target="Red_Hot_Chili_Peppers"/>
+<edge source="Duran_Duran" target="Sex_Pistols"/>
+<edge source="Duran_Duran" target="Korn"/>
+<edge source="Duran_Duran" target="Franz_Ferdinand__band_"/>
+<edge source="Duran_Duran" target="Incubus__band_"/>
+<edge source="Duran_Duran" target="The_Killers"/>
+<edge source="Duran_Duran" target="Midnight_Oil"/>
+<edge source="Europe__band_" target="The_Boxtones"/>
+<edge source="Europe__band_" target="Journey__band_"/>
+<edge source="Europe__band_" target="Skid_Row__American_band_"/>
+<edge source="Europe__band_" target="Soundgarden"/>
+<edge source="Europe__band_" target="Metallica"/>
+<edge source="Europe__band_" target="Pink_Floyd"/>
+<edge source="Europe__band_" target="Led_Zeppelin"/>
+<edge source="Europe__band_" target="Thin_Lizzy"/>
+<edge source="Europe__band_" target="Whitesnake"/>
+<edge source="Europe__band_" target="Foreigner__band_"/>
+<edge source="Evanescence" target="Korn"/>
+<edge source="Evanescence" target="Finger_Eleven"/>
+<edge source="Evanescence" target="Velvet_Revolver"/>
+<edge source="Evanescence" target="Seether"/>
+<edge source="Evanescence" target="System_of_a_Down"/>
+<edge source="Evanescence" target="The_Pretty_Reckless"/>
+<edge source="Evanescence" target="Halestorm"/>
+<edge source="Evanescence" target="Fleetwood_Mac"/>
+<edge source="Evanescence" target="Soundgarden"/>
+<edge source="Evanescence" target="Pantera"/>
+<edge source="Evanescence" target="Garbage__band_"/>
+<edge source="Evanescence" target="Godsmack"/>
+<edge source="Evanescence" target="Three_Days_Grace"/>
+<edge source="Everclear__band_" target="Sonic_Youth"/>
+<edge source="Everclear__band_" target="Godsmack"/>
+<edge source="Everclear__band_" target="Fuel__band_"/>
+<edge source="Everclear__band_" target="Gin_Blossoms"/>
+<edge source="Everclear__band_" target="Live__band_"/>
+<edge source="Everclear__band_" target="Filter__band_"/>
+<edge source="Everclear__band_" target="White_Zombie__band_"/>
+<edge source="Extreme__band_" target="Queen__band_"/>
+<edge source="Extreme__band_" target="Ratt"/>
+<edge source="Extreme__band_" target="Red_Hot_Chili_Peppers"/>
+<edge source="Filter__band_" target="Korn"/>
+<edge source="Filter__band_" target="Thirty_Seconds_to_Mars"/>
+<edge source="Filter__band_" target="Pantera"/>
+<edge source="Filter__band_" target="Soundgarden"/>
+<edge source="Filter__band_" target="Fuel__band_"/>
+<edge source="Filter__band_" target="Limp_Bizkit"/>
+<edge source="Filter__band_" target="Live__band_"/>
+<edge source="Filter__band_" target="White_Zombie__band_"/>
+<edge source="Finger_Eleven" target="Our_Lady_Peace"/>
+<edge source="Finger_Eleven" target="Fuel__band_"/>
+<edge source="Finger_Eleven" target="The_Tragically_Hip"/>
+<edge source="Finger_Eleven" target="Seether"/>
+<edge source="Finger_Eleven" target="Papa_Roach"/>
+<edge source="Finger_Eleven" target="Three_Days_Grace"/>
+<edge source="Finger_Eleven" target="Staind"/>
+<edge source="Finger_Eleven" target="Pop_Evil"/>
+<edge source="Finger_Eleven" target="Sum_41"/>
+<edge source="Fleetwood_Mac" target="The_Beach_Boys"/>
+<edge source="Fleetwood_Mac" target="Tom_Petty_and_the_Heartbreakers"/>
+<edge source="Fleetwood_Mac" target="Santana__band_"/>
+<edge source="Fleetwood_Mac" target="Manfred_Mann_Chapter_Three"/>
+<edge source="Fleetwood_Mac" target="Traffic__band_"/>
+<edge source="Fleetwood_Mac" target="The_Rolling_Stones"/>
+<edge source="Fleetwood_Mac" target="Live__band_"/>
+<edge source="Fleetwood_Mac" target="Men_at_Work"/>
+<edge source="Fleetwood_Mac" target="Vampire_Weekend"/>
+<edge source="Fleetwood_Mac" target="Whitesnake"/>
+<edge source="Flogging_Molly" target="Weezer"/>
+<edge source="Flogging_Molly" target="The_All-American_Rejects"/>
+<edge source="Flogging_Molly" target="The_Clash"/>
+<edge source="Flogging_Molly" target="Rise_Against"/>
+<edge source="Foals__band_" target="Radiohead"/>
+<edge source="Foals__band_" target="Paramore"/>
+<edge source="Foreigner__band_" target="Journey__band_"/>
+<edge source="Foreigner__band_" target="Heart__band_"/>
+<edge source="Foreigner__band_" target="Led_Zeppelin"/>
+<edge source="Foreigner__band_" target="The_Outfield"/>
+<edge source="Foreigner__band_" target="Train__band_"/>
+<edge source="Foreigner__band_" target="Whitesnake"/>
+<edge source="Foster_the_People" target="The_Beach_Boys"/>
+<edge source="Foster_the_People" target="Imagine_Dragons"/>
+<edge source="Franz_Ferdinand__band_" target="The_Cardigans"/>
+<edge source="Franz_Ferdinand__band_" target="The_Rolling_Stones"/>
+<edge source="Franz_Ferdinand__band_" target="Sex_Pistols"/>
+<edge source="Franz_Ferdinand__band_" target="Travis__band_"/>
+<edge source="Fuel__band_" target="Shinedown"/>
+<edge source="Fuel__band_" target="Godsmack"/>
+<edge source="Fuel__band_" target="Volbeat"/>
+<edge source="Fuel__band_" target="Puddle_of_Mudd"/>
+<edge source="Fuel__band_" target="Saving_Abel"/>
+<edge source="Fun__band_" target="Paramore"/>
+<edge source="Fun__band_" target="Queen__band_"/>
+<edge source="Garbage__band_" target="Live__band_"/>
+<edge source="Garbage__band_" target="The_Pretenders"/>
+<edge source="Garbage__band_" target="Marilyn_Manson__band_"/>
+<edge source="Garbage__band_" target="Midnight_Oil"/>
+<edge source="Garbage__band_" target="Our_Lady_Peace"/>
+<edge source="Genesis__band_" target="Mike_and_the_Mechanics"/>
+<edge source="Genesis__band_" target="Queen__band_"/>
+<edge source="Genesis__band_" target="Pink_Floyd"/>
+<edge source="Genesis__band_" target="Iron_Maiden"/>
+<edge source="Genesis__band_" target="Jethro_Tull__band_"/>
+<edge source="Genesis__band_" target="Simple_Minds"/>
+<edge source="Genesis__band_" target="Ghost__Swedish_band_"/>
+<edge source="Genesis__band_" target="Heart__band_"/>
+<edge source="Genesis__band_" target="The_Moody_Blues"/>
+<edge source="Ghost__Swedish_band_" target="Trivium__band_"/>
+<edge source="Ghost__Swedish_band_" target="Iron_Maiden"/>
+<edge source="Ghost__Swedish_band_" target="Slayer"/>
+<edge source="Ghost__Swedish_band_" target="Metallica"/>
+<edge source="Ghost__Swedish_band_" target="The_Rolling_Stones"/>
+<edge source="Ghost__Swedish_band_" target="Volbeat"/>
+<edge source="Ghost__Swedish_band_" target="Judas_Priest"/>
+<edge source="Ghost__Swedish_band_" target="Pink_Floyd"/>
+<edge source="Ghost__Swedish_band_" target="Uriah_Heep__band_"/>
+<edge source="Gin_Blossoms" target="Smash_Mouth"/>
+<edge source="Godsmack" target="Limp_Bizkit"/>
+<edge source="Godsmack" target="Metallica"/>
+<edge source="Godsmack" target="Led_Zeppelin"/>
+<edge source="Godsmack" target="Staind"/>
+<edge source="Godsmack" target="Pantera"/>
+<edge source="Godsmack" target="Judas_Priest"/>
+<edge source="Godsmack" target="Mötley_Crüe"/>
+<edge source="Godsmack" target="Papa_Roach"/>
+<edge source="Godsmack" target="Puddle_of_Mudd"/>
+<edge source="Godsmack" target="Shinedown"/>
+<edge source="Godsmack" target="Skillet__band_"/>
+<edge source="Godsmack" target="Three_Days_Grace"/>
+<edge source="Good_Charlotte" target="Sum_41"/>
+<edge source="Good_Charlotte" target="The_Clash"/>
+<edge source="Good_Charlotte" target="No_Doubt"/>
+<edge source="Good_Charlotte" target="Simple_Plan"/>
+<edge source="Good_Charlotte" target="Sex_Pistols"/>
+<edge source="Good_Charlotte" target="The_Used"/>
+<edge source="Grand_Funk_Railroad" target="The_Beach_Boys"/>
+<edge source="Grand_Funk_Railroad" target="Twisted_Sister"/>
+<edge source="Grateful_Dead" target="The_Beach_Boys"/>
+<edge source="Grateful_Dead" target="Pink_Floyd"/>
+<edge source="Grateful_Dead" target="Jefferson_Starship"/>
+<edge source="Grateful_Dead" target="Santana__band_"/>
+<edge source="Grateful_Dead" target="System_of_a_Down"/>
+<edge source="Grateful_Dead" target="Traffic__band_"/>
+<edge source="Grateful_Dead" target="Vampire_Weekend"/>
+<edge source="Great_White" target="W_A_S_P___band_"/>
+<edge source="Great_White" target="Whitesnake"/>
+<edge source="Great_White" target="Judas_Priest"/>
+<edge source="Great_White" target="Twisted_Sister"/>
+<edge source="Great_White" target="Iron_Maiden"/>
+<edge source="Great_White" target="Warrant__American_band_"/>
+<edge source="Great_White" target="Ratt"/>
+<edge source="Great_White" target="Skid_Row__American_band_"/>
+<edge source="Great_White" target="Scorpions__band_"/>
+<edge source="Great_White" target="Quiet_Riot"/>
+<edge source="Halestorm" target="Shinedown"/>
+<edge source="Halestorm" target="Skid_Row__American_band_"/>
+<edge source="Halestorm" target="Heart__band_"/>
+<edge source="Halestorm" target="Highly_Suspect"/>
+<edge source="Halestorm" target="Papa_Roach"/>
+<edge source="Halestorm" target="The_Pretty_Reckless"/>
+<edge source="Halestorm" target="Skillet__band_"/>
+<edge source="Halestorm" target="Staind"/>
+<edge source="Halestorm" target="Starset"/>
+<edge source="Halestorm" target="Three_Days_Grace"/>
+<edge source="Heart__band_" target="Queen__band_"/>
+<edge source="Heart__band_" target="Journey__band_"/>
+<edge source="Heart__band_" target="Paramore"/>
+<edge source="Heart__band_" target="Led_Zeppelin"/>
+<edge source="Heart__band_" target="Metallica"/>
+<edge source="Heart__band_" target="Soundgarden"/>
+<edge source="Highly_Suspect" target="Pink_Floyd"/>
+<edge source="Hinder" target="Papa_Roach"/>
+<edge source="Hinder" target="Saving_Abel"/>
+<edge source="Hinder" target="Three_Days_Grace"/>
+<edge source="Hinder" target="Soundgarden"/>
+<edge source="Hinder" target="The_Rolling_Stones"/>
+<edge source="Hinder" target="Led_Zeppelin"/>
+<edge source="Hinder" target="Mötley_Crüe"/>
+<edge source="Hinder" target="Puddle_of_Mudd"/>
+<edge source="Hoobastank" target="The_All-American_Rejects"/>
+<edge source="Hoobastank" target="Incubus__band_"/>
+<edge source="Hoobastank" target="Velvet_Revolver"/>
+<edge source="Hoobastank" target="Three_Days_Grace"/>
+<edge source="Huey_Lewis_and_the_News" target="Thin_Lizzy"/>
+<edge source="Huey_Lewis_and_the_News" target="Toto__band_"/>
+<edge source="Imagine_Dragons" target="Train__band_"/>
+<edge source="Imagine_Dragons" target="Slipknot__band_"/>
+<edge source="Imagine_Dragons" target="System_of_a_Down"/>
+<edge source="Imagine_Dragons" target="Midnight_Oil"/>
+<edge source="Incubus__band_" target="Korn"/>
+<edge source="Incubus__band_" target="System_of_a_Down"/>
+<edge source="Incubus__band_" target="Red_Hot_Chili_Peppers"/>
+<edge source="Incubus__band_" target="Primus__band_"/>
+<edge source="Incubus__band_" target="Soundgarden"/>
+<edge source="Incubus__band_" target="Staind"/>
+<edge source="Incubus__band_" target="Live__band_"/>
+<edge source="Incubus__band_" target="Pantera"/>
+<edge source="Incubus__band_" target="Papa_Roach"/>
+<edge source="Incubus__band_" target="Thirty_Seconds_to_Mars"/>
+<edge source="INXS" target="Midnight_Oil"/>
+<edge source="INXS" target="Men_at_Work"/>
+<edge source="INXS" target="Sex_Pistols"/>
+<edge source="INXS" target="Pink_Floyd"/>
+<edge source="INXS" target="Led_Zeppelin"/>
+<edge source="INXS" target="Queen__band_"/>
+<edge source="INXS" target="The_Pretenders"/>
+<edge source="INXS" target="Red_Hot_Chili_Peppers"/>
+<edge source="INXS" target="Simple_Minds"/>
+<edge source="INXS" target="Skid_Row__American_band_"/>
+<edge source="Iron_Maiden" target="Judas_Priest"/>
+<edge source="Iron_Maiden" target="Queen__band_"/>
+<edge source="Iron_Maiden" target="Metallica"/>
+<edge source="Iron_Maiden" target="Trivium__band_"/>
+<edge source="Iron_Maiden" target="Led_Zeppelin"/>
+<edge source="Iron_Maiden" target="Uriah_Heep__band_"/>
+<edge source="Iron_Maiden" target="Pink_Floyd"/>
+<edge source="Iron_Maiden" target="Yes__band_"/>
+<edge source="Iron_Maiden" target="Jethro_Tull__band_"/>
+<edge source="Iron_Maiden" target="Thin_Lizzy"/>
+<edge source="Iron_Maiden" target="Killswitch_Engage"/>
+<edge source="Iron_Maiden" target="Korn"/>
+<edge source="Iron_Maiden" target="Lamb_of_God__band_"/>
+<edge source="Iron_Maiden" target="Motörhead"/>
+<edge source="Iron_Maiden" target="The_Outfield"/>
+<edge source="Iron_Maiden" target="Pantera"/>
+<edge source="Iron_Maiden" target="Puddle_of_Mudd"/>
+<edge source="Iron_Maiden" target="Ratt"/>
+<edge source="Iron_Maiden" target="Shinedown"/>
+<edge source="Iron_Maiden" target="Slayer"/>
+<edge source="Iron_Maiden" target="Slipknot__band_"/>
+<edge source="Iron_Maiden" target="Sum_41"/>
+<edge source="Iron_Maiden" target="System_of_a_Down"/>
+<edge source="Iron_Maiden" target="Twisted_Sister"/>
+<edge source="Iron_Maiden" target="Volbeat"/>
+<edge source="Iron_Maiden" target="Warrant__American_band_"/>
+<edge source="Iron_Maiden" target="W_A_S_P___band_"/>
+<edge source="Iron_Maiden" target="Whitesnake"/>
+<edge source="Jefferson_Starship" target="Journey__band_"/>
+<edge source="Jethro_Tull__band_" target="Led_Zeppelin"/>
+<edge source="Jethro_Tull__band_" target="Metallica"/>
+<edge source="Jethro_Tull__band_" target="W_A_S_P___band_"/>
+<edge source="Jethro_Tull__band_" target="Midnight_Oil"/>
+<edge source="Jethro_Tull__band_" target="The_Rolling_Stones"/>
+<edge source="Jethro_Tull__band_" target="Whitesnake"/>
+<edge source="Jethro_Tull__band_" target="Yes__band_"/>
+<edge source="Journey__band_" target="Santana__band_"/>
+<edge source="Journey__band_" target="Judas_Priest"/>
+<edge source="Journey__band_" target="Queen__band_"/>
+<edge source="Journey__band_" target="Loverboy"/>
+<edge source="Journey__band_" target="The_Outfield"/>
+<edge source="Journey__band_" target="Toto__band_"/>
+<edge source="Journey__band_" target="The_Pretenders"/>
+<edge source="Journey__band_" target="Whitesnake"/>
+<edge source="Judas_Priest" target="Led_Zeppelin"/>
+<edge source="Judas_Priest" target="Pink_Floyd"/>
+<edge source="Judas_Priest" target="Quiet_Riot"/>
+<edge source="Judas_Priest" target="Scorpions__band_"/>
+<edge source="Judas_Priest" target="Pantera"/>
+<edge source="Judas_Priest" target="Queen__band_"/>
+<edge source="Judas_Priest" target="Whitesnake"/>
+<edge source="Judas_Priest" target="Metallica"/>
+<edge source="Judas_Priest" target="Skid_Row__American_band_"/>
+<edge source="Judas_Priest" target="Slayer"/>
+<edge source="Judas_Priest" target="Twisted_Sister"/>
+<edge source="Judas_Priest" target="W_A_S_P___band_"/>
+<edge source="Judas_Priest" target="Korn"/>
+<edge source="Judas_Priest" target="Lamb_of_God__band_"/>
+<edge source="Judas_Priest" target="Loverboy"/>
+<edge source="Judas_Priest" target="The_Moody_Blues"/>
+<edge source="Judas_Priest" target="Motörhead"/>
+<edge source="Judas_Priest" target="Pop_Evil"/>
+<edge source="Judas_Priest" target="Ratt"/>
+<edge source="Judas_Priest" target="Slipknot__band_"/>
+<edge source="Judas_Priest" target="Sum_41"/>
+<edge source="Judas_Priest" target="Thin_Lizzy"/>
+<edge source="Judas_Priest" target="Trivium__band_"/>
+<edge source="Judas_Priest" target="Uriah_Heep__band_"/>
+<edge source="Judas_Priest" target="Volbeat"/>
+<edge source="Kaleo__band_" target="Led_Zeppelin"/>
+<edge source="Kaleo__band_" target="The_Rolling_Stones"/>
+<edge source="Killswitch_Engage" target="Slayer"/>
+<edge source="Killswitch_Engage" target="Pop_Evil"/>
+<edge source="Killswitch_Engage" target="Trivium__band_"/>
+<edge source="Killswitch_Engage" target="Lamb_of_God__band_"/>
+<edge source="Killswitch_Engage" target="Rise_Against"/>
+<edge source="Killswitch_Engage" target="Metallica"/>
+<edge source="Korn" target="Slipknot__band_"/>
+<edge source="Korn" target="Limp_Bizkit"/>
+<edge source="Korn" target="Metallica"/>
+<edge source="Korn" target="Trivium__band_"/>
+<edge source="Korn" target="Staind"/>
+<edge source="Korn" target="Red_Hot_Chili_Peppers"/>
+<edge source="Korn" target="Primus__band_"/>
+<edge source="Korn" target="The_Rolling_Stones"/>
+<edge source="Korn" target="Led_Zeppelin"/>
+<edge source="Korn" target="Pantera"/>
+<edge source="Korn" target="Lamb_of_God__band_"/>
+<edge source="Korn" target="Marilyn_Manson__band_"/>
+<edge source="Korn" target="Skillet__band_"/>
+<edge source="Korn" target="Sum_41"/>
+<edge source="Lamb_of_God__band_" target="Metallica"/>
+<edge source="Lamb_of_God__band_" target="Slayer"/>
+<edge source="Lamb_of_God__band_" target="Pantera"/>
+<edge source="Lamb_of_God__band_" target="Slipknot__band_"/>
+<edge source="Lamb_of_God__band_" target="Trivium__band_"/>
+<edge source="Led_Zeppelin" target="The_Everly_Brothers"/>
+<edge source="Led_Zeppelin" target="Yes__band_"/>
+<edge source="Led_Zeppelin" target="Queen__band_"/>
+<edge source="Led_Zeppelin" target="Scorpions__band_"/>
+<edge source="Led_Zeppelin" target="Soundgarden"/>
+<edge source="Led_Zeppelin" target="Skid_Row__American_band_"/>
+<edge source="Led_Zeppelin" target="Marilyn_Manson__band_"/>
+<edge source="Led_Zeppelin" target="Metallica"/>
+<edge source="Led_Zeppelin" target="Midnight_Oil"/>
+<edge source="Led_Zeppelin" target="The_Moody_Blues"/>
+<edge source="Led_Zeppelin" target="Our_Lady_Peace"/>
+<edge source="Led_Zeppelin" target="Pantera"/>
+<edge source="Led_Zeppelin" target="Papa_Roach"/>
+<edge source="Led_Zeppelin" target="The_Pretty_Reckless"/>
+<edge source="Led_Zeppelin" target="Puddle_of_Mudd"/>
+<edge source="Led_Zeppelin" target="Ratt"/>
+<edge source="Led_Zeppelin" target="Red_Hot_Chili_Peppers"/>
+<edge source="Led_Zeppelin" target="The_Rolling_Stones"/>
+<edge source="Led_Zeppelin" target="Slayer"/>
+<edge source="Led_Zeppelin" target="Slipknot__band_"/>
+<edge source="Led_Zeppelin" target="Staind"/>
+<edge source="Led_Zeppelin" target="Starset"/>
+<edge source="Led_Zeppelin" target="System_of_a_Down"/>
+<edge source="Led_Zeppelin" target="Train__band_"/>
+<edge source="Led_Zeppelin" target="Trivium__band_"/>
+<edge source="Led_Zeppelin" target="Twisted_Sister"/>
+<edge source="Led_Zeppelin" target="Whitesnake"/>
+<edge source="Led_Zeppelin" target="Paul_McCartney_and_Wings"/>
+<edge source="Limp_Bizkit" target="Primus__band_"/>
+<edge source="Limp_Bizkit" target="Pantera"/>
+<edge source="Limp_Bizkit" target="White_Zombie__band_"/>
+<edge source="Limp_Bizkit" target="Staind"/>
+<edge source="Limp_Bizkit" target="Metallica"/>
+<edge source="Limp_Bizkit" target="Red_Hot_Chili_Peppers"/>
+<edge source="Limp_Bizkit" target="Slipknot__band_"/>
+<edge source="Limp_Bizkit" target="Slayer"/>
+<edge source="Limp_Bizkit" target="Marilyn_Manson__band_"/>
+<edge source="Limp_Bizkit" target="Papa_Roach"/>
+<edge source="Live__band_" target="Our_Lady_Peace"/>
+<edge source="Lynyrd_Skynyrd" target="The_Rolling_Stones"/>
+<edge source="Lynyrd_Skynyrd" target="Sex_Pistols"/>
+<edge source="Lynyrd_Skynyrd" target="Pantera"/>
+<edge source="Lynyrd_Skynyrd" target="Shinedown"/>
+<edge source="Manfred_Mann" target="Manfred_Mann_Chapter_Three"/>
+<edge source="Marilyn_Manson__band_" target="Slayer"/>
+<edge source="Marilyn_Manson__band_" target="Slipknot__band_"/>
+<edge source="Marilyn_Manson__band_" target="Queen__band_"/>
+<edge source="Marilyn_Manson__band_" target="White_Zombie__band_"/>
+<edge source="Marilyn_Manson__band_" target="Mötley_Crüe"/>
+<edge source="Marilyn_Manson__band_" target="Pantera"/>
+<edge source="Metallica" target="Slayer"/>
+<edge source="Metallica" target="W_A_S_P___band_"/>
+<edge source="Metallica" target="Ratt"/>
+<edge source="Metallica" target="Primus__band_"/>
+<edge source="Metallica" target="Queen__band_"/>
+<edge source="Metallica" target="Skid_Row__American_band_"/>
+<edge source="Metallica" target="Thin_Lizzy"/>
+<edge source="Metallica" target="Slipknot__band_"/>
+<edge source="Metallica" target="Volbeat"/>
+<edge source="Metallica" target="Pink_Floyd"/>
+<edge source="Metallica" target="Scorpions__band_"/>
+<edge source="Metallica" target="Sex_Pistols"/>
+<edge source="Metallica" target="Trivium__band_"/>
+<edge source="Metallica" target="Sum_41"/>
+<edge source="Metallica" target="Staind"/>
+<edge source="Metallica" target="Red_Hot_Chili_Peppers"/>
+<edge source="Metallica" target="Mötley_Crüe"/>
+<edge source="Metallica" target="Motörhead"/>
+<edge source="Metallica" target="Pantera"/>
+<edge source="Metallica" target="Papa_Roach"/>
+<edge source="Metallica" target="Shinedown"/>
+<edge source="Metallica" target="Soundgarden"/>
+<edge source="Metallica" target="System_of_a_Down"/>
+<edge source="Metallica" target="Twisted_Sister"/>
+<edge source="Metallica" target="Weezer"/>
+<edge source="Metallica" target="White_Zombie__band_"/>
+<edge source="Midnight_Oil" target="Yes__band_"/>
+<edge source="Midnight_Oil" target="The_Rolling_Stones"/>
+<edge source="Midnight_Oil" target="Queen__band_"/>
+<edge source="Midnight_Oil" target="The_Tragically_Hip"/>
+<edge source="Midnight_Oil" target="The_Cranberries"/>
+<edge source="Midnight_Oil" target="The_Killers"/>
+<edge source="Midnight_Oil" target="Scorpions__band_"/>
+<edge source="Mike_and_the_Mechanics" target="Steely_Dan"/>
+<edge source="Modest_Mouse" target="The_Black_Keys"/>
+<edge source="Modest_Mouse" target="The_Flaming_Lips"/>
+<edge source="Motörhead" target="Thin_Lizzy"/>
+<edge source="Motörhead" target="W_A_S_P___band_"/>
+<edge source="Motörhead" target="Volbeat"/>
+<edge source="Motörhead" target="Slayer"/>
+<edge source="Motörhead" target="Scorpions__band_"/>
+<edge source="Mötley_Crüe" target="Quiet_Riot"/>
+<edge source="Mötley_Crüe" target="Sex_Pistols"/>
+<edge source="Mötley_Crüe" target="Queen__band_"/>
+<edge source="Mötley_Crüe" target="Scorpions__band_"/>
+<edge source="Mötley_Crüe" target="Ratt"/>
+<edge source="Mötley_Crüe" target="Skid_Row__American_band_"/>
+<edge source="Mötley_Crüe" target="Papa_Roach"/>
+<edge source="No_Doubt" target="The_Clash"/>
+<edge source="No_Doubt" target="Red_Hot_Chili_Peppers"/>
+<edge source="No_Doubt" target="Paramore"/>
+<edge source="No_Doubt" target="Sublime_with_Rome"/>
+<edge source="Our_Lady_Peace" target="Soundgarden"/>
+<edge source="Our_Lady_Peace" target="Paramore"/>
+<edge source="Our_Lady_Peace" target="Sum_41"/>
+<edge source="Our_Lady_Peace" target="Thirty_Seconds_to_Mars"/>
+<edge source="Our_Lady_Peace" target="Three_Days_Grace"/>
+<edge source="Pantera" target="Quiet_Riot"/>
+<edge source="Pantera" target="Slayer"/>
+<edge source="Pantera" target="Soundgarden"/>
+<edge source="Pantera" target="White_Zombie__band_"/>
+<edge source="Pantera" target="Slipknot__band_"/>
+<edge source="Pantera" target="Trivium__band_"/>
+<edge source="Pantera" target="Primus__band_"/>
+<edge source="Pantera" target="Skid_Row__American_band_"/>
+<edge source="Pantera" target="Staind"/>
+<edge source="Papa_Roach" target="Seether"/>
+<edge source="Papa_Roach" target="Staind"/>
+<edge source="Papa_Roach" target="Saving_Abel"/>
+<edge source="Papa_Roach" target="Shinedown"/>
+<edge source="Papa_Roach" target="Paramore"/>
+<edge source="Papa_Roach" target="Skillet__band_"/>
+<edge source="Papa_Roach" target="Pop_Evil"/>
+<edge source="Papa_Roach" target="Puddle_of_Mudd"/>
+<edge source="Papa_Roach" target="Red_Hot_Chili_Peppers"/>
+<edge source="Papa_Roach" target="Queen__band_"/>
+<edge source="Papa_Roach" target="Rise_Against"/>
+<edge source="Papa_Roach" target="Sum_41"/>
+<edge source="Paramore" target="The_All-American_Rejects"/>
+<edge source="Paramore" target="Red_Hot_Chili_Peppers"/>
+<edge source="Paramore" target="Weezer"/>
+<edge source="Paramore" target="Twenty_One_Pilots"/>
+<edge source="Parliament-Funkadelic" target="Red_Hot_Chili_Peppers"/>
+<edge source="Paul_McCartney_and_Wings" target="The_Moody_Blues"/>
+<edge source="Paul_McCartney_and_Wings" target="Traffic__band_"/>
+<edge source="Paul_McCartney_and_Wings" target="Pink_Floyd"/>
+<edge source="Paul_McCartney_and_Wings" target="Queen__band_"/>
+<edge source="Pink_Floyd" target="The_Flaming_Lips"/>
+<edge source="Pink_Floyd" target="The_Jesus_and_Mary_Chain"/>
+<edge source="Pink_Floyd" target="Queen__band_"/>
+<edge source="Pink_Floyd" target="Radiohead"/>
+<edge source="Pink_Floyd" target="The_Pretty_Reckless"/>
+<edge source="Pink_Floyd" target="Primus__band_"/>
+<edge source="Pink_Floyd" target="Sex_Pistols"/>
+<edge source="Pink_Floyd" target="Shinedown"/>
+<edge source="Pink_Floyd" target="Soundgarden"/>
+<edge source="Pink_Floyd" target="Staind"/>
+<edge source="Pink_Floyd" target="Supertramp"/>
+<edge source="Pink_Floyd" target="Thin_Lizzy"/>
+<edge source="Pink_Floyd" target="Thirty_Seconds_to_Mars"/>
+<edge source="Pink_Floyd" target="Toto__band_"/>
+<edge source="Pink_Floyd" target="Velvet_Revolver"/>
+<edge source="Pop_Evil" target="Whitesnake"/>
+<edge source="Pop_Evil" target="Puddle_of_Mudd"/>
+<edge source="Pop_Evil" target="Trivium__band_"/>
+<edge source="Pop_Evil" target="Saving_Abel"/>
+<edge source="Primus__band_" target="Slayer"/>
+<edge source="Primus__band_" target="Red_Hot_Chili_Peppers"/>
+<edge source="Puddle_of_Mudd" target="Staind"/>
+<edge source="Puddle_of_Mudd" target="The_Rolling_Stones"/>
+<edge source="Puddle_of_Mudd" target="Saving_Abel"/>
+<edge source="Puddle_of_Mudd" target="Soundgarden"/>
+<edge source="Puddle_of_Mudd" target="Skillet__band_"/>
+<edge source="Puddle_of_Mudd" target="Thirty_Seconds_to_Mars"/>
+<edge source="Queen__band_" target="The_Cab"/>
+<edge source="Queen__band_" target="Sex_Pistols"/>
+<edge source="Queen__band_" target="Thin_Lizzy"/>
+<edge source="Queen__band_" target="Yes__band_"/>
+<edge source="Queen__band_" target="Radiohead"/>
+<edge source="Queen__band_" target="Trivium__band_"/>
+<edge source="Queen__band_" target="Slipknot__band_"/>
+<edge source="Queen__band_" target="Red_Hot_Chili_Peppers"/>
+<edge source="Queen__band_" target="Shinedown"/>
+<edge source="Queen__band_" target="Smash_Mouth"/>
+<edge source="Queen__band_" target="Supertramp"/>
+<edge source="Queen__band_" target="Twisted_Sister"/>
+<edge source="Queen__band_" target="Uriah_Heep__band_"/>
+<edge source="Queen__band_" target="The_Used"/>
+<edge source="Queen__band_" target="Warrant__American_band_"/>
+<edge source="Quiet_Riot" target="Whitesnake"/>
+<edge source="Quiet_Riot" target="W_A_S_P___band_"/>
+<edge source="Quiet_Riot" target="Ratt"/>
+<edge source="Quiet_Riot" target="Slayer"/>
+<edge source="Quiet_Riot" target="Weezer"/>
+<edge source="Quiet_Riot" target="Warrant__American_band_"/>
+<edge source="Radiohead" target="The_Killers"/>
+<edge source="Radiohead" target="Red_Hot_Chili_Peppers"/>
+<edge source="Radiohead" target="Sonic_Youth"/>
+<edge source="Radiohead" target="Travis__band_"/>
+<edge source="Radiohead" target="Slipknot__band_"/>
+<edge source="Radiohead" target="Steely_Dan"/>
+<edge source="Radiohead" target="System_of_a_Down"/>
+<edge source="Radiohead" target="Vampire_Weekend"/>
+<edge source="Radiohead" target="Weezer"/>
+<edge source="Ratt" target="Whitesnake"/>
+<edge source="Ratt" target="Slayer"/>
+<edge source="Ratt" target="Warrant__American_band_"/>
+<edge source="Ratt" target="Scorpions__band_"/>
+<edge source="Ratt" target="Skid_Row__American_band_"/>
+<edge source="Red_Hot_Chili_Peppers" target="The_Everly_Brothers"/>
+<edge source="Red_Hot_Chili_Peppers" target="The_Flaming_Lips"/>
+<edge source="Red_Hot_Chili_Peppers" target="The_Rolling_Stones"/>
+<edge source="Red_Hot_Chili_Peppers" target="Yes__band_"/>
+<edge source="Red_Hot_Chili_Peppers" target="Santana__band_"/>
+<edge source="Red_Hot_Chili_Peppers" target="System_of_a_Down"/>
+<edge source="Red_Hot_Chili_Peppers" target="Soundgarden"/>
+<edge source="Rise_Against" target="The_Clash"/>
+<edge source="Rise_Against" target="The_Used"/>
+<edge source="Santana__band_" target="The_Fray"/>
+<edge source="Santana__band_" target="Toto__band_"/>
+<edge source="Scorpions__band_" target="Uriah_Heep__band_"/>
+<edge source="Scorpions__band_" target="Whitesnake"/>
+<edge source="Scorpions__band_" target="Skid_Row__American_band_"/>
+<edge source="Scorpions__band_" target="Slayer"/>
+<edge source="Scorpions__band_" target="System_of_a_Down"/>
+<edge source="Scorpions__band_" target="Twisted_Sister"/>
+<edge source="Seether" target="Staind"/>
+<edge source="Seether" target="Three_Days_Grace"/>
+<edge source="Seether" target="Skillet__band_"/>
+<edge source="Seether" target="Shinedown"/>
+<edge source="Seether" target="Starset"/>
+<edge source="Sex_Pistols" target="The_Clash"/>
+<edge source="Sex_Pistols" target="The_Monkees"/>
+<edge source="Sex_Pistols" target="The_Pretenders"/>
+<edge source="Sex_Pistols" target="Skid_Row__American_band_"/>
+<edge source="Sex_Pistols" target="Thin_Lizzy"/>
+<edge source="Sex_Pistols" target="Velvet_Revolver"/>
+<edge source="Shinedown" target="The_Pretty_Reckless"/>
+<edge source="Shinedown" target="Three_Days_Grace"/>
+<edge source="Shinedown" target="Soundgarden"/>
+<edge source="Shinedown" target="Skillet__band_"/>
+<edge source="Shinedown" target="Staind"/>
+<edge source="Shinedown" target="Starset"/>
+<edge source="Simple_Minds" target="Smash_Mouth"/>
+<edge source="Simple_Plan" target="The_Cab"/>
+<edge source="Simple_Plan" target="Weezer"/>
+<edge source="Simple_Plan" target="Sum_41"/>
+<edge source="Skid_Row__American_band_" target="Soundgarden"/>
+<edge source="Skid_Row__American_band_" target="Trivium__band_"/>
+<edge source="Skid_Row__American_band_" target="Velvet_Revolver"/>
+<edge source="Skillet__band_" target="Three_Days_Grace"/>
+<edge source="Slayer" target="W_A_S_P___band_"/>
+<edge source="Slayer" target="Slipknot__band_"/>
+<edge source="Slayer" target="Trivium__band_"/>
+<edge source="Slayer" target="Volbeat"/>
+<edge source="Slayer" target="System_of_a_Down"/>
+<edge source="Slayer" target="Staind"/>
+<edge source="Slayer" target="Sum_41"/>
+<edge source="Slayer" target="Weezer"/>
+<edge source="Slipknot__band_" target="White_Zombie__band_"/>
+<edge source="Slipknot__band_" target="The_Clash"/>
+<edge source="Slipknot__band_" target="Sublime_with_Rome"/>
+<edge source="Slipknot__band_" target="System_of_a_Down"/>
+<edge source="Slipknot__band_" target="Trivium__band_"/>
+<edge source="Slipknot__band_" target="Volbeat"/>
+<edge source="Smash_Mouth" target="The_Monkees"/>
+<edge source="Smash_Mouth" target="Soundgarden"/>
+<edge source="Sonic_Youth" target="The_Flaming_Lips"/>
+<edge source="Sonic_Youth" target="The_Jesus_and_Mary_Chain"/>
+<edge source="Sonic_Youth" target="The_Rolling_Stones"/>
+<edge source="Sonic_Youth" target="Weezer"/>
+<edge source="Soundgarden" target="The_Pretty_Reckless"/>
+<edge source="Soundgarden" target="Staind"/>
+<edge source="Soundgarden" target="White_Zombie__band_"/>
+<edge source="Staind" target="Three_Days_Grace"/>
+<edge source="Staind" target="Whitesnake"/>
+<edge source="Starset" target="Thirty_Seconds_to_Mars"/>
+<edge source="Steely_Dan" target="Toto__band_"/>
+<edge source="Steely_Dan" target="The_Rolling_Stones"/>
+<edge source="Sum_41" target="The_Cab"/>
+<edge source="Sum_41" target="Weezer"/>
+<edge source="Supertramp" target="Yes__band_"/>
+<edge source="The_All-American_Rejects" target="Weezer"/>
+<edge source="The_Beach_Boys" target="The_Everly_Brothers"/>
+<edge source="The_Beach_Boys" target="Yes__band_"/>
+<edge source="The_Black_Keys" target="Vampire_Weekend"/>
+<edge source="The_Clash" target="Traffic__band_"/>
+<edge source="The_Clash" target="The_Cranberries"/>
+<edge source="The_Flaming_Lips" target="Weezer"/>
+<edge source="The_Fray" target="Train__band_"/>
+<edge source="The_Fray" target="Weezer"/>
+<edge source="The_Jesus_and_Mary_Chain" target="The_Monkees"/>
+<edge source="The_Moody_Blues" target="Yes__band_"/>
+<edge source="The_Moody_Blues" target="Whitesnake"/>
+<edge source="The_Pretenders" target="The_Pretty_Reckless"/>
+<edge source="The_Rolling_Stones" target="Traveling_Wilburys"/>
+<edge source="The_Rolling_Stones" target="Travis__band_"/>
+<edge source="The_Rolling_Stones" target="The_Verve"/>
+<edge source="The_Script" target="Train__band_"/>
+<edge source="The_Tragically_Hip" target="Three_Days_Grace"/>
+<edge source="The_Used" target="Thirty_Seconds_to_Mars"/>
+<edge source="The_Used" target="Three_Days_Grace"/>
+<edge source="Thin_Lizzy" target="Whitesnake"/>
+<edge source="Three_Days_Grace" target="Volbeat"/>
+<edge source="Three_Dog_Night" target="Toto__band_"/>
+<edge source="Three_Dog_Night" target="Whitesnake"/>
+<edge source="Three_Dog_Night" target="Traffic__band_"/>
+<edge source="Three_Dog_Night" target="Uriah_Heep__band_"/>
+<edge source="Tom_Petty_and_the_Heartbreakers" target="Traveling_Wilburys"/>
+<edge source="Toto__band_" target="Yes__band_"/>
+<edge source="Toto__band_" target="Weezer"/>
+<edge source="Traffic__band_" target="Yes__band_"/>
+<edge source="Uriah_Heep__band_" target="Whitesnake"/>
+<edge source="Warrant__American_band_" target="Whitesnake"/>
+</graph></graphml>
