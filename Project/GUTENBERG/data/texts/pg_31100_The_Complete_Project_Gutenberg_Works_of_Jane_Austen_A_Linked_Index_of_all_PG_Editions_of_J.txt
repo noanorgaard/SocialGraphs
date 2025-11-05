@@ -1,0 +1,2141 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><style>
+#pg-header div, #pg-footer div {
+    all: initial;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+}
+#pg-footer div.agate {
+    font-size: 90%;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+#pg-footer li {
+    all: initial;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-indent: -0.6em;
+}
+#pg-footer div.secthead {
+    font-size: 110%;
+    font-weight: bold;
+}
+#pg-footer #project-gutenberg-license {
+    font-size: 110%;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+#pg-header-heading {
+    all: inherit;
+    text-align: center;
+    font-size: 120%;
+    font-weight:bold;
+}
+#pg-footer-heading {
+    all: inherit;
+    text-align: center;
+    font-size: 120%;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pg-header #pg-machine-header p {
+    text-indent: -4em;
+    margin-left: 4em;
+    margin-top: 1em;
+    margin-bottom: 0;
+    font-size: medium
+}
+#pg-header #pg-header-authlist {
+    all: initial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pg-header #pg-machine-header strong {
+    font-weight: normal;
+}
+#pg-header #pg-start-separator, #pg-footer #pg-end-separator {
+    margin-bottom: 3em;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 2em;
+    text-align: center
+}
+
+    .xhtml_center {text-align: center; display: block;}
+    .xhtml_center table {
+        display: table;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        }</style><title>The Works of Jane Austen | Project Gutenberg
+    </title>
+<link href="images/cover.jpg" rel="icon" type="image/x-cover" id="id-1616541726399798795">
+    <style>body {
+    text-align: justify
+    }
+@media screen {
+    body {
+        margin: 5%
+        }
+    }
+.pagedjs_page_content > div {
+    margin: 5%
+    }
+p {
+    text-indent: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%
+    }
+hr {
+    width: 50%;
+    text-align: center
+    }
+.foot {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    text-indent: -3em;
+    font-size: 90%
+    }
+blockquote {
+    font-size: 97%;
+    font-style: italic;
+    margin-left: 10%;
+    margin-right: 10%
+    }
+.mynote {
+    background-color: #DDE;
+    color: #000;
+    padding: 0.5em;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    font-size: 95%
+    }
+.toc {
+    margin-left: 10%;
+    margin-bottom: 0.75em
+    }
+.toc2 {
+    margin-left: 20%
+    }
+div.fig {
+    display: block;
+    margin: 0 auto;
+    text-align: center
+    }
+.figleft {
+    float: left;
+    margin-left: 0%;
+    margin-right: 1%
+    }
+.figright {
+    float: right;
+    margin-right: 0%;
+    margin-left: 1%
+    }
+.pagenum {
+    display: inline;
+    font-size: 70%;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 1%;
+    text-align: right
+    }
+pre {
+    font-style: italic;
+    font-size: 90%;
+    margin-left: 10%
+    }</style>
+  <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="dc.title" content="The Complete Project Gutenberg Works of Jane Austen&amp;#10;A Linked Index of all PG Editions of Jane Austen">
+<meta name="dc.language" content="en">
+<meta name="dcterms.source" content="https://www.gutenberg.org/files/31100/31100-h/31100-h.htm">
+<meta name="dcterms.modified" content="2025-10-12T18:57:31.348827+00:00">
+<meta name="dc.rights" content="Public domain in the USA.">
+<link rel="dcterms.isFormatOf" href="http://www.gutenberg.org/ebooks/31100">
+<meta name="dc.creator" content="Austen, Jane, 1775-1817">
+<meta name="marcrel.edt" content="Widger, David, 1932-2021?">
+<meta name="dc.subject" content="Love stories, English">
+<meta name="dc.subject" content="England -- Social life and customs -- Fiction">
+<meta name="dcterms.created" content="2010-01-25">
+<meta name="generator" content="Ebookmaker 0.13.8 by Project Gutenberg">
+<meta property="og:title" content="The Complete Project Gutenberg Works of Jane Austen&amp;#10;A Linked Index of all PG Editions of Jane Austen">
+<meta property="og:type" content="Text">
+<meta property="og:url" content="https://www.gutenberg.org/cache/epub/31100/pg31100-images.html">
+<meta property="og:image" content="https://www.gutenberg.org/cache/epub/31100/pg31100.cover.medium.jpg">
+</head>
+  <body><section class="pg-boilerplate pgheader" id="pg-header" lang="en"><h2 id="pg-header-heading" title="">The Project Gutenberg eBook of <span lang="en" id="pg-title-no-subtitle">The Complete Project Gutenberg Works of Jane Austen</span></h2>
+    
+<div>This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at <a class="reference external" href="https://www.gutenberg.org">www.gutenberg.org</a>. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.</div>
+
+<div class="container" id="pg-machine-header"><p><strong>Title</strong>: The Complete Project Gutenberg Works of Jane Austen</p>
+<div id="pg-header-authlist">
+<p><strong>Author</strong>: Jane Austen</p>
+
+<p><strong>Editor</strong>: David Widger</p>
+</div>
+<p><strong>Release date</strong>: January 25, 2010 [eBook #31100]<br>
+                Most recently updated: September 21, 2025</p>
+
+<p><strong>Language</strong>: English</p>
+
+<p><strong>Credits</strong>: Produced by David Widger</p>
+
+</div><div id="pg-start-separator">
+<span>*** START OF THE PROJECT GUTENBERG EBOOK THE COMPLETE PROJECT GUTENBERG WORKS OF JANE AUSTEN ***</span>
+</div></section><div style="text-align:center"></div>
+    <p>
+      <br><a id="top"></a> <br>
+    </p>
+    <h1>
+      THE COMPLETE WORKS OF <br> <br> <i><span style="font-size: larger">JANE AUSTEN</span></i>
+    </h1>
+    <p>
+      <br> <br>
+    </p>
+    <h2>
+      A Linked Index to all Volumes and Chapters
+    </h2>
+    <p>
+      <br> <br>
+    </p>
+<div class="fig" style="width:50%;">
+      <img alt="J_AUSTEN" src="images/J_AUSTEN.jpg" style="width: 100%" id="img_images_J_AUSTEN.jpg"><br>
+    </div>
+    <div>
+      <a href="images/J_AUSTEN.jpg" id="id-4947262644992018385"><img alt="" src="images/enlarge.jpg" id="img_images_enlarge.jpg"> </a>
+    </div>
+
+    <div class="mynote">
+      <h3>
+        DEDICATION
+      </h3>
+      <h4>
+        This Jane Austen collection<br>is dedicated to
+      </h4>
+      <h2>
+        <i>Alice Goodson [Hart] Woodby</i>
+      </h2>
+    </div>
+
+    <hr>
+    <p>
+      <br> <br>
+    </p>
+    <h2>
+      CONTENTS
+    </h2>
+    <h3>
+      Click on the <span style="font-size: larger"><b> ## </b></span> before each title to go directly to a<br>
+      linked index of the detailed chapters and illustrations
+    </h3>
+    <p>
+      <br>
+    </p>
+    <table style="margin-right: auto; margin-left: auto; padding: 4px; border: 3px solid;">
+      <tbody>
+        <tr>
+          <td>
+            <table style="margin-right: auto; margin-left: auto">
+              <tbody><tr>
+                <td>
+                  <b><span style="font-size: larger"> <a href="#persuasion" class="pginternal"><span style="font-size: larger">##</span>    </a>
+                  <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm" id="id-136380162216613359"> Persuasion</a><br><br>
+                  <a href="#north" class="pginternal"><span style="font-size: larger">##</span>    </a> <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm" id="id-6016122311579109551"> Northanger Abbey</a><br><br>
+                  <a href="#mansfield" class="pginternal"><span style="font-size: larger">##</span>    </a>
+                  <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm" id="id-5434028892075896823"> Mansfield Park</a><br><br>
+                  <a href="#emma" class="pginternal"><span style="font-size: larger">##</span>    </a> <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm" id="id-9126141648474788420"> Emma</a><br><br> <a href="#susan" class="pginternal"><span style="font-size: larger">##</span>    </a> <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm" id="id-85185428536020335"> Lady Susan</a><br><br> <a href="#love" class="pginternal"><span style="font-size: larger">##</span>    </a> <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm" id="id-22155462160868017"> Love And Freindship and
+                  other Early Works</a><br><br> <a href="#pride" class="pginternal"><span style="font-size: larger">##</span>    </a>
+                  <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm" id="id-678288335406712150"> Pride and Prejudice</a><br><br>
+                  <a href="#sense" class="pginternal"><span style="font-size: larger">##</span>    </a> <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm" id="id-2392170911150094602"> Sense and Sensibility</a>
+                  (Illustrated)<br><br> </span></b>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      <br> <br> <br>
+    </p>
+    <hr>
+    <p>
+      <br> <br>
+    </p>
+    <h1>
+      VOLUMES and CHAPTERS
+    </h1>
+    <p>
+      <br> <br><a id="persuasion"></a>
+    </p>
+    <h1>
+      <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm" id="id-8566873129276442442"> Persuasion</a>
+    </h1>
+     <table style="margin-right: auto; margin-left: auto">
+      <tbody><tr>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap01" class="pgexternal" id="id-546637357550357630">CHAPTER I</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap02" class="pgexternal" id="id-1249498541776976392">CHAPTER II</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap03" class="pgexternal" id="id-2538627826898916469">CHAPTER III</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap04" class="pgexternal" id="id-883813227839513752">CHAPTER IV</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap05" class="pgexternal" id="id-7866417670498180823">CHAPTER V</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap06" class="pgexternal" id="id-2206557025787171749">CHAPTER VI</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap07" class="pgexternal" id="id-3033162702672917423">CHAPTER VII</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap08" class="pgexternal" id="id-8580634542709044529">CHAPTER VIII</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap09" class="pgexternal" id="id-5828240837906013185">CHAPTER IX</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap10" class="pgexternal" id="id-8497206692903860719">CHAPTER X</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap11" class="pgexternal" id="id-3442674654755470567">CHAPTER XI</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap12" class="pgexternal" id="id-7842451782227735289">CHAPTER XII</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap13" class="pgexternal" id="id-1716436276005229645">CHAPTER XIII</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap14" class="pgexternal" id="id-4668924563475972233">CHAPTER XIV</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap15" class="pgexternal" id="id-5699356160758368484">CHAPTER XV</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap16" class="pgexternal" id="id-7506547730841229675">CHAPTER XVI</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap17" class="pgexternal" id="id-569951631740333771">CHAPTER XVII</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap18" class="pgexternal" id="id-5275287647927137073">CHAPTER XVIII</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap19" class="pgexternal" id="id-6454605790097348490">CHAPTER XIX</a>
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap20" class="pgexternal" id="id-7612342228811376125">CHAPTER XX</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap21" class="pgexternal" id="id-5609521682165964494">CHAPTER XXI</a>   
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap22" class="pgexternal" id="id-905460134277766057">CHAPTER XXII</a>   
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap23" class="pgexternal" id="id-5488581111768850549">CHAPTER XXIII</a>   
+        </td>
+        <td style="text-align: left;">
+          <a href="http://www.gutenberg.org/files/105/105-h/105-h.htm#chap24" class="pgexternal" id="id-8853389841912748912">CHAPTER XXIV</a>
+        </td>
+      </tr>
+    </tbody></table>
+    <p>
+      <br> <br>
+    </p>
+    <hr>
+    <p>
+      <br><a id="north"></a> <br>
+    </p>
+    <h1>
+      <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm" id="id-6365784002837026199"> Northanger Abbey</a>
+    </h1>
+    <h4>
+      <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2H_4_0001" class="pgexternal" id="id-407164737358083392"> ADVERTISEMENT BY THE
+      AUTHORESS, TO NORTHANGER ABBEY </a><br>
+    </h4>
+    <table style="margin-right: auto; margin-left: auto">
+      <tbody><tr>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0001" class="pgexternal" id="id-4365232393053714513"> CHAPTER 1 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0002" class="pgexternal" id="id-1176085791280954291"> CHAPTER 2 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0003" class="pgexternal" id="id-5287272479391596502"> CHAPTER 3 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0004" class="pgexternal" id="id-4344878591940617782"> CHAPTER 4 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0005" class="pgexternal" id="id-3399322943931554751"> CHAPTER 5 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0006" class="pgexternal" id="id-3109585281444530021"> CHAPTER 6 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0007" class="pgexternal" id="id-1956543577860355969"> CHAPTER 7 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0008" class="pgexternal" id="id-9091428047380065869"> CHAPTER 8    
+            </a>
+          </p>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0009" class="pgexternal" id="id-3516270525182554646"> CHAPTER 9 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0010" class="pgexternal" id="id-231324493137710712"> CHAPTER 10 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0011" class="pgexternal" id="id-2659889033941354311"> CHAPTER 11 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0012" class="pgexternal" id="id-5805585793377032170"> CHAPTER 12 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0013" class="pgexternal" id="id-6522904106044698035"> CHAPTER 13 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0014" class="pgexternal" id="id-7584998285972198840"> CHAPTER 14 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0015" class="pgexternal" id="id-5847417885883533503"> CHAPTER 15 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0016" class="pgexternal" id="id-8706343686302054679"> CHAPTER 16    
+            </a>
+          </p>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0017" class="pgexternal" id="id-748140283585689651"> CHAPTER 17 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0018" class="pgexternal" id="id-2592385106545268121"> CHAPTER 18 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0019" class="pgexternal" id="id-2366029667612514565"> CHAPTER 19 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0020" class="pgexternal" id="id-1615859648750645174"> CHAPTER 20 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0021" class="pgexternal" id="id-163200448982232397"> CHAPTER 21 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0022" class="pgexternal" id="id-1572124230058486047"> CHAPTER 22 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0023" class="pgexternal" id="id-7751403596882336746"> CHAPTER 23 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0024" class="pgexternal" id="id-5354079581515846959"> CHAPTER 24    
+            </a>
+          </p>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0025" class="pgexternal" id="id-1888916734872730061"> CHAPTER 25 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0026" class="pgexternal" id="id-6030225385551640214"> CHAPTER 26 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0027" class="pgexternal" id="id-7530007521243457989"> CHAPTER 27 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0028" class="pgexternal" id="id-7506429552677524789"> CHAPTER 28 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0029" class="pgexternal" id="id-7645896821484022347"> CHAPTER 29 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0030" class="pgexternal" id="id-1633029052140748163"> CHAPTER 30 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2HCH0031" class="pgexternal" id="id-903450874372862650"> CHAPTER 31 </a>
+          </p>
+          <br><br>
+        </td>
+      </tr>
+    </tbody></table>
+    <h4>
+      <a href="http://www.gutenberg.org/files/121/121-h/121-h.htm#link2H_4_0033" class="pgexternal" id="id-852576503725755404"> A NOTE ON THE TEXT </a><br>
+      <br> <br>
+    </h4>
+    <hr>
+    <p>
+      <br><a id="mansfield"></a> <br>
+    </p>
+    <h1>
+      <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm" id="id-2327439309300281710">Mansfield Park </a>
+    </h1>
+    <table style="margin-right: auto; margin-left: auto">
+      <tbody><tr>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0001" class="pgexternal" id="id-2354216827791409027"> CHAPTER I </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0002" class="pgexternal" id="id-3399954550715094239"> CHAPTER II </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0003" class="pgexternal" id="id-5650856158280837155"> CHAPTER III </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0004" class="pgexternal" id="id-2983098704978691194"> CHAPTER IV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0005" class="pgexternal" id="id-7895742830361154449"> CHAPTER V </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0006" class="pgexternal" id="id-6923335997787780605"> CHAPTER VI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0007" class="pgexternal" id="id-3719077572927999919"> CHAPTER VII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0008" class="pgexternal" id="id-5607289336372030511"> CHAPTER VIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0009" class="pgexternal" id="id-7354452413621644168"> CHAPTER IX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0010" class="pgexternal" id="id-3812186651846155662"> CHAPTER X </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0011" class="pgexternal" id="id-282696576171220771"> CHAPTER XI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0012" class="pgexternal" id="id-7644101600601510060"> CHAPTER XII </a>
+          </p>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0013" class="pgexternal" id="id-12623707436979348"> CHAPTER XIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0014" class="pgexternal" id="id-6308521050039948616"> CHAPTER XIV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0015" class="pgexternal" id="id-4508272025528417549"> CHAPTER XV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0016" class="pgexternal" id="id-8822548218896576833"> CHAPTER XVI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0017" class="pgexternal" id="id-2190104278627293253"> CHAPTER XVII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0018" class="pgexternal" id="id-4716819420186092849"> CHAPTER XVIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0019" class="pgexternal" id="id-3639587173675563987"> CHAPTER XIX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0020" class="pgexternal" id="id-896035387424145028"> CHAPTER XX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0021" class="pgexternal" id="id-3492587679722152775"> CHAPTER XXI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0022" class="pgexternal" id="id-7719240524307251098"> CHAPTER XXII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0023" class="pgexternal" id="id-820866003341769127"> CHAPTER XXIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0024" class="pgexternal" id="id-621037034846264550"> CHAPTER XXIV </a>
+          </p>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0025" class="pgexternal" id="id-5339769781565090775"> CHAPTER XXV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0026" class="pgexternal" id="id-2014135779140419420"> CHAPTER XXVI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0027" class="pgexternal" id="id-2445733591889528473"> CHAPTER XXVII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0028" class="pgexternal" id="id-4893484433146800179"> CHAPTER XXVIII
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0029" class="pgexternal" id="id-4292659569496356830"> CHAPTER XXIX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0030" class="pgexternal" id="id-3982423215308213341"> CHAPTER XXX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0031" class="pgexternal" id="id-2391653347570903369"> CHAPTER XXXI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0032" class="pgexternal" id="id-7839140828962407597"> CHAPTER XXXII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0033" class="pgexternal" id="id-3563292785881505319"> CHAPTER XXXIII
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0034" class="pgexternal" id="id-3638729572963684704"> CHAPTER XXXIV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0035" class="pgexternal" id="id-622623148537873682"> CHAPTER XXXV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0036" class="pgexternal" id="id-5622095742233247526"> CHAPTER XXXVI </a>
+          </p>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0037" class="pgexternal" id="id-8478543644985281076"> CHAPTER XXXVII
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0038" class="pgexternal" id="id-4667028807414451565"> CHAPTER XXXVIII
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0039" class="pgexternal" id="id-5535827131901070217"> CHAPTER XXXIX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0040" class="pgexternal" id="id-2967699980128781459"> CHAPTER XL </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0041" class="pgexternal" id="id-412557794986378772"> CHAPTER XLI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0042" class="pgexternal" id="id-3686877208717408478"> CHAPTER XLII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0043" class="pgexternal" id="id-8181628777215403745"> CHAPTER XLIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0044" class="pgexternal" id="id-6024944624915234444"> CHAPTER XLIV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0045" class="pgexternal" id="id-2474403405602732153"> CHAPTER XLV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0046" class="pgexternal" id="id-7452852143907484217"> CHAPTER XLVI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0047" class="pgexternal" id="id-2628866964424747571"> CHAPTER XLVII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/141/141-h/141-h.htm#link2HCH0048" class="pgexternal" id="id-5374133725912477127"> CHAPTER XLVIII
+            </a>
+          </p>
+        </td>
+      </tr>
+    </tbody></table>
+    <p>
+      <br> <br>
+    </p>
+    <hr>
+    <p>
+      <br><a id="emma"></a> <br>
+    </p>
+    <h1>
+      <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm" id="id-243841229953208042"> Emma</a>
+    </h1>
+    <table style="margin-right: auto; margin-left: auto">
+      <tbody><tr>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2H_4_0001" class="pgexternal" id="id-5478778802936560825"> <b>VOLUME I</b>
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0001" class="pgexternal" id="id-8280257092404950713"> CHAPTER I </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0002" class="pgexternal" id="id-134357218519149115"> CHAPTER II </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0003" class="pgexternal" id="id-5080100315291902936"> CHAPTER III </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0004" class="pgexternal" id="id-2662596588023821531"> CHAPTER IV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0005" class="pgexternal" id="id-7862128380844473584"> CHAPTER V </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0006" class="pgexternal" id="id-3804914422886884280"> CHAPTER VI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0007" class="pgexternal" id="id-7159059244107551978"> CHAPTER VII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0008" class="pgexternal" id="id-3893532210829044676"> CHAPTER VIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0009" class="pgexternal" id="id-190538351036903065"> CHAPTER IX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0010" class="pgexternal" id="id-199414976660657549"> CHAPTER X </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0011" class="pgexternal" id="id-7154366185473865435"> CHAPTER XI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0012" class="pgexternal" id="id-6456361311962131175"> CHAPTER XII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0013" class="pgexternal" id="id-721924163862382421"> CHAPTER XIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0014" class="pgexternal" id="id-4064828198957552393"> CHAPTER XIV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0015" class="pgexternal" id="id-495878739756518129"> CHAPTER XV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0016" class="pgexternal" id="id-343228764017685500"> CHAPTER XVI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0017" class="pgexternal" id="id-8834087282197414339"> CHAPTER XVII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0018" class="pgexternal" id="id-3563689695640971882"> CHAPTER XVIII   
+            </a>
+          </p>
+          <br>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2H_4_0021" class="pgexternal" id="id-6423017691111232764"> <b>VOLUME II</b>
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0019" class="pgexternal" id="id-7252690441138308966"> CHAPTER I </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0020" class="pgexternal" id="id-1038281604184517830"> CHAPTER II </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0021" class="pgexternal" id="id-1061276083733753592"> CHAPTER III </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0022" class="pgexternal" id="id-5395151082096608092"> CHAPTER IV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0023" class="pgexternal" id="id-1231105740567039228"> CHAPTER V </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0024" class="pgexternal" id="id-2585077997408318942"> CHAPTER VI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0025" class="pgexternal" id="id-4667301197022223872"> CHAPTER VII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0026" class="pgexternal" id="id-2145426562944432038"> CHAPTER VIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0027" class="pgexternal" id="id-93519403489004549"> CHAPTER IX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0028" class="pgexternal" id="id-82600000388905114"> CHAPTER X </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0029" class="pgexternal" id="id-9135491089445754206"> CHAPTER XI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0030" class="pgexternal" id="id-7583048533712148027"> CHAPTER XII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0031" class="pgexternal" id="id-5680605662910775462"> CHAPTER XIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0032" class="pgexternal" id="id-4732745272161060949"> CHAPTER XIV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0033" class="pgexternal" id="id-5655773032762684937"> CHAPTER XV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0034" class="pgexternal" id="id-3326472663517480591"> CHAPTER XVI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0035" class="pgexternal" id="id-35863437229534453"> CHAPTER XVII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0036" class="pgexternal" id="id-1176810224884986872"> CHAPTER XVIII   
+            </a>
+          </p>
+          <br>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2H_4_0040" class="pgexternal" id="id-6610934085180318067"> <b>VOLUME III</b>
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0037" class="pgexternal" id="id-8251929159224773868"> CHAPTER I </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0038" class="pgexternal" id="id-5462008342646959971"> CHAPTER II </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0039" class="pgexternal" id="id-5844009608328439754"> CHAPTER III </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0040" class="pgexternal" id="id-774587799180748315"> CHAPTER IV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0041" class="pgexternal" id="id-1420154821542913530"> CHAPTER V </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0042" class="pgexternal" id="id-3858638401112758186"> CHAPTER VI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0043" class="pgexternal" id="id-3694484857929375528"> CHAPTER VII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0044" class="pgexternal" id="id-8749085548795601809"> CHAPTER VIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0045" class="pgexternal" id="id-3322364690568783681"> CHAPTER IX </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0046" class="pgexternal" id="id-4556505781191416645"> CHAPTER X </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0047" class="pgexternal" id="id-8892496712113335230"> CHAPTER XI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0048" class="pgexternal" id="id-2507424146996994811"> CHAPTER XII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0049" class="pgexternal" id="id-2680349615682760193"> CHAPTER XIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0050" class="pgexternal" id="id-8304853028027523085"> CHAPTER XIV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0051" class="pgexternal" id="id-8757234589595076739"> CHAPTER XV </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0052" class="pgexternal" id="id-2606270809749731795"> CHAPTER XVI </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0053" class="pgexternal" id="id-1783867863301197170"> CHAPTER XVII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0054" class="pgexternal" id="id-4069238395742464599"> CHAPTER XVIII </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0055" class="pgexternal" id="id-7826520168688594737"> CHAPTER XIX </a>
+          </p>
+        </td>
+      </tr>
+    </tbody></table>
+    <p>
+      <br> <br>
+    </p>
+    <hr>
+    <p>
+      <br><a id="susan"></a> <br>
+    </p>
+    <h1>
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm" id="id-1153042110821765743"> Lady Susan</a>
+    </h1>
+  <table style="margin-right: auto; margin-left: auto">
+              <tbody><tr>
+                <td>
+    <p>
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0001" class="pgexternal" id="id-7499967362301155291"> I </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0002" class="pgexternal" id="id-4208707240284860329"> II </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0003" class="pgexternal" id="id-2210408771444920103"> III </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0004" class="pgexternal" id="id-9144457487948538884"> IV </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0005" class="pgexternal" id="id-6080884355484822080"> V </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0006" class="pgexternal" id="id-296612133816832582"> VI </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0007" class="pgexternal" id="id-3663521324708518407"> VII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0008" class="pgexternal" id="id-885044500732760963"> VIII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0009" class="pgexternal" id="id-8320994207102617541"> IX </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0010" class="pgexternal" id="id-360379964761686790"> X </a>   <br>
+      <br> <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0011" class="pgexternal" id="id-234503196659466750"> XI </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0012" class="pgexternal" id="id-8860664927845623147"> XII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0013" class="pgexternal" id="id-497078158225276690"> XIII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0014" class="pgexternal" id="id-3971750950214526833"> XIV </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0015" class="pgexternal" id="id-8813235568908286849"> XV </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0016" class="pgexternal" id="id-8284278234791960834"> XVI </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0017" class="pgexternal" id="id-3667861390879990521"> XVII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0018" class="pgexternal" id="id-2842383358986389399"> XVIII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0019" class="pgexternal" id="id-3497185197980648814"> XIX </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0020" class="pgexternal" id="id-6860050576513356313"> XX </a>   <br>
+      <br> <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0021" class="pgexternal" id="id-5622259307193588929"> XXI </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0022" class="pgexternal" id="id-8703489576616589967"> XXII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0023" class="pgexternal" id="id-7983763628251164111"> XXIII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0024" class="pgexternal" id="id-5538859010648253323"> XXIV </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0025" class="pgexternal" id="id-5122605006774109800"> XXV </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0026" class="pgexternal" id="id-2249615799236460932"> XXVI </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0027" class="pgexternal" id="id-7743303343242195879"> XXVII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0028" class="pgexternal" id="id-5284490423332597423"> XXVIII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0029" class="pgexternal" id="id-1617104742735732652"> XXIX </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0030" class="pgexternal" id="id-585622791330410100"> XXX </a>   <br>
+      <br> <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0031" class="pgexternal" id="id-1419599966648469572"> XXXI </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0032" class="pgexternal" id="id-3722347663402503919"> XXXII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0033" class="pgexternal" id="id-2570594322609832819"> XXXIII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0034" class="pgexternal" id="id-1094813264345428673"> XXXIV </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0035" class="pgexternal" id="id-4253450750906874352"> XXXV </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0036" class="pgexternal" id="id-87136827812527585"> XXXVI </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0037" class="pgexternal" id="id-4434051069800596159"> XXXVII </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0038" class="pgexternal" id="id-9169032749765975070"> XXXVIII </a>   <br><br>
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0039" class="pgexternal" id="id-810864083838702545"> XXXIX </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0040" class="pgexternal" id="id-729291033302320577"> XL </a>   
+      <a href="http://www.gutenberg.org/files/946/946-h/946-h.htm#link2H_4_0041" class="pgexternal" id="id-3755439572758549227"> XLI </a>   <br>
+      <br> <br> <br>
+    </p>
+                </td>
+              </tr>
+            </tbody></table>
+    <hr>
+    <p>
+      <br><a id="love"></a> <br>
+    </p>
+    <h1>
+      <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm" id="id-7755390304840889522"> Love And Freindship and other
+      Early Works</a>
+    </h1>
+    <table style="margin-right: auto; margin-left: auto">
+      <tbody><tr>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0001" class="pgexternal" id="id-8351506717593178958"> <b>LOVE AND
+            FREINDSHIP</b> </a>
+          </p>
+          <br>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0002" class="pgexternal" id="id-5140448877190306206"> LETTER the
+            FIRST From ISABEL to LAURA </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0003" class="pgexternal" id="id-8878574482868952738"> LETTER 2nd
+            LAURA to ISABEL </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0004" class="pgexternal" id="id-799843474018715959"> LETTER 3rd
+            LAURA to MARIANNE </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0005" class="pgexternal" id="id-6151188114590703375"> LETTER 4th
+            Laura to MARIANNE </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0006" class="pgexternal" id="id-7775580886489866800"> LETTER 5th
+            LAURA to MARIANNE </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0007" class="pgexternal" id="id-994023608393270699"> LETTER 6th
+            LAURA to MARIANNE </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0008" class="pgexternal" id="id-8665829931626769624"> LETTER 7th
+            LAURA to MARIANNE </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0009" class="pgexternal" id="id-963132698134907234"> LETTER 8th
+            LAURA to MARIANNE, in continuation </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0010" class="pgexternal" id="id-1310017226182640796"> LETTER the 9th
+            From the same to the same </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0011" class="pgexternal" id="id-8312295691357208632"> LETTER 10th
+            LAURA in continuation </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0012" class="pgexternal" id="id-8529715217847751659"> LETTER 11th
+            LAURA in continuation </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0013" class="pgexternal" id="id-2682698056789540213"> LETTER the
+            12th LAURA in continuation </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0014" class="pgexternal" id="id-307801878886427179"> LETTER the
+            13th LAURA in continuation </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0015" class="pgexternal" id="id-8146177185756358500"> LETTER the
+            14th LAURA in continuation </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0016" class="pgexternal" id="id-5631379174696340414"> LETTER the
+            15th LAURA in continuation. </a>
+          </p>
+          <br>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0017" class="pgexternal" id="id-462665474279100661"> <b>AN
+            UNFINISHED NOVEL IN LETTERS</b> </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0018" class="pgexternal" id="id-2668618035243074666"> LESLEY CASTLE
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0019" class="pgexternal" id="id-1343879533909772442"> LETTER the
+            FIRST is from Miss MARGARET LESLEY to Miss CHARLOTTE </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0020" class="pgexternal" id="id-1822451673414315305"> LETTER the
+            SECOND From Miss C. LUTTERELL to Miss M. LESLEY in answer. </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0021" class="pgexternal" id="id-7847444976384448652"> LETTER the
+            THIRD From Miss MARGARET LESLEY to Miss C. LUTTERELL Lesley </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0022" class="pgexternal" id="id-1144814125888692816"> LETTER the
+            FOURTH From Miss C. LUTTERELL to Miss M. LESLEY Bristol </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0023" class="pgexternal" id="id-8475966497972043168"> LETTER the
+            FIFTH Miss MARGARET LESLEY to Miss CHARLOTTE LUTTERELL </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0024" class="pgexternal" id="id-2581631569852705490"> LETTER the
+            SIXTH LADY LESLEY to Miss CHARLOTTE LUTTERELL Lesley-Castle </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0025" class="pgexternal" id="id-2376515179370388815"> LETTER the
+            SEVENTH From Miss C. LUTTERELL to Miss M. LESLEY Bristol </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0026" class="pgexternal" id="id-5348844383738326312"> LETTER the
+            EIGHTH Miss LUTTERELL to Mrs MARLOWE Bristol April 4th </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0027" class="pgexternal" id="id-522441741517101681"> LETTER the
+            NINTH Mrs MARLOWE to Miss LUTTERELL Grosvenor Street, April </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0028" class="pgexternal" id="id-7681571916386375558"> LETTER the
+            TENTH From Miss MARGARET LESLEY to Miss CHARLOTTE LUTTERELL </a>
+          </p>
+          <br>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0029" class="pgexternal" id="id-4021510506731380685"> <b>THE HISTORY
+            OF ENGLAND</b> </a>
+          </p>
+          <br>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0030" class="pgexternal" id="id-2992863098499652766"> <b>A
+            COLLECTION OF LETTERS</b> </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0031" class="pgexternal" id="id-6745768888482212653"> To Miss COOPER
+            </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0033" class="pgexternal" id="id-6115645136061794716"> LETTER the
+            FIRST From a MOTHER to her FREIND. </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0034" class="pgexternal" id="id-649157155057902891"> LETTER the
+            SECOND From a YOUNG LADY crossed in Love to her freind </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0035" class="pgexternal" id="id-7551121789882650445"> LETTER the
+            THIRD From a YOUNG LADY in distressed Circumstances </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0036" class="pgexternal" id="id-7553047982682120666"> LETTER the
+            FOURTH From a YOUNG LADY rather impertinent to her freind </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0037" class="pgexternal" id="id-7365138655305997344"> LETTER the
+            FIFTH From a YOUNG LADY very much in love to her Freind </a>
+          </p>
+          <br>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0038" class="pgexternal" id="id-1906974323191071040"> <b>THE FEMALE
+            PHILOSOPHER</b> </a>
+          </p>
+          <br>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0039" class="pgexternal" id="id-7032096950873929379"> <b>THE FIRST
+            ACT OF A COMEDY</b> </a>
+          </p>
+          <br>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0040" class="pgexternal" id="id-5203332610860745360"> A LETTER from
+            a YOUNG LADY, whose feelings being too strong </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0041" class="pgexternal" id="id-1416952737855020219"> A TOUR THROUGH
+            WALES—in a LETTER from a YOUNG LADY— </a>
+          </p>
+          <br>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1212/1212-h/1212-h.htm#link2H_4_0042" class="pgexternal" id="id-1939120889200733827"> <b>A TALE.</b>
+            </a>
+          </p>
+          <a id="link2H_TOC">
+          <!--  H2 anchor --> </a>
+        </td>
+      </tr>
+    </tbody></table>
+    <p>
+      <br> <br>
+    </p>
+    <hr>
+    <p>
+      <br><a id="pride"></a> <br>
+    </p>
+    <h1>
+      <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm" id="id-2136194375701697199"> Pride and Prejudice</a>
+    </h1>
+    <table style="margin-right: auto; margin-left: auto">
+      <tbody><tr>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0001" class="pgexternal" id="id-7664185515321042418"> Chapter 1 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0002" class="pgexternal" id="id-7091302486114246128"> Chapter 2 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0003" class="pgexternal" id="id-4225626764276463052"> Chapter 3 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0004" class="pgexternal" id="id-6827801645948752151"> Chapter 4 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0005" class="pgexternal" id="id-3260493898778296586"> Chapter 5 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0006" class="pgexternal" id="id-1843753179821512427"> Chapter 6 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0007" class="pgexternal" id="id-647574444905016682"> Chapter 7 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0008" class="pgexternal" id="id-6469829157851471956"> Chapter 8 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0009" class="pgexternal" id="id-321188198092160034"> Chapter 9 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0010" class="pgexternal" id="id-3721657326136319395"> Chapter 10 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0011" class="pgexternal" id="id-87921120189082601"> Chapter 11 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0012" class="pgexternal" id="id-4980473572000860258"> Chapter 12 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0013" class="pgexternal" id="id-6069107490315556304"> Chapter 13 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0014" class="pgexternal" id="id-8002838097395274218"> Chapter 14 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0015" class="pgexternal" id="id-1458509962728451422"> Chapter 15 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0016" class="pgexternal" id="id-1789495576760992459"> Chapter 16 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0017" class="pgexternal" id="id-7787314202274878695"> Chapter 17 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0018" class="pgexternal" id="id-4599880932934526425"> Chapter 18 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0019" class="pgexternal" id="id-2393174173975015866"> Chapter 19 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0020" class="pgexternal" id="id-2859432900711106869"> Chapter 20 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0021" class="pgexternal" id="id-2170436219398018670"> Chapter 21   
+            </a>
+          </p>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0022" class="pgexternal" id="id-7179819858820961655"> Chapter 22 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0023" class="pgexternal" id="id-6826257438696874743"> Chapter 23 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0024" class="pgexternal" id="id-3275218738003341387"> Chapter 24 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0025" class="pgexternal" id="id-6548195371287622708"> Chapter 25 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0026" class="pgexternal" id="id-8689805430804490292"> Chapter 26 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0027" class="pgexternal" id="id-5615924333318156923"> Chapter 27 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0028" class="pgexternal" id="id-4727657061913246762"> Chapter 28 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0029" class="pgexternal" id="id-1560834244455899585"> Chapter 29 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0030" class="pgexternal" id="id-4254236427107712179"> Chapter 30 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0031" class="pgexternal" id="id-1508833416704031065"> Chapter 31 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0032" class="pgexternal" id="id-8064996177229745224"> Chapter 32 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0033" class="pgexternal" id="id-8365468275949924120"> Chapter 33 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0034" class="pgexternal" id="id-6281897361189517142"> Chapter 34 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0035" class="pgexternal" id="id-3893045233973802401"> Chapter 35 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0036" class="pgexternal" id="id-6412876208445998532"> Chapter 36 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0037" class="pgexternal" id="id-8750601410637384516"> Chapter 37 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0038" class="pgexternal" id="id-6397224392855218767"> Chapter 38 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0039" class="pgexternal" id="id-8540818136762035963"> Chapter 39 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0040" class="pgexternal" id="id-5957056097652168012"> Chapter 40 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0041" class="pgexternal" id="id-437458850666434838"> Chapter 41 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0042" class="pgexternal" id="id-1162699504222409356"> Chapter 42   
+            </a>
+          </p>
+        </td>
+        <td>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0043" class="pgexternal" id="id-302118754518484399"> Chapter 43 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0044" class="pgexternal" id="id-7154300152783565719"> Chapter 44 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0045" class="pgexternal" id="id-3528953280320048485"> Chapter 45 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0046" class="pgexternal" id="id-5862775214672176149"> Chapter 46 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0047" class="pgexternal" id="id-4748829213141931097"> Chapter 47 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0048" class="pgexternal" id="id-8312074644348748295"> Chapter 48 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0049" class="pgexternal" id="id-428145652775041445"> Chapter 49 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0050" class="pgexternal" id="id-9147860094464047932"> Chapter 50 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0051" class="pgexternal" id="id-3964532316512809199"> Chapter 51 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0052" class="pgexternal" id="id-7960968780928295590"> Chapter 52 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0053" class="pgexternal" id="id-1528584242905180589"> Chapter 53 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0054" class="pgexternal" id="id-6051362545071994980"> Chapter 54 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0055" class="pgexternal" id="id-9512595401321665"> Chapter 55 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0056" class="pgexternal" id="id-9184146353982370624"> Chapter 56 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0057" class="pgexternal" id="id-5056669274608390739"> Chapter 57 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0058" class="pgexternal" id="id-8586178896252517555"> Chapter 58 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0059" class="pgexternal" id="id-4835432085662109280"> Chapter 59 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0060" class="pgexternal" id="id-4478036651686898192"> Chapter 60 </a>
+          </p>
+          <p class="toc">
+            <a href="http://www.gutenberg.org/files/1342/1342-h/1342-h.htm#link2HCH0061" class="pgexternal" id="id-6745955297607971136"> Chapter 61 </a>
+          </p>
+          <br><br><br>
+        </td>
+      </tr>
+    </tbody></table>
+    <p>
+      <br> <br>
+    </p>
+    <hr>
+    <p>
+      <br><a id="sense"></a> <br>
+    </p>
+    <h1>
+      <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm" id="id-3890958385508318639"> Sense and Sensibility</a>
+    </h1>
+    <h3>
+      Illustrated
+    </h3>
+     <table style="margin-right: auto; margin-left: auto">
+      <tbody><tr>
+        <td>
+           
+        </td>
+        <td class="tocpg f1">
+          PAGE
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#INTRODUCTION" class="pgexternal" id="id-6716199645010717150"><b>INTRODUCTION</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_vii" class="pgexternal" id="id-3700512738748989717">vii</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#LIST_OF_ILLUSTRATIONS" class="pgexternal" id="id-5029653329832020214"><b>LIST
+          OF ILLUSTRATIONS</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_xv" class="pgexternal" id="id-7595280925551571164">xv</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_I" class="pgexternal" id="id-7882167289431636002"><b>CHAPTER I</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_1" class="pgexternal" id="id-3616931723683083921">1</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_II" class="pgexternal" id="id-2058638874593643580"><b>CHAPTER II</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_6" class="pgexternal" id="id-6886318475550073478">6</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_III" class="pgexternal" id="id-3249423966432039994"><b>CHAPTER III</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_10" class="pgexternal" id="id-8545859716674826131">10</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_IV" class="pgexternal" id="id-8991171784256041883"><b>CHAPTER IV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_16" class="pgexternal" id="id-8231452877146652277">16</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_V" class="pgexternal" id="id-4937981458599954905"><b>CHAPTER V</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_20" class="pgexternal" id="id-573910375729174736">20</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_VI" class="pgexternal" id="id-3625996578534506963"><b>CHAPTER VI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_23" class="pgexternal" id="id-1151378933034278426">23</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_VII" class="pgexternal" id="id-5548157159634628000"><b>CHAPTER VII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_27" class="pgexternal" id="id-2326974723871893908">27</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_VIII" class="pgexternal" id="id-7383068239155070241"><b>CHAPTER VIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_31" class="pgexternal" id="id-6379161859895958024">31</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_IX" class="pgexternal" id="id-3593926355086119514"><b>CHAPTER IX</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_34" class="pgexternal" id="id-2339345560890077886">34</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_X" class="pgexternal" id="id-3468712969525209484"><b>CHAPTER X</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_39" class="pgexternal" id="id-2746116356053659435">39</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XI" class="pgexternal" id="id-7252108479802991855"><b>CHAPTER XI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_45" class="pgexternal" id="id-6883677106949383160">45</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XII" class="pgexternal" id="id-1559203243830646239"><b>CHAPTER XII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_49" class="pgexternal" id="id-6315350784694876790">49</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XIII" class="pgexternal" id="id-3137502421166403625"><b>CHAPTER XIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_54" class="pgexternal" id="id-1332653546829265193">54</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XIV" class="pgexternal" id="id-692004664382708965"><b>CHAPTER XIV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_61" class="pgexternal" id="id-3623893162119787507">61</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XV" class="pgexternal" id="id-8954917320812211777"><b>CHAPTER XV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_65" class="pgexternal" id="id-3057711939520984173">65</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XVI" class="pgexternal" id="id-3232302948499130633"><b>CHAPTER XVI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_72" class="pgexternal" id="id-3241418482491815324">72</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XVII" class="pgexternal" id="id-2645275315385780183"><b>CHAPTER XVII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_79" class="pgexternal" id="id-6023615681968879969">79</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XVIII" class="pgexternal" id="id-4259387220456941662"><b>CHAPTER
+          XVIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_83" class="pgexternal" id="id-761699150794982701">83</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XIX" class="pgexternal" id="id-5846303337788843404"><b>CHAPTER XIX</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_88" class="pgexternal" id="id-5153613502244602466">88</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XX" class="pgexternal" id="id-4373418338183209369"><b>CHAPTER XX</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_97" class="pgexternal" id="id-5582096366332405491">97</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXI" class="pgexternal" id="id-5782862300570918628"><b>CHAPTER XXI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_103" class="pgexternal" id="id-6558663905373941608">103</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXII" class="pgexternal" id="id-3499425035589944114"><b>CHAPTER XXII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_112" class="pgexternal" id="id-1848466448540254213">112</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXIII" class="pgexternal" id="id-5841070056869900119"><b>CHAPTER
+          XXIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_120" class="pgexternal" id="id-3765692289987744824">120</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXIV" class="pgexternal" id="id-8106719354233917910"><b>CHAPTER XXIV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_126" class="pgexternal" id="id-8349499310103546686">126</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXV" class="pgexternal" id="id-3401678368246569955"><b>CHAPTER XXV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_132" class="pgexternal" id="id-4953042343733615492">132</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXVI" class="pgexternal" id="id-296069685650601586"><b>CHAPTER XXVI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_137" class="pgexternal" id="id-1031165115569855291">137</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXVII" class="pgexternal" id="id-5764201151288979192"><b>CHAPTER
+          XXVII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_144" class="pgexternal" id="id-6042874261856426904">144</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXVIII" class="pgexternal" id="id-6427445220041781863"><b>CHAPTER
+          XXVIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_150" class="pgexternal" id="id-7561258733535820095">150</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXIX" class="pgexternal" id="id-8046947767740859384"><b>CHAPTER XXIX</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_155" class="pgexternal" id="id-305937392020225349">155</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXX" class="pgexternal" id="id-3815896955515767347"><b>CHAPTER XXX</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_165" class="pgexternal" id="id-5094586779656146229">165</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXI" class="pgexternal" id="id-9120130786016814312"><b>CHAPTER XXXI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_173" class="pgexternal" id="id-7972412604923837253">173</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXII" class="pgexternal" id="id-8311391083356203646"><b>CHAPTER
+          XXXII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_183" class="pgexternal" id="id-1476922941510225626">183</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXIII" class="pgexternal" id="id-3925520052918169984"><b>CHAPTER
+          XXXIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_191" class="pgexternal" id="id-5360130595817320463">191</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXIV" class="pgexternal" id="id-7404211069395390171"><b>CHAPTER
+          XXXIV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_201" class="pgexternal" id="id-8397414313161173338">201</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXV" class="pgexternal" id="id-5322309752858479762"><b>CHAPTER XXXV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_209" class="pgexternal" id="id-2956325055532636270">209</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXVI" class="pgexternal" id="id-4487118214927205924"><b>CHAPTER
+          XXXVI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_216" class="pgexternal" id="id-5826507095959981383">216</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXVII" class="pgexternal" id="id-3463126492955133351"><b>CHAPTER
+          XXXVII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_223" class="pgexternal" id="id-1657239030408181751">223</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXVIII" class="pgexternal" id="id-2915463059538597455"><b>CHAPTER
+          XXXVIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_237" class="pgexternal" id="id-4805069622632942936">237</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XXXIX" class="pgexternal" id="id-2774378004490492582"><b>CHAPTER
+          XXXIX</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_247" class="pgexternal" id="id-4165062390366925386">247</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XL" class="pgexternal" id="id-4533915098710480015"><b>CHAPTER XL</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_252" class="pgexternal" id="id-7550871973209222243">252</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLI" class="pgexternal" id="id-7950519312135407016"><b>CHAPTER XLI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_259" class="pgexternal" id="id-3634026714104078896">259</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLII" class="pgexternal" id="id-5340922222281361980"><b>CHAPTER XLII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_267" class="pgexternal" id="id-2860777285820360004">267</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLIII" class="pgexternal" id="id-7724528278783921282"><b>CHAPTER
+          XLIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_273" class="pgexternal" id="id-8540399922830422532">273</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLIV" class="pgexternal" id="id-7030830679668758009"><b>CHAPTER XLIV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_283" class="pgexternal" id="id-6510506472428279989">283</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLV" class="pgexternal" id="id-5083510519956521427"><b>CHAPTER XLV</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_299" class="pgexternal" id="id-2433937239918259750">299</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLVI" class="pgexternal" id="id-8709044829465270226"><b>CHAPTER XLVI</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_304" class="pgexternal" id="id-2710446818488603710">304</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLVII" class="pgexternal" id="id-1268430431505610816"><b>CHAPTER
+          XLVII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_313" class="pgexternal" id="id-6172016303952395415">313</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLVIII" class="pgexternal" id="id-1241775626279897099"><b>CHAPTER
+          XLVIII</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_320" class="pgexternal" id="id-1300179676318647525">320</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_XLIX" class="pgexternal" id="id-3359619637641564109"><b>CHAPTER XLIX</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_324" class="pgexternal" id="id-614361600876061039">324</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#CHAPTER_L" class="pgexternal" id="id-5657678474834642322"><b>CHAPTER L</b></a>
+        </td>
+        <td class="tocpg">
+          <a href="http://www.gutenberg.org/files/21839/21839-h/21839-h.htm#Page_335" class="pgexternal" id="id-8633096610560905760">335</a>
+        </td>
+      </tr>
+    </tbody></table>
+
+<div style="text-align:center"></div><section class="pg-boilerplate pgheader" id="pg-footer" lang="en">
+<div id="pg-end-separator">
+<span>*** END OF THE PROJECT GUTENBERG EBOOK THE COMPLETE PROJECT GUTENBERG WORKS OF JANE AUSTEN ***</span>
+</div>
+
+    
+<div>
+Updated editions will replace the previous one—the old editions will
+be renamed.
+</div><div>
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+</div>
+
+<div id="project-gutenberg-license">START: FULL LICENSE</div>
+
+<h2 id="pg-footer-heading">THE FULL PROJECT GUTENBERG LICENSE</h2>
+
+<div class="agate">PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+</div><div>
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+</div><div class="secthead">
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+</div><div>
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+</div><div>
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+</div><div>
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+</div><div>
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+</div><div>
+1.E. Unless you have removed all references to Project Gutenberg:
+</div><div>
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+</div><blockquote><div>
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at <a href="https://www.gutenberg.org">www.gutenberg.org</a>. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  </div></blockquote><div>
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+</div><div>
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+</div><div>
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+</div><div>
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+</div><div>
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+</div><div>
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+</div><div>
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+</div><ul>
+    <li>• You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    </li>
+    <li>• You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    </li>
+    <li>• You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    </li>
+    <li>• You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    </li>
+</ul><div>
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+</div><div>
+1.F.
+</div><div>
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+</div><div>
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+</div><div>
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+</div><div>
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+</div><div>
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+</div><div>
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+</div><div class="secthead">
+Section 2. Information about the Mission of Project Gutenberg™
+</div><div>
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+</div><div>
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+</div><div class="secthead">
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+</div><div>
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+</div><div>
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+</div><div class="secthead">
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+</div><div>
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+</div><div>
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit <a href="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</a>.
+</div><div>
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+</div><div>
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+</div><div>
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+</div><div class="secthead">
+Section 5. General Information About Project Gutenberg™ electronic works
+</div><div>
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+</div><div>
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+</div><div>
+Most people start at our website which has the main PG search
+facility: <a href="https://www.gutenberg.org">www.gutenberg.org</a>.
+</div><div>
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+</div>
+
+</section></body></html>
