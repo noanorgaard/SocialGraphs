@@ -77,7 +77,7 @@
         }</style><title>The Legends of KING ARTHUR and his KNIGHTS</title>
 <style>.pg_body_wrapper {
     display: inline
-    }</style><style id="id-1767619064256353965">body {
+    }</style><style id="id-8657082041442439455">body {
     font-family: Georgia;
     background-image: url(images/backgrnd.jpg)
     }
@@ -180,7 +180,7 @@ ul.none {
 <meta name="dc.title" content="The Legends of King Arthur and His Knights">
 <meta name="dc.language" content="en">
 <meta name="dcterms.source" content="https://www.gutenberg.org/files/12753/12753-h/12753-h.htm">
-<meta name="dcterms.modified" content="2025-10-05T20:00:32.997985+00:00">
+<meta name="dcterms.modified" content="2025-11-05T21:06:27.496212+00:00">
 <meta name="dc.rights" content="Public domain in the USA.">
 <link rel="dcterms.isFormatOf" href="http://www.gutenberg.org/ebooks/12753">
 <meta name="dc.creator" content="Knowles, James, Sir, 1831-1908">
@@ -1261,7 +1261,7 @@ and grasping at the pommel, pulled it out easily, and at once.
 <div class="pg_body_wrapper"><img alt="Then fell Sir Ector down upon his knees upon the ground before young Arthur, and Sir Key also with him." src="images/figure02.jpg" title="Then fell Sir Ector down upon his knees upon the ground before young Arthur, and Sir Key also with him." id="figure02" style="width: 50%; float: left;"></div>
 
 <p>
-<a href="images/figure02.jpg" id="id-8426540373749665042">Then fell Sir Ector down upon his knees upon the ground before young
+<a href="images/figure02.jpg" id="id-5355315511020045036">Then fell Sir Ector down upon his knees upon the ground before young
 Arthur, and Sir Key also with him,</a> and straightway did him homage as their
 sovereign lord.
 </p>
@@ -1463,7 +1463,7 @@ is that?” said the king.
 <div class="pg_body_wrapper"><img alt="The lady of the lake." src="images/figure03.jpg" title="The lady of the lake." id="figure03" style="width: 50%; float: left;"></div>
 
 <p>
-<a href="images/figure03.jpg" id="id-696627146708867989">“The lady of the lake,”</a> said Merlin; “for upon this lake there is a rock,
+<a href="images/figure03.jpg" id="id-4759064585072805740">“The lady of the lake,”</a> said Merlin; “for upon this lake there is a rock,
 and on the rock a noble palace, where she abideth, and she will come
 towards thee presently, thou shalt ask her courteously for the sword.”
 </p>
@@ -2559,7 +2559,7 @@ fire he is at supper.”
 “Well,” said King Arthur, “I will accomplish mine errand, for all thy
 fearful words;” and so went forth to the crest of the hill, and saw where
 <a class="pagenum" title="050" id="page050"></a>
-<a href="images/figure04.jpg" id="id-3885949936412602670">the giant sat at supper, gnawing on a limb of a man, and baking his huge
+<a href="images/figure04.jpg" id="id-7814524529576649341">the giant sat at supper, gnawing on a limb of a man, and baking his huge
 frame by the fire,</a> while three damsels turned three spits whereon were
 spitted, like larks, twelve young children lately born.
 </p>
@@ -3423,7 +3423,7 @@ swooning to the ground.
 <div class="pg_body_wrapper"><img alt="The castle rocked and rove throughout, and all the walls fell crashed and breaking to the earth." src="images/figure05.jpg" title="The castle rocked and rove throughout, and all the walls fell crashed and breaking to the earth." id="figure05" style="width: 50%; float: left;"></div>
 
 <p>
-But at that Dolorous and awful Stroke <a href="images/figure05.jpg" id="id-9171936094637435639">the castle rocked and rove
+But at that Dolorous and awful Stroke <a href="images/figure05.jpg" id="id-7745389604400779306">the castle rocked and rove
 throughout, and all the walls fell crashed and breaking to the earth,</a> and
 Balin himself fell also in their midst, struck as it were to stone, and
 powerless to move a hand or foot. And so three days he lay amidst the
@@ -4515,7 +4515,7 @@ throughout furnished, and hung with rich draperies of silk and gold.
 <p>
 By this time eventide had come, when suddenly a hundred torches were set
 up on all sides of the barge, and gave a dazzling light, and at the same
-time <a href="images/figure06.jpg" id="id-2842196843240932716">came forth twelve fair damsels, and saluted King Arthur by his name,</a>
+time <a href="images/figure06.jpg" id="id-4659808569936696188">came forth twelve fair damsels, and saluted King Arthur by his name,</a>
 kneeling on their knees, and telling him that he was welcome, and should
 have their noblest cheer, for which the king thanked them courteously.
 Then did they lead him and his fellows to a splendid chamber, where was a
@@ -5276,7 +5276,7 @@ knights.”
 <div class="pg_body_wrapper"><img alt="Prianius was christened, and made a duke and knight of the Round Table." src="images/figure07.jpg" title="Prianius was christened, and made a duke and knight of the Round Table." id="figure07" style="width: 50%; float: left;"></div>
 
 <p>
-<a href="images/figure07.jpg" id="id-8330597627631524873">So Prianius was christened, and made a duke and knight of the Round Table.</a>
+<a href="images/figure07.jpg" id="id-5128008916979907806">So Prianius was christened, and made a duke and knight of the Round Table.</a>
 </p>
 
 <p>
@@ -5635,7 +5635,7 @@ the party of King Bagdemagus was driven back.
 <div class="pg_body_wrapper"><img alt="Sir Lancelot smote down with one spear five knights, and brake the backs of four, and cast down the King of Northgales." src="images/figure08.jpg" title="Sir Lancelot smote down with one spear five knights, and brake the backs of four, and cast down the King of Northgales." id="figure08" style="width: 50%; float: right;"></div>
 
 <p>
-<a href="images/figure08.jpg" id="id-2738405247541467474">With that, came Sir Lancelot, and thrust into the thickest of the press,
+<a href="images/figure08.jpg" id="id-3558988587582695539">With that, came Sir Lancelot, and thrust into the thickest of the press,
 and smote down with one spear five knights, and brake the backs of four,
 and cast down the King of Northgales,</a> and brake his thigh by the fall.
 When the three knights of Arthur’s court saw this, they rode at Sir
@@ -6230,7 +6230,7 @@ With that they let him pass.
 <div class="pg_body_wrapper"><img alt="Beyond the chapel, he met a fair damsel, who said, “Sir Lancelot, leave that sword behind thee, or thou diest.”" src="images/figure09.jpg" title="Beyond the chapel, he met a fair damsel, who said, “Sir Lancelot, leave that sword behind thee, or thou diest.”" id="figure09" style="width: 50%; float: right;"></div>
 
 <p>
-And further on, <a href="images/figure09.jpg" id="id-1302791544906321646">beyond the chapel, he met a fair damsel, who said, “Sir
+And further on, <a href="images/figure09.jpg" id="id-8719869107548984645">beyond the chapel, he met a fair damsel, who said, “Sir
 Lancelot, leave that sword behind thee, or thou diest.”</a>
 </p>
 
@@ -6878,7 +6878,7 @@ lineage.”
 <div class="pg_body_wrapper"><img alt="“Lady,” replied Sir Beaumains, “a knight is little worth who may not bear with a damsel.”" src="images/figure10.jpg" title="“Lady,” replied Sir Beaumains, “a knight is little worth who may not bear with a damsel.”" id="figure10" style="width: 50%; float: left;"></div>
 
 <p>
-<a href="images/figure10.jpg" id="id-3544691689692499905">“Lady,” replied Sir Beaumains, “a knight is little worth who may not bear
+<a href="images/figure10.jpg" id="id-2893518113894856367">“Lady,” replied Sir Beaumains, “a knight is little worth who may not bear
 with a damsel;</a> and so whatsoever ye said to me I took no heed, save only
 that at times when your scorn angered me, it made me all the stronger
 against those with whom I fought, and thus have ye furthered me in my
@@ -7395,7 +7395,7 @@ myself with my sword and spear.”
 
 <p>
 “It is well,” said the duchess; and commanded the drawbridge to be let
-down. <a href="images/figure11.jpg" id="id-7185301069810791511">So he rode into the hall and alighted.</a> And when he had taken off his
+down. <a href="images/figure11.jpg" id="id-1418386255500100186">So he rode into the hall and alighted.</a> And when he had taken off his
 armour, the duchess and her ladies made him passing good cheer. And after
 supper his bed was made in the hall, and there he <a class="pagenum" title="178" id="page178"></a> rested that night. On
 the morrow he rose and heard mass, and having broken his fast, took his
@@ -7819,7 +7819,7 @@ I shall gain honour to have met so great a knight as thou art.”
 <div class="pg_body_wrapper"><img alt="Then they began the battle, and tilted at their hardest against each other." src="images/figure12.jpg" title="Then they began the battle, and tilted at their hardest against each other." id="figure12" style="width: 50%; float: right;"></div>
 
 <p>
-<a href="images/figure12.jpg" id="id-3910663643018295442">Then they began the battle, and tilted at their hardest against each
+<a href="images/figure12.jpg" id="id-8406378357178987278">Then they began the battle, and tilted at their hardest against each
 other,</a> so that both knights and horses fell to the earth. But Sir Marhaus’
 spear smote Sir Tristram a great wound in the side. Then, springing up
 from their horses, they lashed together with their swords like two wild
@@ -7995,7 +7995,7 @@ Marhaus.
 
 <p>
 Therewith she turned and cried, “By my faith, this is the felon knight who
-slew thy uncle!” <a href="images/figure13.jpg" id="id-2211747513475332912">And running to her chamber she sought in her casket for
+slew thy uncle!” <a href="images/figure13.jpg" id="id-8499533174165803813">And running to her chamber she sought in her casket for
 the piece of iron from Sir Marhaus’ head and brought it back, and fitted
 it in Tristram’s sword;</a> and surely did it fit therein as closely as it had
 been but yesterday broke out.
@@ -8399,7 +8399,7 @@ Sir Tristram took it up, and said, “Fair lady, this looketh to be the best
 of wines, and your maid, Dame Bragwaine, and my servant, Governale, have
 kept it for themselves.” Thereat they both laughed merrily, and drank each
 after other from the flask, and never before had they tasted any wine
-which seemed so good and sweet. <a href="images/figure14.jpg" id="id-5250647851774570681">But by the time they had finished drinking
+which seemed so good and sweet. <a href="images/figure14.jpg" id="id-3257765416137468180">But by the time they had finished drinking
 they loved each other so well that their love nevermore might leave them</a>
 for weal or woe. And thus it came to pass that though Sir Tristram might
 never wed La Belle Isault, he did the mightiest deeds of arms for her sake
@@ -9294,7 +9294,7 @@ oak-tree, and the damsel prayed to see all that charm whereby men might be
 shut up yet alive in rocks or trees. But he refused her a long time,
 fearing to let her know, yet in the end, her prayers and kisses overcame
 him, and he told her all. Then did she make him great cheer, but anon, as
-he lay down to sleep, she softly rose, and walked about him <a class="pagenum" title="224" id="page224"></a> <a href="images/figure15.jpg" id="id-8888714382346271952">waving her
+he lay down to sleep, she softly rose, and walked about him <a class="pagenum" title="224" id="page224"></a> <a href="images/figure15.jpg" id="id-8962630349484599551">waving her
 hands and muttering the charm, and presently enclosed him fast within the
 tree</a> whereby he slept. And therefrom nevermore he could by any means come
 out for all the crafts that he could do. And so she departed and left
@@ -9921,7 +9921,7 @@ tomb, and lift it up.”
 <div class="pg_body_wrapper"><img alt="Galahad ... quickly lifted up the stone, and forthwith came out a foul smoke." src="images/figure16.jpg" title="Galahad ... quickly lifted up the stone, and forthwith came out a foul smoke." id="figure16" style="width: 50%; float: right;"></div>
 
 <p>
-<a href="images/figure16.jpg" id="id-747934843921187697">And Galahad, nothing afraid, quickly lifted up the stone, and forthwith
+<a href="images/figure16.jpg" id="id-1231008969388931822">And Galahad, nothing afraid, quickly lifted up the stone, and forthwith
 came out a foul smoke,</a> and from the midst thereof leaped up the loathliest
 figure that ever he had seen in the likeness of man; and Galahad blessed
 himself, for he knew it was a fiend of hell. Then he <a class="pagenum" title="237" id="page237"></a> heard a voice crying
@@ -10815,7 +10815,7 @@ daring.”
 <p>
 “Fair sir,” said she, “dismay you not;” and therewith took from out a box
 a girdle, nobly wrought with golden thread, set full of precious stones
-and with a rich gold buckle. <a href="images/figure17.jpg" id="id-7137740216130764078">“This girdle, lords,” said she, “is made for
+and with a rich gold buckle. <a href="images/figure17.jpg" id="id-3951412137379454426">“This girdle, lords,” said she, “is made for
 the most part of mine own hair, which, while I was yet in the world, I
 loved full well;</a> but when I knew that this adventure was ordained me, I
 cut off and wove as ye now see.”
@@ -11741,7 +11741,7 @@ the other many sad strokes and sore and deep wounds.
 
 <p>
 Thus they fought nigh an hour, for Sir Mador was a full strong and valiant
-knight. <a href="images/figure18.jpg" id="id-8528684218206596858">But at last the strange knight smote him to the earth, and gave
+knight. <a href="images/figure18.jpg" id="id-3429051230388862714">But at last the strange knight smote him to the earth, and gave
 him such a buffet on the helm as wellnigh killed him.</a> Then did Sir Mador
 yield, and prayed his life.
 </p>
@@ -12469,7 +12469,7 @@ thereon written, “To the noble knight, Sir Lancelot du Lake.”
 <div class="pg_body_wrapper"><img alt="Then was Sir Lancelot sent for, and the letter read aloud by a clerk." src="images/figure19.jpg" title="Then was Sir Lancelot sent for, and the letter read aloud by a clerk." id="figure19" style="width: 50%; float: right;"></div>
 
 <p>
-<a href="images/figure19.jpg" id="id-5209519583819050848">Then was Sir Lancelot sent for, and the letter read aloud by a clerk,</a> and
+<a href="images/figure19.jpg" id="id-585904700992791088">Then was Sir Lancelot sent for, and the letter read aloud by a clerk,</a> and
 thus it was written:—
 </p>
 
@@ -12620,7 +12620,7 @@ dressed himself in his armour, and took his drawn sword in his hand.
 <div class="pg_body_wrapper"><img alt="But still the knights cried mightily without the door, “Traitor, come forth!”" src="images/figure20.jpg" title="But still the knights cried mightily without the door, “Traitor, come forth!”" id="figure20" style="width: 50%; float: left;"></div>
 
 <p>
-<a href="images/figure20.jpg" id="id-2300730478955840896">But still the knights cried mightily without the door, “Traitor, come
+<a href="images/figure20.jpg" id="id-6088920090808275200">But still the knights cried mightily without the door, “Traitor, come
 forth!”</a>
 </p>
 

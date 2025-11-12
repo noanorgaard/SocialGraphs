@@ -108,15 +108,6 @@
   <data key="d7">nan</data>
 </node>
 <node id="11">
-  <data key="d0">14852</data>
-  <data key="d1">The Younger Set</data>
-  <data key="d2">["Chambers, Robert W. (Robert William)"]</data>
-  <data key="d3">6567</data>
-  <data key="d4">1907.0</data>
-  <data key="d5">47.0</data>
-  <data key="d6">["Fiction, general"]</data>
-</node>
-<node id="12">
   <data key="d0">1514</data>
   <data key="d1">A Midsummer Night's Dream</data>
   <data key="d2">["Shakespeare, William"]</data>
@@ -125,16 +116,7 @@
   <data key="d5">1485.0</data>
   <data key="d6">["Drama", "Courtship", "Plays", "Hippolyta (Greek mythology)", "Theseus (Greek mythology)", "Juvenile drama", "Children's plays, English", "Stage history", "Textual Criticism", "Nonfiction", "Description and travel", "Sources", "Juvenile literature", "Criticism and interpretation", "Critique et interprétation", "Classic Literature", "English Young adult drama", "Amateur theater", "English drama", "Open Library Staff Picks", "Fairy plays", "Silhouettes", "Theater", "Quartos", "Problems, exercises", "Cortejo amoroso", "German Prints", "Comedias", "Teatro", "Fantasy", "Literary Criticism", "English drama (Comedy)", "Midsummer night's dream (Shakespeare, William)", "Man-woman relationships, fiction", "History and criticism", "Shakespeare, William, 1564-1616", "Courtship -- Drama", "Athens (Greece) -- Drama", "Children''s plays", "Dramatic production", "Atenas (Grecia)", "Hipólita (Mitología griega)", "Teseo (Mitología griega)", "Magic", "Adaptations", "Gesher (Theater company : Tel Aviv, Israel)", "Specimens", "Theater programs", "Comedy", "British and irish drama (dramatic works by one author)", "Shakespeare, william, 1564-1616, midsummer night's dream", "Shakespeare, william, 1564-1616, adaptations", "English literature, study and teaching", "Drama (dramatic works by one author)", "Shakespeare, william, 1564-1616, juvenile literature", "English literature", "British and irish fiction (fictional works by one author)", "Drama, british and irish", "Fiction, general", "Children's plays", "Children's fiction", "Fairies, fiction", "Cartoons and comics", "Dreams, fiction", "Shakespeare, william, 1564-1616, criticism and interpretation", "Drama, collections", "Comic books, strips", "Juvenile fiction", "Study and teaching (Secondary)", "Literature", "Shakespeare, william, 1564-1616, comedies", "Theatre", "Shakespeare, William. A midsummer night's dream", "Education", "Rhaeto-Romance/Romansh literature", "Rhaeto-Romance/Romansh drama", "Texts translated into Rhaeto-Romance/Romansh", "Children's literature", "Continental european drama (dramatic works by one author)", "DRAMA / General", "Relaciones hombre-mujer", "Comedies", "Forced removal and internment, 1942-1945", "Shakespeare", "Graphic novels", "Comics &amp; graphic novels, manga, general", "Comics &amp; graphic novels, literary", "Comics &amp; graphic novels, adaptations", "Shakespeare, william , 1564-1616", "Theseus", "Hippolyta (greek mythology)--drama", "Courtship--drama", "Dreams in literature", "Poetry", "Film adaptations", "Film and video adaptations", "Japanese", "Evacuation and relocation, 1942-1945", "Fiction", "Bibliography", "Poetry of places", "Voyages and travels", "English comedy", "Teʼaṭron ha-ʻironi Ḥefah", "Man-woman relationships", "Fiction, historical, general", "Teʼaṭron ha-ʻironi Beʼer-Shevaʻ (Beersheba, Israel)", "Translations into French", "French drama", "Japanese Translations", "Translations into Japanese", "Unrequited love", "Porcelain", "Exhibitions", "Translations into Persian"]</data>
 </node>
-<node id="13">
-  <data key="d0">14568</data>
-  <data key="d1">Sir Gawayne and the Green Knight: An Alliterative Romance-Poem (c. 1360 A.D.)</data>
-  <data key="d2">[]</data>
-  <data key="d3">5350</data>
-  <data key="d4">nan</data>
-  <data key="d5">nan</data>
-  <data key="d7">nan</data>
-</node>
-<node id="14">
+<node id="12">
   <data key="d0">2610</data>
   <data key="d1">Notre-Dame de Paris</data>
   <data key="d2">["Hugo, Victor"]</data>
@@ -143,7 +125,7 @@
   <data key="d5">39.0</data>
   <data key="d6"></data>
 </node>
-<node id="15">
+<node id="13">
   <data key="d0">86</data>
   <data key="d1">A Connecticut Yankee in King Arthur's Court</data>
   <data key="d2">["Twain, Mark"]</data>
@@ -152,7 +134,16 @@
   <data key="d5">788.0</data>
   <data key="d6">["Time travel", "Fiction", "Arthurian romances", "Kings and rulers", "Adaptations", "Knights and knighthood", "Americans", "Britons", "American fiction (fictional works by one author)", "Fiction, fantasy, historical", "Great britain, fiction", "Arthur, king, fiction", "Camelot (legendary place), fiction", "England, fiction", "Fiction, humorous", "Fiction, satire", "Middle Ages", "Medievalism", "Middle Ages in literature", "History", "Juvenile fiction", "Large type books", "Travel", "King Arthur", "Connecticut Yankee in King Arthur's court (Twain, Mark)", "Life on the Mississippi (Twain, Mark)", "Mysterious stranger and other stories (Twain, Mark)", "Children's fiction", "Knights and knighthood, fiction", "Literature and fiction, historical fiction", "Literature and fiction, fantasy", "Fiction, fantasy, general", "History and criticism", "Arthurian romances, adaptations", "Criticism and interpretation", "Fiction, action &amp; adventure", "Fantasy fiction", "Satire", "Knights and knighthood -- Fiction", "Arthurian romances -- Adaptations", "Time travel -- Fiction", "Americans -- Great Britain -- Fiction", "Kings and rulers -- Fiction", "Britons -- Fiction", "Twain, mark, 1835-1910", "Dictionaries", "English language", "German", "Moyen Âge", "Romans, nouvelles", "Voyages dans le temps", "Long Now Manual for Civilization", "literature", "18.06 Anglo-American literature"]</data>
 </node>
-<node id="16">
+<node id="14">
+  <data key="d0">14568</data>
+  <data key="d1">Sir Gawayne and the Green Knight: An Alliterative Romance-Poem (c. 1360 A.D.)</data>
+  <data key="d2">[]</data>
+  <data key="d3">4681</data>
+  <data key="d4">nan</data>
+  <data key="d5">nan</data>
+  <data key="d7">nan</data>
+</node>
+<node id="15">
   <data key="d0">31100</data>
   <data key="d1">The Complete Project Gutenberg Works of Jane Austen: A Linked Index of all PG Editions of Jane Austen</data>
   <data key="d2">["Austen, Jane"]</data>
@@ -161,7 +152,7 @@
   <data key="d5">nan</data>
   <data key="d7">nan</data>
 </node>
-<node id="17">
+<node id="16">
   <data key="d0">75201</data>
   <data key="d1">A farewell to arms</data>
   <data key="d2">["Hemingway, Ernest"]</data>
@@ -170,7 +161,7 @@
   <data key="d5">100.0</data>
   <data key="d6">["Cuentos de guerra", "World War, 1914-1918", "Open Library Staff Picks", "Fiction", "Campaigns", "open_syllabus_project", "American fiction", "Guerra Mundial I, 1914-1918", "Ficción", "1914-1918 World War", "World War (1914-1918) fast (OCoLC)fst01180746", "Man-woman relationships", "German language materials", "American War stories", "American fiction (fictional works by one author)", "World War I, 1914-1918, fiction", "Fiction, war &amp; military", "Fiction, romance, historical", "War stories, fiction", "Man-woman relationships, fiction", "Spain, fiction", "American literature", "Actors", "National Theatre (New York, N.Y. : Houston Street and 2nd Avenue)", "Autographs", "Biography", "Theater", "Military deserters", "War", "American writers, 1900-1945 - Texts", "Français (langue)", "Lectures et morceaux choisis", "Guerre mondiale, 1914-1918", "Romans, nouvelles", "Déserteurs", "World war (1914-1918)", "World war, 1914-1918--fiction", "Roman", "Amerikanisches englisch", "Ps3515.e37 f3 2012", "813/.52", "Fiction in english"]</data>
 </node>
-<node id="18">
+<node id="17">
   <data key="d0">42671</data>
   <data key="d1">Pride and Prejudice</data>
   <data key="d2">["Austen, Jane"]</data>
@@ -179,7 +170,7 @@
   <data key="d5">4036.0</data>
   <data key="d6">["Fiction, Romance, Historical, Regency", "British and Irish fiction (fictional works by one author)", "Brothers and sisters", "Courtship", "Drama", "English fiction", "English literature", "Families", "Family", "Family life", "Family relations", "Fiction Classics", "History", "Interpersonal relations", "Literary Fiction", "Love stories", "manners", "Manners and customs", "marriage", "Sisters", "Social classes", "Social life and customs", "Upper class", "wealth", "Women in England", "young ladies", "Young women", "entail", "Young women, fiction", "Sisters, fiction", "Fiction, family life, general", "England, fiction", "Man-woman relationships, fiction", "Roman anglais", "Classes sociales", "Romans, nouvelles", "Sœurs", "Amours", "Jeunes femmes", "Familles", "Mœurs et coutumes\"", "Clases sociales", "Novela", "Jóvenes (Mujeres)", "Cortejo amoroso", "Hermanas", "Cuentos de amor", "Fiction, coming of age", "Fiction, romance, general", "Great britain, social life and customs, fiction", "Readers", "Prejudices", "Romance fiction", "Historical fiction", "Classical literature", "Domestic fiction", "English language, textbooks for foreign speakers", "Women, fiction", "Adaptations", "Gentry", "Mate selection", "Fiction, romance, historical, general", "English literature (collections)", "Coloring books", "Fiction, family life", "Language and languages, study and teaching", "Emoticons", "Drama (dramatic works by one author)", "Feelings", "Class", "Englisch", "Roman", "Sociala klasser i litteraturen", "Prophecies", "Great britain", "Reading level-grade 7", "Reading level-grade 9", "Reading level-grade 8", "Reading level-grade 11", "Reading level-grade 10", "Reading level-grade 12", "Large type books", "Fiction, romance, historical", "Austen, jane, 1775-1817", "Literature and fiction (general)", "English literature, history and criticism", "England", "Художественная литература -- Великобритания -- Английская литература -- 1-ая пол. 19 в. -- Романы", "Novel", "Fiction", "Long Now Manual for Civilization", "Elizabeth Bennet (Fictitious character)", "Fitzwilliam Darcy (Fictitious character)", "Pride and prejudice (Austen, Jane)", "Mr. Collins (Fictitious character)"]</data>
 </node>
-<node id="19">
+<node id="18">
   <data key="d0">3268</data>
   <data key="d1">The Mysteries of Udolpho</data>
   <data key="d2">["Radcliffe, Ann Ward"]</data>
@@ -188,7 +179,7 @@
   <data key="d5">210.0</data>
   <data key="d6">["Castles", "Classic Literature", "Fiction", "Gothic novels", "Guardian and ward", "Inheritance and succession", "Orphans", "Young women", "Air", "Asphyxiating and poisonous Gases", "Pollution", "Measurement", "Haunted houses", "British and irish fiction (fictional works by one author)", "Italy, fiction", "Fiction, horror", "Fiction, religious", "Young women, fiction", "Communication and traffic", "Fiction, mystery &amp; detective, general", "Gothic fiction (literary genre)", "Long now manual for civilization"]</data>
 </node>
-<node id="20">
+<node id="19">
   <data key="d0">1112</data>
   <data key="d1">Romeo and Juliet</data>
   <data key="d2">["Shakespeare, William"]</data>
@@ -196,6 +187,15 @@
   <data key="d4">1597.0</data>
   <data key="d5">975.0</data>
   <data key="d6">["Classical Literature", "British and irish drama (dramatic works by one author)", "Conflicto entre generaciones", "Conflict of generations", "courtship", "Drama", "Drama inglés", "Dramatic production", "Enemistad mortal", "English drama (collections), early modern and elizabethan, 1500-1600", "English literature", "English literature, study and teaching", "English Love stories", "English Young adult drama", "Families", "Fiction", "Juventud", "Language and linguistics", "Literature", "Love-Romance-Fiction", "Love in adolescence", "Man-woman relationships", "Married people", "open_syllabus_project", "Performing Arts", "Plays", "Quartos", "Reading Level-Grade 9", "Reading Level-Grade 10", "Reading Level-Grade 11", "Reading Level-Grade 12", "Shakespeare", "Sources", "Specimens", "Stage history", "Suicide", "Suspense-Fiction", "Teatro", "Tragedias", "Tragedy", "Vendetta", "Youth", "Shakespeare, william, 1564-1616", "Shakespeare, william, 1564-1616, romeo and juliet", "Shakespeare, william, 1564-1616, criticism, textual", "Shakespeare, william, 1564-1616, outlines, syllabi, etc.", "Shakespeare, william, 1564-1616, dramatic production", "Shakespeare, william, 1564-1616, stage history", "Shakespeare, william, 1564-1616, criticism and interpretation", "Drama, british and irish", "Shakespeare, william, 1564-1616, adaptations", "Critique et interprétation", "Romeo and Juliet (Shakespeare, William)", "Romeo (Fictitious character)", "Juliet (Fictitious character)", "English drama", "Love", "Adaptations", "Comics &amp; graphic novels, literary", "Drama, collections", "Translations", "Tragedies", "Man-woman relationship", "Spanish language", "Motion picture plays", "Romeo and Juliet", "Traducciones al español", "18.05 English literature", "Examinations", "Fiction, general", "Vendetta -- Drama", "Youth -- Drama", "Verona (Italy) -- Drama", "Juliet (Fictitious character) -- Drama", "Romeo (Fictitious character) -- Drama", "Conflict of generations -- Drama", "English drama (Tragedy)", "Translations into Spanish", "Early modern and Elizabethan", "Teatro inglés (Tragedia)", "Literatura inglesa", "Theater", "Aufführung", "Geschichte", "Drama (dramatic works by one author)", "Caricatures and cartoons", "Cartoons and comics", "Caricatures et dessins humoristiques", "Translations into Tibetan", "Translations into German", "Literature and society", "History", "Shakespeare, william , 1564-1616", "Conflict of generations--drama", "Vendetta--drama", "Youth--drama", "Pr2831.a2 b38 2009", "Romeo (fictitious character)--drama", "Juliet (fictitious character)--drama", "Vendetta--italy--verona--drama", "Foreign relations", "Bibliography", "Criticism and interpretation", "Juvenile drama"]</data>
+</node>
+<node id="20">
+  <data key="d0">19506</data>
+  <data key="d1">A Connecticut Yankee in King Arthur's Court</data>
+  <data key="d2">["Twain, Mark"]</data>
+  <data key="d3">3761</data>
+  <data key="d4">1889.0</data>
+  <data key="d5">788.0</data>
+  <data key="d6">["Time travel", "Fiction", "Arthurian romances", "Kings and rulers", "Adaptations", "Knights and knighthood", "Americans", "Britons", "American fiction (fictional works by one author)", "Fiction, fantasy, historical", "Great britain, fiction", "Arthur, king, fiction", "Camelot (legendary place), fiction", "England, fiction", "Fiction, humorous", "Fiction, satire", "Middle Ages", "Medievalism", "Middle Ages in literature", "History", "Juvenile fiction", "Large type books", "Travel", "King Arthur", "Connecticut Yankee in King Arthur's court (Twain, Mark)", "Life on the Mississippi (Twain, Mark)", "Mysterious stranger and other stories (Twain, Mark)", "Children's fiction", "Knights and knighthood, fiction", "Literature and fiction, historical fiction", "Literature and fiction, fantasy", "Fiction, fantasy, general", "History and criticism", "Arthurian romances, adaptations", "Criticism and interpretation", "Fiction, action &amp; adventure", "Fantasy fiction", "Satire", "Knights and knighthood -- Fiction", "Arthurian romances -- Adaptations", "Time travel -- Fiction", "Americans -- Great Britain -- Fiction", "Kings and rulers -- Fiction", "Britons -- Fiction", "Twain, mark, 1835-1910", "Dictionaries", "English language", "German", "Moyen Âge", "Romans, nouvelles", "Voyages dans le temps", "Long Now Manual for Civilization", "literature", "18.06 Anglo-American literature"]</data>
 </node>
 <node id="21">
   <data key="d0">2868</data>
@@ -216,15 +216,6 @@
   <data key="d6">["American Science fiction", "Fiction", "Science fiction, American", "Science Fiction", "Classic Literature", "John Carter (Fictitious character)", "Martians", "Fiction, science fiction, general", "Fiction, science fiction, action &amp; adventure", "Barsoom (imaginary place), fiction", "Carter, john (fictitious character), fiction", "Extraterrestrial beings", "American literature", "Martians -- Fiction", "Mars (Planet) -- Fiction", "Mars (Planet)", "Fiction, action &amp; adventure"]</data>
 </node>
 <node id="23">
-  <data key="d0">12753</data>
-  <data key="d1">The Legends of King Arthur and His Knights</data>
-  <data key="d2">["Malory, Thomas, Sir", "Knowles, James, Sir"]</data>
-  <data key="d3">3431</data>
-  <data key="d4">1868.0</data>
-  <data key="d5">1.0</data>
-  <data key="d6">["Arthurian romances", "Juvenile fiction", "Knights and knighthood"]</data>
-</node>
-<node id="24">
   <data key="d0">601</data>
   <data key="d1">The Monk: A Romance</data>
   <data key="d2">["Lewis, M. G. (Matthew Gregory)"]</data>
@@ -233,16 +224,16 @@
   <data key="d5">nan</data>
   <data key="d7">nan</data>
 </node>
-<node id="25">
-  <data key="d0">14244</data>
-  <data key="d1">The Romance of Tristan and Iseult</data>
-  <data key="d2">["Bédier, Joseph"]</data>
-  <data key="d3">3373</data>
-  <data key="d4">1965.0</data>
-  <data key="d5">26.0</data>
+<node id="24">
+  <data key="d0">16433</data>
+  <data key="d1">The Gay Cockade</data>
+  <data key="d2">["Bailey, Temple"]</data>
+  <data key="d3">3319</data>
+  <data key="d4">1921.0</data>
+  <data key="d5">1.0</data>
   <data key="d6"></data>
 </node>
-<node id="26">
+<node id="25">
   <data key="d0">7326</data>
   <data key="d1">The Yeoman Adventurer</data>
   <data key="d2">["Gough, George W."]</data>
@@ -251,16 +242,16 @@
   <data key="d5">12.0</data>
   <data key="d6"></data>
 </node>
-<node id="27">
-  <data key="d0">16433</data>
-  <data key="d1">The Gay Cockade</data>
-  <data key="d2">["Bailey, Temple"]</data>
-  <data key="d3">3059</data>
-  <data key="d4">1921.0</data>
+<node id="26">
+  <data key="d0">12753</data>
+  <data key="d1">The Legends of King Arthur and His Knights</data>
+  <data key="d2">["Malory, Thomas, Sir", "Knowles, James, Sir"]</data>
+  <data key="d3">3223</data>
+  <data key="d4">1868.0</data>
   <data key="d5">1.0</data>
-  <data key="d6"></data>
+  <data key="d6">["Arthurian romances", "Juvenile fiction", "Knights and knighthood"]</data>
 </node>
-<node id="28">
+<node id="27">
   <data key="d0">66057</data>
   <data key="d1">The tale of Genji</data>
   <data key="d2">["Murasaki Shikibu"]</data>
@@ -269,7 +260,7 @@
   <data key="d5">1.0</data>
   <data key="d6">["Near and far eastern fiction (fictional works by one author)", "Japan, fiction"]</data>
 </node>
-<node id="29">
+<node id="28">
   <data key="d0">2465</data>
   <data key="d1">Carmen</data>
   <data key="d2">["Mérimée, Prosper"]</data>
@@ -278,14 +269,20 @@
   <data key="d5">4.0</data>
   <data key="d6"></data>
 </node>
-<edge source="0" target="0">
+<node id="29">
+  <data key="d0">2002</data>
+  <data key="d1">Sonnets from the Portuguese</data>
+  <data key="d2">["Browning, Elizabeth Barrett"]</data>
+  <data key="d3">2867</data>
+  <data key="d4">1896.0</data>
+  <data key="d5">55.0</data>
+  <data key="d6">["English Sonnets", "English Love poetry", "Correspondence", "Elston Press", "Miniature books", "Love-letters", "English Poets", "Specimens", "Fiction", "Poetry", "English poetry", "Poetry (poetic works by one author)", "English Women poets"]</data>
+</node>
+<edge source="0" target="19">
   <data key="d8">1.0</data>
 </edge>
-<edge source="0" target="12">
+<edge source="0" target="11">
   <data key="d8">0.1711229946524064</data>
-</edge>
-<edge source="0" target="20">
-  <data key="d8">1.0</data>
 </edge>
 <edge source="1" target="1">
   <data key="d8">1.0</data>
@@ -293,19 +290,31 @@
 <edge source="1" target="5">
   <data key="d8">0.22302158273381295</data>
 </edge>
-<edge source="1" target="18">
+<edge source="1" target="17">
   <data key="d8">1.0</data>
 </edge>
-<edge source="2" target="19">
+<edge source="2" target="18">
   <data key="d8">0.11320754716981132</data>
 </edge>
-<edge source="2" target="15">
+<edge source="2" target="20">
   <data key="d8">0.10975609756097561</data>
 </edge>
-<edge source="5" target="18">
+<edge source="2" target="13">
+  <data key="d8">0.10975609756097561</data>
+</edge>
+<edge source="5" target="17">
   <data key="d8">0.22302158273381295</data>
 </edge>
-<edge source="12" target="20">
+<edge source="11" target="19">
   <data key="d8">0.1711229946524064</data>
+</edge>
+<edge source="13" target="13">
+  <data key="d8">1.0</data>
+</edge>
+<edge source="13" target="20">
+  <data key="d8">1.0</data>
+</edge>
+<edge source="19" target="19">
+  <data key="d8">1.0</data>
 </edge>
 </graph></graphml>
