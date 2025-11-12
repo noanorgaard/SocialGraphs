@@ -183,7 +183,7 @@ span.sidenote {
 <meta name="dc.language" content="en">
 <meta name="dc.language" content="enm">
 <meta name="dcterms.source" content="https://www.gutenberg.org/files/14568/14568-h/14568-h.htm">
-<meta name="dcterms.modified" content="2025-10-06T14:18:55.065752+00:00">
+<meta name="dcterms.modified" content="2025-11-06T15:21:23.147131+00:00">
 <meta name="dc.rights" content="Public domain in the USA.">
 <link rel="dcterms.isFormatOf" href="http://www.gutenberg.org/ebooks/14568">
 <meta name="marcrel.edt" content="Morris, Richard, 1833-1894">

@@ -184,7 +184,7 @@ span.ralign {
 <meta name="dc.title" content="The Gay Cockade">
 <meta name="dc.language" content="en">
 <meta name="dcterms.source" content="https://www.gutenberg.org/files/16433/16433-h/16433-h.htm">
-<meta name="dcterms.modified" content="2025-10-07T10:59:18.007654+00:00">
+<meta name="dcterms.modified" content="2025-11-07T12:01:04.170223+00:00">
 <meta name="dc.rights" content="Public domain in the USA.">
 <link rel="dcterms.isFormatOf" href="http://www.gutenberg.org/ebooks/16433">
 <meta name="dc.creator" content="Bailey, Temple, 1869-1953">
@@ -226,7 +226,7 @@ before using this eBook.</div>
 </div></section><pre></pre>
 <div class="center">
 <a id="frontispiece"></a>
-<a href="images/frontis01_full.jpg" id="id-1389626223963953122">
+<a href="images/frontis01_full.jpg" id="id-6846372409189517762">
 <img alt="Frontispiece, showing a man sat at a desk smoking a pipe." height="400" src="images/frontis01_thumb.jpg" title="Frontispiece, showing a man sat at a desk smoking a pipe." id="img_images_frontis01_thumb.jpg">
 </a>
 <p class="caption"><a href="#frontref" class="pginternal">AND HERE, DAY AFTER DAY, HE SAT ALONE</a></p>
