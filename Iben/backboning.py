@@ -38,8 +38,8 @@ def read(filename, column_of_interest, triangular_input = False, consider_self_l
       table2 = table.copy()
       table2["new_src"] = table["trg"]
       table2["new_trg"] = table["src"]
-      table2.drop("src", 1, inplace = True)
-      table2.drop("trg", 1, inplace = True)
+      table2.drop("src", axis=1, inplace=True)
+      table2.drop("trg", axis=1, inplace=True)
       table2 = table2.rename(columns = {"new_src": "src", "new_trg": "trg"})
       table = pd.concat([table, table2], axis = 0)
       table = table.drop_duplicates(subset = ["src", "trg"])
