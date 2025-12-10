@@ -1,0 +1,1018 @@
+
+1 ContributorStartup School Radio Ep. 4: PlanGrid and Campus Job LyricsWoman: From the campus of the Wharton School in San Francisco, this is Startup School Radio. Here is Y Combinator partner Aaron Harris.
+Aaron: Good morning and welcome to Startup School Radio, live from the Wharton School in San Francisco, on Sirius XM's Business Radio, powered by the Wharton School. I'm your host, Aaron Harris. I'm a partner at Y Combinator, where we fund early stage companies and work with them to help make them into billion dollar businesses. Every year, Y Combinator does a startup conference called Startup School, where we bring great founders that we really love and have them tell their stories, everything they've learned, from the screw-ups to the successes and everything in between. Here on Startup School Radio, we'll be bringing those founders to you on a weekly basis. We broadcast every Wednesday at 1 PM Eastern, 10 AM Pacific with the goal of helping anyone who's thinking about starting a company learn how to do it better.
+Coming up on today's show, PlanGrid's founders Ryan Sutton-Gee, Tracy Young, and Ralph Gootee talk with me about their story and how they created an incredible app that lets construction companies store blueprints and documents on their computers and on their mobile devices. Plus, later, we'll hear from recent grads of our winter 2015 batch, Liz Wessel and J.J. Fliegelman, co-founders of Campus Job. We'll talk with them about their YC experience, what they've learned and how they're putting it into action now they're out in the real world.
+If you're thinking about starting a company, or you're an entrepreneur in the early stages of running a startup and have a question for us, we'd love to hear from you. Our number is 844-Wharton, that's 844-942-7866 and be sure to follow our channel on Twitter, @bizradio111, or follow me on Twitter, @Harris. So, let's get going. I'm very happy to welcome my first guests, Tracy Young, Ryan Sutton-Gee and Ralph Gootee from PlanGrid. Thanks so much for joining us, everyone.
+Tracy: Thanks for having us. It's great to be here.
+Aaron: So, you're all part of YC's winter batch in 2012. So, you've been out for three years now. That's kind of a while.
+Tracy: Yeah, it's really strange how time goes by in a startup world.
+Aaron: Yeah. When did you found the company initially?
+Ryan: It's kind of funny. We actually sort of founded the company twice, in a weird sort of way, so originally . . .
+Aaron: You'll have to explain that one.
+Ryan: Yeah, we had the original idea, we actually it was just the three of us. There's actually four founders, Kenny Stone, who can't make it isn't here. We originally founded the company not knowing about Y Combinator and incorporating in California and kind of had a false start and we did a lot of great work but didn't really get our legal structure in place until later in the year, when we heard about Y Combinator and then we got together with the original four founders and applied then.
+But the basic story of how PlanGrid came about was really because myself and Tracy, we were both construction field workers, construction project engineers and Tracy came to me one day with this huge invoice for--
+Aaron: What? Sorry. I realize I don't even know, what actually is a Construction Project Engineer?
+Tracy: Yeah, so we're engineers on a job site with hard hats and muddy boots, safety vests, safety glasses and we're basically responsible for delivering the building on time and literally translating what's on the blueprints onto the actual structure in the field.
+Aaron: So, are you guiding the workers on the site, or you're actually hopping in the back hoe loaders and the cranes and operating them yourselves?
+Tracy: Right. So, we're not physically building the building with our bare hands, but we manage the day to day workflow of the job site, making sure that materials are delivered on time, making sure that everyone's safe.
+Aaron: So, basically pretty close to my dream job when I was a small child. Get to like hang out on construction sites with big equipment and see the whole thing go together.
+Tracy: Something like that.
+Ryan: Yeah, pretty much. Basically, a Construction Project Engineer is someone with typically a civil engineering or construction managing degree that gets to help direct, yeah, the big equipment and gets to see something go from dirt to building.
+Aaron: Got it. So, you were both working as Construction Project Engineers. How the hell do you go from there to starting a startup? That seems pretty far from the standard construction business.
+Ryan: Yeah. I mean, basically what happened is that, one thing is that, as an individual, I went to Sac State with Tracy and studied Construction Management. Then I went to Stanford, when I did my masters in civil engineering there. And we have a lot of friends that are sort of in tech and doing startups and so I always knew I wanted to start a company of some kind, and then once--
+Aaron: Did you initially think it was going to be a construction firm or an engineering firm?
+Ryan: You know, it was kind of not, I hadn't really decided. It sort of, probably in my original plan was basically to do a construction firm, right, start a construction company, but if you're a young, tech savvy person like me and Tracy are and you work in construction industry and you're in the field, it doesn't take very long for you to notice that there's a lot of efficiencies that could be made, especially with technology. So, I remember like the iPad came out, when it was first released, and I got one for Christmas present, I think or a birthday present, I don't remember, and then the first thing I did was I brought it to work and I was like, "Hey guys, check this out. Maybe I can put plans on here." And it was just literally impossible to do so, and yet at the same time--
+Aaron: We're talking blueprints?
+Ryan: Yeah, yeah.
+Aaron: These massive . . . How big is the average blueprint? How many feet by . . .
+Tracy: It's a 42 inches by 30 inches.
+Aaron: And that's a standard size for blueprints?
+Tracy: Yeah.
+Aaron: Yeah. That doesn't fit. I mean the blueprint, I mean, the iPad screen is what, 10 inch diagonal or something like that, so . . .
+Ryan: Yeah. Well, what's even funnier is the standard for blueprints, for whatever reason, is PDFs, right? Those are meant to be printed, which is like not--
+Ralph: And you need special printers for this.
+Ryan: Yeah, and it's a terrible file format. So when you load it on to PDF reader on the iPad, it would crash the OS, actually, it was so bad. But, at the same time, you open up Google Maps and you can stream the planet off the internet on that thing. So, I knew it was possible to do that and when I brought it to Tracy, we had dinner one day and, by the way, I'm always pitching silly startup ideas to her, and her job was basically--
+Tracy: Ryan actually convinced me to start a company with him when I was 18, and--
+Aaron: So you guys have known each other for a long time?
+Tracy: Yeah, my freshman year of college and he had pitched me, you know, hundreds of ideas over, like, six years and blueprints on iPad was the one that I agreed to. I said--
+Aaron: What did you turn down before that?
+Tracy: Oh, my gosh! I don't know. They were all crazy, they were all crazy. Do you remember?
+Ryan: Well, there were some construction firm ideas, which I could talk for an hour as to why it's a really bad idea to found a construction firm. And so I try to find niches within that sort of field that wouldn't make us be personally bankrupt. But luckily, we have Tracy because the first one she said yes to turned out to work out pretty well, so it all worked out. But, yeah, if I remember right, like, I told her this idea. Usually, she'd shoot me down, like that's impractical for this reason or whatever, but instead she, literally that week I think, it was that week that you had to pay that giant invoice for the blueprints.
+Tracy: Yeah, yeah. So, I had accidentally ordered blueprints for folks that weren't exactly on my team, but I was being the nice guy and I got a bill for $27,000.
+Aaron: Whoa!
+Tracy: And I'm a new working engineer and I had no idea how I was going to pay for this. So, I told Ryan and, Ryan, do you remember what you said to me?
+Ryan: Yeah, I was like . . .
+Tracy: I remember this really well.
+Ryan: Holy shit! How can plans cost that much money? I had no idea.
+Aaron: How many plans was that?
+Tracy: It was only like 15 sets of plans in color.
+Aaron: Wow.
+Tracy: They're very, very expensive.
+Aaron: $27,000? And that's because, I mean, it's a special printer, it's special ink, it's special paper and I'm guessing it's kind of a monopoly business?
+Tracy: Mm-hmm.
+Aaron: Wow!
+Ryan: Yeah, to a certain extent it is. Also, it's just an enormous amount of paper. She was on this Kaiser Hospital. It was Kaiser San Leandro at the time and there's just so much paper. It's like 15,000 sheets to describe one hospital. It's not even a big hospital. It's a good size hospital, but it's just an enormous amount of paper.
+Aaron: Just to give me a sense, because I think of hospitals, I don't know how big that hospital is. For a house, 2,000 square foot house or something, how many pages of blueprints or pages of paper are we talking about?
+Tracy:  have like 40 sheets of blueprints but then, if you change any walls, you change any doors, that's like an extra 10 sheets at a time.
+Aaron: And so the way this worked traditionally is basic then, the architect or the engineer would have to go in, change it, there's software to make these things and then reprint everything.
+Tracy: Exactly.
+Aaron: Wow! Okay. That sounds super inefficient.
+Ryan: Yeah. And then, to make it even crazier, just imagine, you know, you've got a hospital takes over a large part of, it's a large area. You've got, easily, 100 people working on it simultaneously. They can't come back to the trailer every time they need to look at plans. So, they've got separate copies of these paper sets and so, every time there's a change, it's not just, you have to print it out. You have to print it out and track those guys down, find their set, take it away from them, like screw in the new version.
+Aaron: So, Ryan, you see this huge inefficiency happening and you're like, "Oh, I got this iPad thing. What if we could stick the blueprints inside the iPad. Was that basically the way, Tracy is that what he came to you with?
+Tracy: Yeah, yeah. He, in so many words, he says, "It's 2010. It should be in the cloud and we should be able to view it on our mobile device."
+Aaron: And you said?
+Tracy: And I said, "Yeah, let's do it." And so, we go to our good friend Antoine Hersen at the time, and he also went to Sacramento State, studying his masters in computer science and we said, "Hey, you wanna join our startup?" And he says, "That's a great idea. You guys should learn how to program."
+Aaron: Good advice.
+Tracy: We actually didn't learn how to program. We instead met like every week for, we met every week to work on the business plan and the wireframes of what was called Peanuts at that time.
+Aaron: Was that copyright infringement on the cartoon strip?
+Ryan: No. It's just, we were working for nothing, so we had  in the document. Yeah.
+Aaron: I like it.
+Ryan: Yeah.
+Tracy: And then, at that time, I was dating this man named Ralph Gootee, and we were having dinner and our relationship was at a point where we're going steady, and we're sharing Google calendars together, and do you remember what you said to me, Ralph?
+Ralph: Why is there re-occurring event every Thursday with you and Ryan called Peanuts?
+Tracy: Four hours every Thursday night.
+Ralph: All kinds of conspiracy theories running through your head.
+Tracy: And so, I told him about Peanuts and what it was and his reaction, do you remember what you said to me?
+Ralph: At the time, I was a rendering engineer at Pixar, aspiring to be an iOS developer and I said, "Do you know who I am? Do you know what I do as a job? Do you know I write iPad apps? Why have you not told me about this?"
+Tracy: And I said, "Hey, you wanna join?"
+Ralph: Yeah. She said, "Do you want to join for 30% of the company?" So, she shafted me 3%, right from the get go.
+Aaron: That is harsh.
+Ralph: I should have known she would--
+Aaron: And your relationship survived that moment?
+Ralph: Absolutely.
+Tracy: But Ralph said yes and he said, "Actually, can I be CTO?" And everyone was like, yeah.
+Aaron: That makes sense.
+Tracy: And when Ryan found out that I shafted Ralph 3.33%, he quickly fixed that.
+Ryan: Yeah. So, originally, it was the three of us, a third, a third, a third, as I kind of mentioned in the beginning, and then, you know, later Antoine more formally joined us, rather than just yelling at us for not knowing how to program, which, you know, was not the worst advice at the time. And then we decided that the best path forward was to, you know, apply to Y Combinator.
+Aaron: I got to take a second just to explore something that actually seems so crazy. We just kind of passed over it, but Tracy, the fact that you and Ralph were dating and Ralph just happened to be the exact kind of engineer, the exact kind of a hacker that you needed to build this thing is one of those serendipitous moments that you can't plan. And it's something that I think that a lot of people, when they think about startups, are like, "Oh, it's just about this or it's just about that." But like these bits of luck, it's luck, really, are so important and while you can't really plan to have them, you can plan to be ready for them and it sounds like you totally were. If you had been like, "Ah, you got to stop this Peanut thing with this crazy guy. That sounds like a terrible idea. I'm a Pixar engineer." You could've said that. I mean, it would have been the wrong thing to say but, like everything kind of came together in a perfect way, which is, I don't know, kind of one of those unbelievable stories that's true. You couldn't write that and people would believe it.
+Ralph: Yeah. I mean, there's actually a lot of these incidences, I think, in PlanGrid story. I mean, one, the fact that I met Tracy. I would've just been some like  spitting out startup ideas, have I not had this amazing editor and, later, leader of the company that I had just had, we just happened to have a personal connection, be friends. But even how I heard about Y Combinator is kind of a funny story. It's that, you know, I was at Stanford doing my masters in civil engineering and I was going through it really quickly. I did it in three quarters, so I didn't have a lot . . .
+Aaron: And while you're doing that, Tracy you're working on sites and Ralph, you're at Pixar, right?
+Ralph: Right. And then, literally I had, on a whim, signed up from some entrepreneurship club bases, which is actually a great thing, though I only ever went to one meeting, which is what I'm about to tell you about, and they had a last minute cancellation of a driver to go on a field trip to this thing called Y Combinator and I had no idea what it was, and so, I'm like bored on a Saturday. I'm like, sure, I'll drive people and I show up in my car. We drive down to Pioneer Way, I get out there and there's like 12 of us and Y Combinator isn't that famous then, and so Paul Graham personally . . .
+Aaron: This is in 2013?
+Ralph: No, this in 2010, no, no, no this is like in 20 . . .
+Tracy: 2008, 2009.
+Aaron: Oh, wow. So, this is, yeah... No one knew who we were. Yeah and so the building, by the way, is super unimpressive, if you don't know what it is. It's just like an empty room most of the time. There aren't really people around very frequently.
+Ryan: Yeah, exactly. I was not that impressed. I go in there, what's going on? Paul Graham comes out. He's this guy in shorts and Berks and he just, he blows my mind with his standard startup lecture where he does the graph on the wall with the trough of despair and the Tech Crunch initiation and whatnot.
+Aaron: Trough of sorrow.
+Ryan: And then I forget my bag on the way out, and he comes chasing after me with it. And that was how I first heard about Y Combinator was by accident from Paul Graham himself, basically, and three year, four years later, we're there interviewing with him for PlanGrid.
+Aaron: If you're just joining us, I'm Aaron Harris and you're listening to Startup School Radio. I'm talking with the co-founders of PlanGrid, who were just telling us some of the bits about how luck influenced the path of their company, right down from founding it to finding co-founders to even hearing about Y Combinator, which is a crazy set of coincidences, really, that kinda start leading you on the path. So, Ryan, you were just saying, okay, so you happened upon YC basically, met PG, Paul Graham. You're already talking about Peanuts with Tracy, right? You guys are already doing these meetings. Are you guys full time on this or it's still just a part time thing, right, 'cuz you're in school, Ryan's in school, Tracy's working and Ralph's working?
+Tracy: Mm-hmm. We were just working on it in the evenings, as a second job.
+Aaron: So Tracy, when do you get to the point where you decide, okay, screw our other jobs, screw the other things we're doing. This is what we want to do full time?
+Tracy: Yeah. So, our co-founder, Antoine Hersen, who joined on the condition that he would be Chief Mad Scientist, he was diagnosed with a rare form of cancer at 27 and I think it was sort of a life changing moment, learning that. We realized that our time here is not that long and in fact it's very short and so we might as well do something that we really love. And, at that point, Ralph and I quit our jobs, we took a train over to Chicago where Antoine was at, and we hung out with him and Peanuts was one thing we worked on and Ralph and Antoine actually worked on several games together. Do you want to talk more about that?
+Ralph: Yeah. I mean, it was a lot of fun taking off, not having to actually do a full time job and just kind of working on whatever we felt like. And one of the projects that we worked on that really pulled ahead was, of course, what would eventually become PlanGrid. Initially, when I started working on the problem, I thought, okay, no problem. I'll throw a PDF on an iPad. That's pretty standard stuff, honestly. So, I wrote the first prototype and it pretty much failed, like everything else out there with the iPad 1. It ran out of memory, it was slow, it was chunky and, through my experiences working with graphics, I'm actually a 2D graphic specialist, I made it a lot faster but it took a lot of time, took months and kind of seeing the product come into existence was one thing that really pulled me to work on something new, to work on something challenging that no one else had even done before. But the games with Antoine were actually a whole lot of fun.
+Aaron: I think this is something that a lot of people don't realize. Two things. One, the importance of just hacking on random stuff, the idea that you're not just working on PlanGrid at the time, you're working on other things, which kind of let's your mind sort of experience different things and, also, you don't know what's actually gonna be the thing. So, that's one thing, just that importance of experimenting and just building stuff, putting it out there and seeing what happens, but I think the thing that's also really crazy for me is there are a lot of people, like you said, who tried to put PDFs on iPads and you could've said, "Look, the only thing you need to do to put blueprints on an iPad and make that a thing is just have a good PDF browser structure, a file structure, and just have your PDFs there." But it doesn't work and that's why this is hard and that's why this is a real problem.
+Ralph: We actually, when I worked at Pixar, I worked on version control of large scale artist images so . . .
+Aaron: Which means what?
+Ralph: Basically, every bit of art that's done at Pixar is incredibly valuable and it changes constantly over time. So, they use them for references, artists will look at old versions of Woody from Toy Story 1 to make Toy Story 2 and those versions, there's a lot of these versions lying around, but one thing that they did very well was they didn't think about these pieces of art as files in a file system. They thought of them, more generically, as pieces of art that can be tagged and filtered in different ways. And this was the first thing we approached with PlanGrid as well. 'Cuz PlanGrid, we service the construction industry which doesn't necessarily mean they're super tech savvy, so to say. So, the dealing with files is actually a huge amount of complication for people. Even knowing what a PDF file is beyond a lot of people in the industry sometimes. So, as soon as you start dealing with files, you bring this whole structure with you, rather than just dealing with the blueprints like they were used to.
+Aaron: That's kind of crazy to think about, right? I mean, a blueprint as a piece of art, effectively, right? It's drawings on a page.
+Ralph: That's right.
+Aaron: And that idea of version control, it's something that makes sense to most of us, I think, when you think about a Word doc. You edit a Word doc, over time, you save different versions, or in Excel. That makes sense. I think, to most people but when it's lines on a page, it's harder to think about, I think, unless you have that unique experience of watching it happen at a place like Pixar, where then you can translate that over. So, I don't know, going back to that luck/serendipity thing, like, would anyone else have thought of that? No one else did, so.
+Ralph: I was pretty surprised by the luck as well, considering I had worked on a very similar problem before and also was an aspiring iOS programmer, writing kind of silly iOS apps that weren't really getting the traction I wanted.
+Aaron: And those are the games or other things as well?
+Ralph: I hesitate to mention many of them. Thankfully, this was back in iOS 3, iOS 4, so, thankfully, they've all been--
+Tracy: You should definitely download Hacker Typer.
+Ralph: No.
+Aaron: Hacker Typer. All right, we'll have to look it up. All right, so the two you are in Chicago and Ryan's still at Stanford. So, Tracy, what happens? Like, when do you actually come together and say, we're going? Because you're there, you're in Chicago with Antoine, so when do you actually start PlanGrid as PlanGrid and--
+Tracy: Yeah, yeah. So, it was Antoine and Ryan's dream to get into Y Combinator and applications opened up. We spent hours, like, just writing and re-writing our application. We were trying to input like all kinds of clever jokes into there. We really wanted to make the partners laugh and, like, let us into one of the interviews, and we were just, we were travelling by then and we get an email from Paul Graham. I don't remember exactly what, but do you remember Ryan?
+Ryan: Yeah. So, it's actually funny. So, we submit the application and we submit it through Hacker News, if you guys aren't familiar, it's like the startup Reddit, so to speak. But, in there, they have this system where you can have a message sent to you through Hacker News and it's clearly only used for startup applicants, 'cuz it's really rare and hard to find.
+Aaron: Basically, when you log into, when you go to Hacker News, there's a lot of news stories and if you've gotten a message about your application, there's just a little banner at the top of the page that you could pretty easily have missed that says, hey, you have a message.
+Ryan: And you don't get an email or anything so . . .
+Aaron: it's one of the most exciting things. It was a big step, by the way. You get an email now.
+Ryan: Well, at the time, there was just this line that was like, check regularly. So, you guys turned me into a Hacker News addict. I was just like checking it, like, every 30 seconds. And one day, I get a message back and it's like a one line question from Paul Graham. I don't even remember what the question was but it was like, "How is this gonna be a real business?" And I write a response really, we actually, I wake them up. They're, like, in Spain or something, at this point.
+Ralph: I remember the question.
+Ryan: Yeah. What was it?
+Ralph: The question was, "How do you plan on getting past the barriers of IT departments with B to B, because normally the IT departments are the things blocking you from rolling out to large projects, and you're just going to be stopped at the gate." It was a very good question, honestly.
+Aaron: Yeah. Which is, you know, it's one of these funny things because, you know, Paul Graham is not particularly an expert on the construction industry, but he's seen enough companies and he knows how these things work, that that's a super insightful question, because that's the barrier. Well, okay, you can design software. That's the first part of the challenge. It's getting it into people's hands and getting them using it. So, what was your answer?
+Tracy: The projects control their own destiny. They're going to buy whatever software that's . . .
+Aaron: It's an almost mystical statement.
+Tracy: Okay, all right. So, construction projects have their own budgets.
+Aaron: Interesting.
+Tracy: And so, a superintendent on a project can make the decision. If it's a tool that will help him or her deliver the project on time and on schedule, they will purchase that tool. And so, we don't have to talk to IT people.
+Aaron: Right. It's just a one person, so if a project engineer loves you, done. They'll buy the software.
+Tracy: Mm-hmm.
+Ryan: Right.
+Ralph: I would like to add that we love IT people now. They're great. If any IT people are listening, they're our favorite people.
+Ryan: They just take a little longer to convince than a superintendent who wants a new kind of hammer. Yeah, so, anyways, we answered that question and I assumed that we're going to get the same notification that we've got an interview through that same system, which turns out, I don't know, maybe you do now, but at that time, you don't and so I would refresh Hacker News 10 times a day for about a month or however long. . .
+Aaron: Come on, 10 times a day? More than that.
+Ryan: Like 50, yeah. Like, literally every waking moment. Anyways, eventually get an email, I think, from one of the partners. Maybe it was Paul Graham himself, but we got invited to the interview round, and so, which was like one of the most exciting and frightening things ever. And I remember getting the email and calling Tracy and Ralph, waking them up when they're somewhere in Europe, and then we go to the interview, eventually, at the same place where I saw Paul Graham. I asked him if he remembered me. Of course, he did not, and then--
+Aaron: Not, by the way, not something to take personally.
+Ryan: Right. No, I didn't. And then, in the interview, it was the four of us, with Antoine there, and it was like this blur. We had prepped so long for that interview. I think we had this list of 20 questions that we thought we would get asked and we drilled them over and over again, and then none of them got asked.
+Aaron: So, the interviews for YC are about 10 minutes long, and they sometimes go off on wild tangents but what we're always trying to get at is how you think about your business and how it's going to be that that huge business that P.G. was asking you about. Do you remember?
+Ralph: I do. Yeah. I remember the first question that was asked. We walked in, we sat down and P.G. immediately asked, I have a friend that's an architect and--
+Aaron: Probably Kate.
+Ryan: I don't know who he was referring to. I have a friend that's an architect and she says that paper plans are never going out of style. You can't see these things on blueprints. Papers the way that people want to interact with this. And we were just so ready for that question, surprisingly, even though it was a tough question, the toughest question that you could be asked. So, normally, when I talk to other people interested in YC, I always tell them to be just prepared for the worst question possible.
+Aaron: It's funny. It's both the worst question and, again, probably the most important thing, right, is what is the sort of starting energy cost? How do you overcome the inertia of an industry to fundamentally change it?
+Ralph: Do you guys remember how we answered it?
+Tracy: Oh yeah, of course. I mean, we had planned for this.
+Ralph: It was awesome.
+Tracy: So, I had a set of blueprints with me and I flip it open, and they both have an iPad, I think. Ryan has an iPad and he's trying to pull up a blueprint on Adobe Acrobat and a dialog box comes up and it says, out of memory and then, at the same time, Ralph has the beta in his hand, of PlanGrid at the time, and he's like, "Can you see this?"
+Ryan: Oh, actually, you tried to show Paul Graham the blueprints as well, and those things are like eight point fonts on a 42 by 30 inch page. It's incredible.
+Aaron: So, you've got to zoom in all the way just to see it?
+Ryan: Exactly. So, she just showed him, from a distance, can you read this? And he's like, no. Bam! And then we zoom into the exact same spot.
+Aaron: Drop the blueprints and the iPad, walk out of the room.
+Ryan: More or less.
+Ralph: We had 10 minutes of intense growing grilling or something like that in between, b--
+Aaron: Yeah, I don't remember. I remember the first 30 seconds of my interview and I remember like one or two questions that got asked and that's pretty much it. All right. We clearly didn't get through remotely all of the PlanGrid story. We kind of had to scratch the surface on the beginning of the founding, so I'm going to demand that you guys come back as a group and talk through the rest of it, if you're cool with that. Because this is the first step in what's been a pretty awesome journey that isn't remotely done yet and I know there's a lot there for people to learn from.
+If you're just tuning in, I'm Aaron Harris. I've been speaking with Ryan, Tracy and Ralph of PlanGrid. Just ahead, Ryan's gonna stick with us as we're joined by Liz Wessel and J.J. Fliegelman, the co-founders of Campus Job, the online marketplace for college students to find work. Plus, we'll be taking your calls at 844-Wharton. That's 844-942-7866. You're listening to Startup School Radio on Business Radio, powered by the Wharton School Sirius XM 111. We'll be right back.
+Woman: You're listening to Startup School Radio, powered by the Wharton School. Here again is Aaron Harris.
+Aaron: Welcome back to Startup School Radio on Business Radio, powered by the Wharton School, Sirius XM channel 111. I'm your host, Aaron Harris, a partner at Y Combinator. I've been speaking this half hour or this hour with the founders of PlanGrid and Ryan is back with us for the second half hour. Thanks for sticking with us, Ryan.
+Ryan: So happy to be here.
+Aaron: We're now joined by my next guests, Liz Wessel and J.J. Fliegelman, the co-founders of Campus Job. Campus Job is an online marketplace for college students to find jobs and internships while they're in school. And Liz and J.J. finished up Y Combinators winter 2015 batch just last week. They're here to talk about Campus Job, their YC experience, what they've learned, what they're going to do next as they fly back across the country. Thank you both for coming in today.
+Liz: Thank you for having us.
+J.J.: It's good to be here, Aaron.
+Aaron: If you're thinking of starting a company or you're an entrepreneur in the early stages of running a startup and have a question for us, we'd love to hear from you. Our number is 844-Wharton, that's 844-942-7866. You can also follow us on Twitter, @BizRadio111, or follow me, @Harris. So Liz, J.J., first of all, you're both Penn grads?
+Liz: Correct.
+J.J.: Yap.
+Aaron: And we're in Wharton's campus in San Francisco.
+Liz: Proud to be here.
+Aaron: Good job. Good job, Wharton, good job Penn, making such great founders for Y Combinator to fund. I want to start, as I normally do, of just talking a little bit about where Campus Job came from. You're both fairly recent college grads. I think you're, are you both two or three years out?
+Liz: Three and four years.
+Aaron: Three and four years out. Okay, not too far removed from college, building something for colleges. Did Campus Job come from, like, have you wanted to do this since college, or what happened that you decided to start this company?
+Liz: Yeah. So, J.J. and I actually became close friends during college because we, along with a few other friends, decided to start a company that was kind of the inspiration for what Campus Job is today. So, that company was a much more niche version. We didn't even call it a company. It was more of a side project, but it was something we worked on our senior year of college. We built it, we graduated and it started to take off after we graduated.
+Aaron: What was it?
+Liz: It was basically a job board for campus rep opportunities. So, like everything from Microsoft, to Group Me campus reps to NGO campus reps, etc.
+Aaron: So, these are the students who will wear a Red Bull t-shirt around campus, hand out free Red Bull and get frats to join.
+Liz: Exactly, exactly.
+J.J.: The most popular kids on campus.
+Aaron: They got free stuff to give. Everyone loves free stuff, especially college kids.
+Liz: Exactly. So, we saw a big need for startups looking for students to hire and for students looking for marketing jobs on campus, so we started that side project in college. It started to really take off and, over a few years, when we were doing nothing related to it, and really had our own full time jobs, we decided to use the inspiration from what that side project was and actually quit our jobs at Google and McKenzie and start Campus Job and go big for all jobs for college students.
+Aaron: This is one of those decisions that's like every mother's nightmare. My son and daughter quit their jobs at Google and at McKenzie, two of the best companies to work at in the world, to go do something crazy, like start a company where they're not going to get paid and probably starve to death. So, what was it about this idea that made you leave such comfortable careers?
+J.J.: Well, I think for me, there were two things. One was even just this side project that Liz was just talking about, seeing that traction grow while we were doing nothing was really inspiring and also helped us realize that there was something there. Imagine if we really put effort into it and really, really made it work. It could be huge. Then, for me, the second piece was, honestly, working with Liz. I hope she's not going to be blushing right now, but I believed in her and I believed in us and a team and, for me, that was what made me reach out to her, as I was coming towards realizing I want to leave and do something big and I wanted to do with her.
+Liz: The feeling is very mutual, and then I will also say, we kinda figured if we were going to do this idea, which we knew we wanted to do, now was the time because we're close enough to college age, where we still know what the big problems are and how to tackle them and so, we're risk takers and Google and Mackenzie, we can always go back to them if we needed to, but I think Campus Job now, even better place to work, so we're happy.
+J.J.: We were talking to, just talking about the role of luck in the founding of startups, where Ryan's co-founders, Tracy and Ralph, were dating. Tracy was an engineer on construction sites and Ralph just happened to be an engineer focused on graphics and version control at Pixar and they said, well, we want to do something with blueprints and he's like, I'm the perfect guy to do that. So, I don't know, Ryan, if you're listening to this story of two people who happen to be friends in college, who happened to start something that happened to grow while they were away from it. If you're having like, oh my God, it's all luck.
+Ryan: Yeah. Well, I mean, I'm sure only part of it is serendipity but I think also that people that like to work on big problems. I like to believe, this is probably sort of silly, that they just naturally are attracted to one another. Sometimes in a romantic sense like Ralph and Tracy, but in this case, not so much, but just they're kindred spirits. So, risk takers, I think, maybe just sort of find each other.
+Aaron: Yeah.
+Liz: I will mention, by the way, we actually didn't become friends before the side project. I actually stalked him because I went through--
+Aaron: Now it's getting a little creepy, but all right.
+Liz: I looked, I hacked into the Hackathon database of hackers at Penn and I went through every resume of the hackers at Penn and only one stood out as being the person I had to work with on this side project, and it was J.J. And so I emailed him and . . .
+Aaron: Now J.J.'s blushing, by the way.
+J.J.: I get this email out nowhere from some girl Liz Wessel and she's like, "Hey, we have a lot of friends in common who told me that we should meet," and I'm like on Facebook. I'm like, "We have no friends in common. Who are you?"
+Aaron: Maybe very little serendipity in this case.
+Liz: But it worked out.
+Aaron: Not serendipity at all, totally manufactured meeting. All right, that is one of the best, best stories of founders meeting that I've heard in a while. Okay, so, all right. Liz, you hunt J.J. down, you guys build this side project in college, but it's not enough of a thing to get you to do it right in college, right?
+Liz: Yeah. I mean, our plan was literally to do it and then graduate and go on to our own, other careers. It was always just a side project.
+Aaron: Why?
+J.J.: I think we both did it because we were approaching the end of college. We knew we had a limited amount of time to do something totally crazy before we went on to do "real people things."
+Aaron: Yeah.
+J.J.: This was a great opportunity to do something really, really cool that we wouldn't have time for later.
+Liz: Also, I think the funny thing is, it didn't, like, take off or anything while we were in college. It was after we stopped doing anything and touching it that, all of the sudden, we graduate, forget it exists, and it just starts to grow.
+Aaron: This is like the super fascinating thing about startups and kind of the heart of Y Combinator's motto, which is make something people want. It's make something people want that they're gonna want, even if you're not shoving it down their throats.
+Liz: Exactly.
+Aaron: Reddit's also a really good example of this, in a lot of ways. Alexis and Steve found it and they work really hard on growing its initial user base. Then, they sell it, and they're not working on it full time. No one's really working on it full time, aside from maintaining it and it just grows and grows over time and then, now it's a behemoth and people are working on it really hard and have been for a few years. But, when you make something that people actually really want, they find it and they use it and they continue to use it, as long as it doesn't break. J.J. how much time were you spending on it in sort of the intervening years, just to make sure the thing stayed up?
+J.J.: Shockingly little, like, embarrassingly little.
+Aaron: Yeah.
+J.J.: But there just wasn't, there wasn't much to do.
+Aaron: It was just a job board.
+J.J.: Very simple site, job board, didn't look that great, to be totally honest.
+Aaron: Right.
+J.J. And people just signed up.
+Liz: Just to be clear, Campus Job is not a job board.
+J.J.: Campus Job looks great and it's a marketplace.
+Liz: It looks great.
+Aaron: It is, in fact, quite beautiful.
+J.J.: Oh, thank you.
+Aaron: So, all right. So, this niche, what was the original thing called?
+Liz: The Campus Rep.
+Aaron: The Campus Rep, going to the Campus Job. I like how you did that.
+Liz: And then we dropped the "the," in a Facebook matter.
+Aaron: Yeah, exactly. So, it's just Campus Job. I like the progression. Pretty soon, it'll just be Campus.
+J.J.: Or just Job.
+Aaron: Or just Job, or Job. So, you both leave your jobs because you think that this thing actually has legs. It's growing without you doing anything. You say, you know what? This is our chance. We have a little bit of money in the bank. We can take this risk. It's a chance to do it. What happens next?
+Liz: So, we actually, we decided to shut down the Campus Rep because it was so different than anything we pictured could be the correct way to approach the problem, the bigger problem of all campus jobs and internships. So, we shut down the Campus Rep and we e-mailed all those users once and said, "We'll never bother you again, but there's this new website in town, CampusJob.com. We recommend you check it out."
+Aaron: How many people were on that email list?
+Liz: A couple, like, several thousand that didn't bounce back, because a lot of students had probably graduated, etc. So, we had a little bump. So, I actually had been working at Google in India, moved back from India July 1st, quit Google July 15th. J.J. was working full time on the site all of July. We raised about a million dollars in seed funding by July 31st, launched the site in September and it just started to grow, and so . . .
+Aaron: That's, I mean, that's actually crazy. You both, you quit your jobs, middle of July, beginning of July, middle of July are working on it for 15 to 30 days and you raise a million bucks. That's a lot of money to give to two people who have just started really working on something. So, why do you think that happened? Why do you think you got the money?
+Liz: I think, at least for me, the main thing that investors kept saying was the fact that they all saw this problem, not just from themselves when they were in college, and I'm talking like 60-year-olds to 25-year year-olds, who all saw this problem of how hard it is to find a part time job or internship or even full time job after school, but also all of their startups and their portfolios were so desperately trying to hire college students, whether it was for summer internships or campus rep jobs, etc., and so they all saw this need, from both the user and the employer perspective.
+Aaron: Yeah.
+J.J.: And I think even once we're getting past the first meeting where we get to tell that story, I think, I hope that we were able to show them that we meant business by, when Liz went in for the first meeting, she would listen to their feedback and if they had feedback on a product feature or something, by the next meeting, it would exist or it would have changed, or I would've just built it. And that was a really cool thing to come back to an investor with.
+Aaron: So, this is an interesting thing and actually kind of a challenge, where investors or people who aren't your core demographic of users will suggest features because they think it would be cool. How did you decide whether or not that feature was actually something that your users wanted, right? Your users are the important thing here, not really your investors. So, how did you decide what to build and what not to build?
+Liz: I think at the very beginning, it was honestly us checking our gut. I don't think, we were based near a lot of NYU students at the very start and so, we would go and talk to NYU students as much as possible, but, very often, people don't know what they want until they get it and then they can complain or compliment. And so, at the very beginning, it was trusting our gut.
+Aaron: Yeah. I think that this is something, I love the parallels to PlanGrid's story, where Ryan and Tracy were their original users, right? You were, you needed blueprints.
+Ryan: Yeah, I mean, in our case, Y Combinators always stressing talking to users, but, in our case, there are four founders and two of them were the users.
+Aaron: Yeah.
+Ryan: And so, the way the product basically got built is, we were able to iterate five, six times a day on features where just Tracy and I were, would be like, this is exactly what it needs to do, and then Ralph and Antoine would find a way to make it happen. But, yeah, I mean, without talking to users or being a user yourself, I don't know how you can ever get the right features, because the stuff that investors would suggest to us were, like my wife's an architect. It should do this. Well, that doesn't actually make any sense. But, if you're not confident, you can be misled real easily.
+Aaron: If you're just joining us, I'm Aaron Harris and you're listening to Startup School Radio. My guests right now are Ryan Sutton-Gee from PlanGrid and Liz Wessel and J.J. Fliegelman from Campus Job. We were just talking about the importance of talking to your users and how valuable it is for you to be your own users. And Ryan, I think you just put it perfectly, which is, when you are your own user, your cycle of iteration, especially early on, is dramatically faster, and this is why we talk about solving your own problem. I mean, you could solve a problem for an astronaut, smart people, I'm sure you could figure out things. But if you're not an astronaut, you're going to have to go and check with the astronaut every single time you need to make a change, whereas if it's your own, Liz, you kept talking about trusting your gut and looking at your gut. And you were your original users. You were Campus Reps. You weren't so far out of college that you had forgotten what it was like. So, you were able to test and say, "Huh, will this make my life better? Would this have made my life better?" And if the answer is yes, you can move forward and then see sort of what your users actually do with it.
+Liz: And we even, everything down to like the language on the website, when you try to log out as a student, we show you a video of a guy being slapped across the face in slow motion and we say, are you sure you want to log out? This is how you're making us feel. Like, we really try to have that sense of humor and speak to our users the way we would want to be spoken to.
+Aaron: Yeah. I remember Groupon used to do that.
+Liz: Yeah.
+Aaron: Groupon spent a lot of time making people laugh if they tried to do things.
+Liz: Exactly.
+Aaron: Especially when it was something they didn't want them to do. It was like, hey, if I leave you with a positive impression, maybe you'll still leave but you're going to remember me and tell other people about it and probably come back at some point.
+Liz: Exactly.
+Aaron: Okay. So, you raise a million bucks and I'm guessing you just go out to fancy dinners, blow it all on nice clothes or whatever. So, what do you actually do once you have money? How does it change the way you operate and change the way you start building the business?
+J.J.: One of the very first things we did was we started using Campus Job to hire campus reps to help build out our marketplace, to help out with the student side.
+Aaron: So, the Campus Rep might have been dead but not really.
+Liz: Exactly. So, we hired our first employee right away. Nikki, who would run a Campus Rep program, that she sourced all the Campus Reps from Campus Job. We were very fortunate in that our lead investors gave us their office space for free. So, we didn't have to spend money on that, so we actually had an incredibly low burn rate at the very start, especially because we were paying our Campus Reps on a performance basis. So, we weren't just throwing out money. It was, if they delivered, then we would pay.
+Aaron: That is, I can't stress enough how important it is to do what Liz just said, which is keep your burn rate low. We just had our last dinner for YC's winter 2015 batch last night and I think the most frequent piece of advice we gave was keep your burn low. Even if you raise a million dollars, it seems like a lot of money, and people say, I could never spend that much but my partner Paul  likes to say, it's not your money and I think a lot of people miss that and they go and spend it on, frankly, stupid stuff. When that money should be treated as last money you'll ever raise and that's what you'll need to get to profitability. And you did that, right? You were super smart with it, which is, I think, sort of indicative of you being good as founders and doing your jobs right.
+So you get performance based fees for people hiring and you're working on the site, you got free office space. Then what?
+Liz: Then we just focus on building and growing everything. The employer side, we tried everything, every sales idea we could come up with before we were able to hire our first actual salesperson, which didn't happen until January.
+Aaron: And the salespeople for hiring clients, students . . .
+Liz: For getting employers to post jobs, yeah. We don't consider students customers, because they don't pay us. They just use the site for free to find jobs.
+Aaron: How do you make money?
+Liz: Employers pay per applicant that they receive.
+Aaron: That's cool.
+Liz: So, if a student clicks apply through our site, they don't get brought to a new site where they have to fill out a form. Their application gets submitted right there to the business, and then every time they click apply, we make money and the employer is the one who pays that money.
+Aaron: So, you're kind of lifting a page from Google's playbook, which is people pay us when people click on useful things, basically.
+Liz: Exactly.
+Aaron: And so, you start bringing in employers and you start getting students. How quickly do you start growing?
+Liz: Quick.
+J.J.: Pretty fast. Pretty fast.
+Liz: So, we had a couple of thousand students at the very, day one, just because of the fact that we transferred them over from, oh, we didn't transfer. We emailed all the students from the old website and then, at the very start, our Campus Reps were really good and they just hit the ground running and I think, at the end of the day, they can plant the seeds on their campus but what creates a network effect is when you see your friend got a really cool job and you ask them how they got that job and they say CampusJob.com and, all of a sudden, they sign up for CampusJob.com. And so, we used our Campus Reps to plant the seeds and then we knew we would only grow via network effect, which is the way we believe we should grow, if we were delivering jobs.
+So, at the end of the day it was all about get as many employers and as many students as possible and, right now, with our marketplace, we're definitely not signing up as many employers as we are students. So, we've really been focusing on growing out the employer side.
+Aaron: Right. Although you wouldn't expect to have quite as many employers as students.
+Liz: Exactly.
+Aaron: But you want growth rates that look good on both sides, so that the marketplace is healthy. We've been thinking about different marketplaces and thinking about how these things grow, you have this challenge of chickens and eggs, right? You need one to get the other. And it sounds like you started out, you kind of cheated, right? Because you started out with both, because of the Campus Rep. You knew both sides a little bit, which is kind of the way to do it. You can't, I mean. . .
+Liz: We cheated a little bit but I will say our revenue model made it so that it was a no risk, no brainer for businesses, because you don't pay us a dime unless you get applicants who, by the way, are qualified to apply. Because when a business posts a job, they say, I only want computer science students with a 4.0, who attend MIT and who speak Spanish to apply to my job. And we will only show your job to students who match these qualifications. And it's free until someone applies and then you pay a few bucks. And so, at the end of the day, it really was a no risk solution for businesses.
+Aaron: That's interesting. Ralph from PlanGrid just told us that the first question that Paul Graham asked was basically how you are going to convince IT departments to actually use the thing, because it's the business, B to B problem, enterprise sales are hard. And you guys, I think Ryan got around it by basically saying, it's not the IT departments, right?
+Ryan: Right, yeah. Those aren't the ones that actually buy it.
+Aaron: Right. And I think, Liz, you guys got around this in a different, slightly different way, which was we don't have to sell you anything, it's actually free. Right? If it works for you, give us a little money. If not, it's no harm, no foul, which is a pretty easy sell if you're saying we're going to send you great candidates.
+Liz: Exactly.
+Aaron: So, you're in New York, you're building it, it's going great. You have money. Why on earth did you move out to California to do YC for three months?
+J.J: Well, we met this great guy named Aaron Harris.
+Aaron: Oh, thanks, thanks.
+J.J.: No, but really, you were hugely influential. When we, I remember when we first spoke at Joe's Coffee and I was just really excited that I was introduced to you to talk about marketplaces. You were just telling us about more, in more detail about Y Combinator and what it could do for a company like ours and how it could really help us grow. Since, like Liz was just saying, we raised the money, we were focusing very strongly on talking to users, shaping futures and growing. 
+Aaron: You were actually doing all the things we tell companies to do, which is why I was excited. I was like, Oh wow, they're already doing this stuff. We should just get them in because they don't have to do very much to help them.
+Liz: Which you did, by the way. But, yeah, you, J.J. came back from a meeting with you and said, "I think we should apply to Y Combinator." And I was very hesitant because I saw that our growth was continuing, and that things were going well and I said, "Why change it? Why not, as you guys actually say, whatever's working to grow your company, keep doing that."
+Aaron: Right.
+Liz: So, I said, "Why would we move to California? We have a small team, etc." But we started speaking to a lot of other Y Combinator companies, some who had traction as well before YC. And everyone just spoke the world of it and promised that they wouldn't regret it. One person even said, "I'll buy you your entire seed round that you won't regret it," and so I took her up on that and there's no regrets. We are beyond thrilled.
+Aaron: So, you don't have to give her all the seed round money?
+Liz: Exactly.
+Aaron: So, you guys came to YC in the end of 20, I mean, you applied sort of the end of 2014. Y Combinator was a known quantity. You knew what you were getting into. Ryan, when you applied, I mean, five years ago?
+Ryan: Yeah. Yeah, God, it's been that long hasn't it? Just four years ago.
+Aaron: Did you have any, I mean, you didn't even know what YC was until you accidently drove there.
+Ryan: Yeah, I mean, after being there and then you hear the stories of Reddit, and AirBNB and Dropbox, which were successes then, though nothing like they are now, and really what convinced me the most is just, like, within, like, literally within 30 minutes of Paul Graham talking about startups as an idea, like, as an economic, why they're economically powerful, and how, if you're a young, ambitious person, it's literally the most leveraged thing you can do. And he just upended my entire view of, like, what it means to, not even have a career, but what it means to work on things, period, and to build stuff. And so, once I had that, then it's, like, okay, how do I get to be one of these ambitious people that has really leveraged what they're working on?
+Aaron: I want to try an experiment, because you both went through YC in sort of different time periods, obviously, but, Ryan, if you had to boil YC down to two, I say, maximum two things, what would you say, what did we tell you to do at YC? What's the thing?
+Ryan: Yeah. I mean, obviously it's make something people want.
+Aaron: Yeah.
+Ryan: In our case, it was what we wanted and what, which by proxy, what the construction industry wanted, and the other thing is that it's just, there's so much institutional knowledge, in getting incorporated, finding employees, raising money, getting exposed, how not to be a founder team and fight over equity. There's just so many of the shortcuts that three months of Y Combinator easily saved us three years.
+Aaron: That's awesome.
+Ryan: If we had to iterate through it, it probably would have killed us as a company or somebody would have beat us to the punch.
+Aaron: Yeah.
+Ryan: So, it's just an amazing, like, super amazing shortcut on so many levels.
+Aaron: And Liz and J.J., what would you guys say, like, the two most important things that you learned at YC?
+J.J.: I think I learned focus on what matters.
+Aaron: Mm-hmm.
+J.J.: And the focus part is sometimes actually easier than figuring out what it is that matters to your business, but you have to be thoughtful about it and once you know, you can't let anything else destruct you.
+Aaron: And Liz, I'm gonna let you have the last word. What would you say you learned?
+Liz: I was going to say number one focus, and number two, grow and just focus on whatever makes you grow.
+Aaron: You know, it's funny. I'll edit that slightly. When we talk about focus and growth, people sometimes get it slightly wrong. They say growth is all we care about, but it's the focus that leads to the growth. Without that focus, you don't actually have the growth.
+I just want to say thank you all so much for joining me today. This was really great. There's so much we didn't touch on, so we'll have to get you back on the air. But I want to thank my guests, all the PlanGrid founders who came and joined us today, and the Campus Job founders, who are about to head back to New York. I wish you luck in the trip and luck back there.
+For more information about PlanGrid, visit them online at PlanGrid.com. You can check them out @PlanGrid on Twitter. For more about Campus Job, go to their website CampusJob.com or find them @CampusJob on Twitter. Startup School Radio airs live each Wednesday at 1:00 p.m. Eastern, 10:00 a.m. Pacific, right here on Business Radio channel 111.
+If you have questions about what you heard on the show today, email us at businessradio@SiriusXM.com. Thank you for joining us today and a very special thank you to my senior producer Lisa Montenegro and our associate producer and engineer and master of songs, Dion Simpkins. Be sure to tune in next week, where I'll be broadcasting from New York City with David and Alan Tisch of spring and Olga Vidisheva of Shoptiques. I'm Aaron Harris and you've been listening to Startup School Radio on Business Radio, powered by the Wharton School, Sirius XM 111. Thanks so much for joining us and have an awesome 
+
+I want you to breathe me in
+Let me be your air
+Let me roam your body freely
+No inhibition, no fear
+
+How deep is your love?
+Is it like the ocean?
+What devotion are you?
+How deep is your love?
+Is it like nirvana?
+Hit me harder again
+How deep is your love?
+How deep is your love?
+How deep is your love?
+Is it like the ocean?
+Pull me closer again
+How deep is your love?
+
+Ah-ooh, ah-ooh, ah-ooh
+How deep is your love?
+Ah-ooh, ah-ooh, ah-ooh
+See Calvin Harris LiveGet tickets as low as $54You might also like
+Open up my eyes again
+Tell me who I am (Mm)
+Let me in on all your secrets
+No inhibition, no sin
+
+How deep is your love?
+Is it like the ocean?
+What devotion are you?
+How deep is your love?
+Is it like nirvana?
+Hit me harder again
+How deep is your love?
+How deep is your love?
+How deep is your love?
+Is it like the ocean?
+Pull me closer again
+How deep is your love?
+
+Ah-ooh, ah-ooh, ah-ooh
+How deep is your love?
+Ah-ooh, ah-ooh, ah-ooh
+How deep is your love?
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+How deep is your love?
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+How deep is your love?
+So tell me, how deep is your love? Can it go deeper?
+Pull me closer again
+So tell me, how deep is your love?
+How deep is your love?
+
+Ah-ooh, ah-ooh, ah-ooh
+How deep is your love?
+Ah-ooh, ah-ooh, ah-ooh
+How deep is your love?
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+How deep is your love?
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+
+
+Now I'm holdin' on
+Myself was never enough for me
+Gotta be so strong
+There's a power in what you do
+Now every other day, I'll be watching you
+
+Oh-ah, oh-ah
+I'll show you what it feels like
+Now I'm on the outside, oh-ah
+We did everything right
+Now I'm on the outside, oh-ah
+I'll show you what it feels like
+Now I'm on the outside, oh-ah
+We did everything right
+Now I'm on the outside
+
+See Calvin Harris LiveGet tickets as low as $54You might also like
+So you give me no reason
+For me to stay close to you
+Tell me what lovers do
+How are we still breathing?
+It's never for us to choose
+I'll be the strength in you
+
+Now I'm holdin' on (Now I'm holdin' on)
+Myself was never enough for me
+Gotta be so strong
+There's a power in what you do
+Now every other day, I'll be watching you
+
+Oh-ah, oh-ah
+I'll show you what it feels like
+Now I'm on the outside, oh-ah
+We did everything right
+Now I'm on the outside, oh-ah
+I'll show you what it feels like
+Now I'm on the outside, oh-ah
+We did everything right
+Now I'm on the outside
+
+I'll show you what it feels like
+Now I'm on the outside, I
+I'll show you what it feels like, ah
+
+(Ah, ah)
+I'll show you what it feels like
+Now I'm on the outside
+(Ah, ah)
+We did everything right
+Now I'm on the outside
+
+
+So blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+Blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+
+Blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+So blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+Don't blame it on me
+
+Blame it on the—
+
+
+Can't you see it? I was manipulated
+I had to let her through the door
+Oh, I had no choice in this, I was the friend she missed
+She needed me to talk
+See Calvin Harris LiveGet tickets as low as $54You might also like
+So blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+Blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+
+Blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+So blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+Don't blame it on me
+
+Blame it on the—
+
+(Me)
+(Oh-oh)
+(Me)
+(Blame it on me)
+(Me)
+(Oh-oh)
+(Me)
+
+Don't blame it on me (I will be better this time, I'm sorry)
+Don't blame it on me (I will be better this time, I'm sorry)
+Don't blame it on me  (I will be better this time, I'm sorry)
+Don't blame it on 
+
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+Oh, oh
+
+But she's looking at you
+
+You, oh, oh, you, oh, oh
+
+We go fast with the game we play
+Who knows why it's gotta be this way?
+We say nothing more than we need
+I say "your place" when we leave
+See Calvin Harris LiveGet tickets as low as $54You might also like
+Baby, this is what you came for
+Lightning strikes every time she moves
+And everybody's watching her
+But she's looking at you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, oh, oh
+
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+Everybody's watching her
+But she's looking at
+
+Everybody's watching her
+But she's looking at
+You, oh, oh, you, oh, 
+
+So I'll put my faith in somethin' unknown
+I'm livin' on such sweet nothin'
+But I'm tired of hope with nothin' to hold
+I'm livin' on such sweet nothin'
+And it's hard to learn, and it's hard to love
+When you're givin' me such sweet nothin'
+Sweet nothin', sweet nothin'
+You're givin' me such sweet nothin'
+
+
+It isn't easy for me to let it go
+'Cause I've swallowed every single word
+And every whisper, every sigh
+Eats away at this heart of mine
+And there is a hollow in me now
+See Calvin Harris LiveGet tickets as low as $54You might also like
+So I'll put my faith in somethin' unknown
+I'm livin' on such sweet nothin'
+But I'm tired of hope with nothin' to hold
+I'm livin' on such sweet nothin'
+And it's hard to learn, and it's hard to love
+When you're givin' me such sweet nothin'
+Sweet nothin', sweet nothin'
+You're givin' me such sweet nothin'
+
+
+And it's not enough to tell me that you care
+When we both know the words are empty air
+You give me nothing (Woah, woah, woah)
+Nothing
+
+Woah, woah, woah, sweet nothin' (Woah)
+Woah, woah, woah, sweet nothin' (
+
+We go fast with the game we play
+Who knows why it's gotta be this way
+We say nothin' more than we need
+I say, "Your place" when we leave
+
+Baby, this is what you came for
+Lightning strikes every time she moves
+And everybody's watchin' her
+But she's lookin' at
+You, ooh-ooh, you, ooh-ooh
+You, ooh-ooh, you, ooh-ooh
+You, ooh-ooh, you, ooh, ooh, ooh
+You, ooh-ooh, you, ooh-ooh
+You, ooh-ooh, you, ooh-ooh
+You, ooh-ooh, you, ooh, ooh, ooh
+See Calvin Harris LiveGet tickets as low as $54You might also like
+Baby, this is what you came for
+Lightning strikes every time she moves
+Yeah
+
+Baby, this is what you came for
+Lightning strikes every time she moves
+And everybody's watchin' her
+But she's lookin' at
+You, ooh-ooh, you, ooh-ooh
+You, ooh-ooh, you, ooh-ooh
+You, ooh-ooh, you, ooh, ooh, ooh
+You, ooh-ooh, you, ooh-ooh
+You, ooh-ooh, you, ooh-ooh
+You, ooh-ooh, you, ooh, ooh, 
+
+So blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+Blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+
+Blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+So blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+Don't blame it on me
+
+
+Can't you see it? I was manipulated
+I had to let her through the door
+Oh, I had no choice in this, I was the friend she missed
+She needed me to talk
+See Calvin Harris LiveGet tickets as low as $54You might also like
+So blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+Blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+
+Blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+So blame it on the ni-i-i-i-ight
+Don't blame it on me, don't blame it on me
+Don't blame it on me
+
+
+Oh, I'm so sorry, so sorry, baby (Oh, I promise)
+(I'll be better this time, I will be better this time, I will) Yeah
+Oh, I got to say (Oh, I promise)
+(I'll be better this time, I will be better this time, I will), I'm so sorry
+Oh, I promise (I'll be better this time, I will be better this time)
+
+Don't blame it on me
+Don't blame it on me-e-e-e-e
+
+
+
+When I met you in the summer (Summer)
+To my heartbeat's sound (Yeah)
+We fell in love (Love)
+As the leaves turned brown (Yeah)
+And we could be together, baby
+As long as skies are blue (Yeah)
+You act so innocent now
+But you lied so soon (Yeah)
+When I met you in the summer
+
+Summer
+See Calvin Harris LiveGet tickets as low as $54You might also like
+
+When I met you in the summer (Summer)
+(Yeah)
+(Love)
+(Yeah)
+Summer (Summer)
+(Yeah)
+(Love)
+(Yeah)
+
+
+In a state of ecstasy
+In the place we're meant to be
+In a state of ecstasy
+There is only you and me
+
+Break through from the other side
+And lead me to paradise
+'Cause nothing but love can take us away from here
+Every time I close my eyes, we disappear
+
+In a state of ecstasy
+In the place we're meant to be
+In a state of ecstasy
+There is only you and me
+
+Ooh ooh, eh eh
+Ooh ooh, eh eh
+Ooh ooh, eh eh
+Ooh ooh, eh eh
+See Calvin Harris LiveGet tickets as low as $54You might also like
+In a state of ecstasy
+In the place we're meant to be
+In a state of ecstasy
+There is only you and me
+In a state of ecstasy
+In the place we're meant to be
+In a state of ecstasy
+There is only you and 
+
+Let's go
+Make no excuses now
+I'm talkin' here and now (Here and now)
+I'm talkin' here and now
+Let's go
+Your time is running out
+I'm talkin' here and now (Here and now)
+I'm talkin' here and now
+
+It's not about what you've done
+It's about what you're doin'
+It's all about where you're goin'
+No matter where you've been
+Let's go
+
+Let's go
+Let's go
+Let's go
+Let's go
+See Calvin Harris LiveGet tickets as low as $54You might also like
+Ooh, let's go
+There is no better time
+I'm talkin' here and now (Here and now)
+I'm talkin' here and now
+Let's go
+Right now is where you shine
+I'm talkin' here and now (Here and now)
+I'm talkin' here and now
+
+It's not about what you've done
+It's about what you're doin'
+It's all about where you're goin'
+No matter where you've been
+Let's go
+
+Let's go
+Let's go
+Let's go
+Let's go
+
+Let's make it happen
+Ooh, let's make it happen tonight
+Let's make it happen
+Ooh, let's make it happen tonight
+Let's make it happen
+Ooh, let's make it happen tonight
+Let's make it happen
+Ooh, let's make it happen tonight, tonight
+Let's go
+Let's go
+Ooh, let's go
+Let's go
+Ooh, let's 
+
+A collaboration between Khalid and Calvin was first hinted at two months earlier from this tweet:
+I've been rollin' on the freeway
+I've been riding 85
+I've been thinking way too much
+And I'm way too gone to drive
+I've got anger in my chest
+I've got millions on my mind
+And you didn't fit the picture
+So I guess you weren't the vibe
+I've been rollin' on the freeway
+I've been riding 85
+I've been thinking way too much
+And I'm way too gone to drive
+I've got anger in my chest
+I've got millions on my mind
+And you didn't fit the picture
+So I guess you weren't the vibe
+
+Got L-O-V-E on my right leg, that's Gucci (Get what I'm sayin'?)
+Got L-O-V-E on my main ho, that's Pucci (Get what I'm sayin'?)
+Caught a lil' jetlag but I'm golden, damn
+We deserve Grammys and some Oscars, damn
+They deserve Whammys, they imposters
+I be rollin' with my project homies, it's a vibe
+I just did some pills with the homie, it's a vibe
+Bend her over, switch sides, it's a vibe, yah
+See Calvin Harris LiveGet tickets as low as $54You might also like
+I come through with strippers and some shottas
+I gotta accept that I'm a monster
+I pull up in several different options
+Not all, but most of 'em came topless
+I'll shatter your dreams with this cream I make (Cream I make)
+Gotta be on codeine to think of shit I say (Shit I say)
+I can't feel my toes and ain't gon' fold up (Fold up)
+I was in the double R when I rolled up (When I rolled up)
+
+I've been rollin' on the freeway
+I've been riding 85
+I've been thinking way too much
+And I'm way too gone to drive
+I've got anger in my chest
+I've got millions on my mind
+And you didn't fit the picture
+So I guess you weren't the vibe
+I've been rollin' on the freeway
+I've been riding 85
+I've been thinking way too much
+And I'm way too gone to drive
+I've got anger in my chest
+I've got millions on my mind
+And you didn't fit the picture
+So I guess you weren't the vibe
+Pluto
+Gotta dig what I'm sayin', Chanel drapes on me, baby
+Gotta dig what I'm sayin', she look like she's sponsored by Mercedes
+Dig what I'm sayin', this Creed cologne is on me, baby (You dig?)
+Dig what I'm sayin'? I'm goin' hard (Hard, yeah)
+I pop bubbly in your memory
+You should be glad I'm showin' you sympathy (Showin' you sympathy)
+I gave you real love out the gutter (Out the gutter)
+Ever let you go, you gon' suffer (You gon' suffer from it)
+
+I come through with strippers and some shottas (Shottas)
+I gotta accept that I'm a monster
+I pull up in several different options
+Not all, but most of 'em came topless
+I'll shatter your dreams with this cream I make (Cream I make)
+Gotta be on codeine to think of shit I say (Shit I say)
+I can't feel my toes and ain't gon' fold up (Fold up)
+I was in the double R when I rolled up (When I rolled up)
+
+Yeah, L-O-V-E on my right leg
+Nah, Hendrix overload, dig what I'm sayin'?
+I feel like I should be giving up
+You can leave if it's too much
+But I'm tired of you leading me on, oh no
+I don't like where this shit is going
+I mean, I've been stuck in all your apologies
+Gave you my all but you want more from me
+Keep your love, it doesn't feel the same
+I hope it hurts you when you're hearin' my 
+
+Now nothin' ever last forever, no (No)
+One minute you're here, and the next you go
+So I respect you wanna take it slow (Hey)
+I need a mental receipt to know this moment I owe
+
+And do you mind if I steal a kiss? Uh (Chop, chop)
+A little souvenir, can I steal it from you? (Haha)
+To memorize the way you shock me (Zap, hey)
+The way you move it here (Hey)
+Just wanna feel it from you (Hey, woo)
+
+Don't be afraid to catch feels (Ha)
+Ride drop top and chase thrills (Hey)
+I know you ain't afraid to pop pills (Hey)
+Baby, I know you ain't scared to catch feels
+Feels with me (Woo)
+See Calvin Harris LiveGet tickets as low as $54You might also like
+I'm your window shopper (Hey), sucker for your love, oh (Yes)
+I'm wearing your goggles, virtual (Virtual) reality (Hey, ayy)
+It ain't what it cost you, it might be a dollar (Hey)
+As long as it shocks you (Uh), memory, electricity (Uh)
+
+And do you mind if I steal a kiss? (Chop, chop)
+A little souvenir (Hey), can I steal it from you? (Oh, yeah)
+To memorize the way you shock me (Zap)
+The way you move it here (Hey)
+Just wanna feel it from you (Hey)
+
+Don't be afraid to catch feels (Ha)
+Ride drop top and chase thrills (Oh, oh)
+I know you ain't afraid to pop pills (Hey)
+Baby, I know you ain't scared to catch feels (Straight up)
+Feels with me (Woah)
+
+Goddamn, I know you love to make an entrance (Big)
+Do you like getting paid or getting paid attention? (Like woah)
+You mixed the wrong guys with the right intentions
+In the same bed, but it still feel long distance
+You looking for a little more consistency (I know)
+But when you stop looking, you gon' find what's meant to be
+And honestly, I'm way too done with the hoes
+I cut off all my exes for your x and o's
+I feel my old flings was just preparing me (Me)
+When I say I want you, say it back, parakeet (Yeah)
+Flyin' first-class through the air, Airbnb (Woah)
+I'm the best you had, you just be comparing me to me (Woah)
+I'ma 'at' this at you, if I put you on my phone (Woah)
+And upload it, it'll get maximum views (Brr)
+I came through in the clutch more than lipsticks and phones (Ooh)
+Wear your fave cologne just to get you alone (Ooh)
+Don't be afraid to catch feels (Don't be afraid to catch these feels)
+Ride drop top and chase thrills (Yeah, yeah-yeah, yeah-yeah, yeah-yeah)
+I know you ain't afraid to pop pills (I know)
+Baby, I know you ain't scared to catch feels (Woah, woah, woah)
+Feels with me
+Don't be afraid to catch feels (Don't be afraid, baby, no, no)
+Ride drop top and chase thrills (Woah, okay)
+I know you ain't afraid to pop pills (I know, I know, I know)
+Baby, I know you ain't scared to catch feels
+Feels with 
+
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way
+My way
+My way
+
+Why wait to say? At least I did it my way
+Lie awake, two-faced, but in my heart, I understand
+I made my move, and it was all about you
+Now I feel so far removed (Yeah)
+See Calvin Harris LiveGet tickets as low as $54You might also like
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way
+
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, way
+My way, oh, way, oh, way, oh, 
+
+I feel so close to you right now
+
+I feel so close to you right now, it's a force field
+I wear my heart upon my sleeve like a big deal
+
+
+And there's no stopping us right now
+And there's no stopping us right now
+And there's no stopping us right now
+I feel so close to you right now
+
+Your love pours down on me, surround me like a waterfall
+And there's no stopping us right now
+I feel so close to you right now
+See Calvin Harris LiveGet tickets as low as $54You might also 
+
+When the daylight comes, you feel so cold, you know
+I'm too afraid of my heart to let you go
+
+Waitin' for the fire to light
+Feelin' like we could do right
+Be the one that makes tonight
+'Cause freedom is a lonely road
+We're under control
+
+
+We're under control
+
+I might be anyone
+A lone fool out in the sun
+Your heartbeat of solid gold
+I love you, you'll never know
+See Calvin Harris LiveGet tickets as low as $54You might also like
+When the daylight comes, you feel so cold, you know
+I'm too afraid of my heart to let you go
+
+Waitin' for the fire to light
+Feelin' like we could do right
+Be the one that makes tonight
+'Cause freedom is a lonely road
+We're under control
+
+
+Waitin' for the fire to light
+Feelin' like we could do right
+Be the one that makes tonight
+'Cause freedom is a lonely road
+We're under control
+We're under 
+
+Do you slide on all your nights like this?
+Do you try on all your nights like this? (I might)
+Put some spotlight on the slide
+Whatever comes, comes through clear
+Do you slide on all your nights like this?
+Do you try on all your nights like this? (I might)
+Put some spotlight on the side
+And whatever comes, comes through clear (Uh)
+
+All this jewelry ain't no use when it's this dark
+It's my favorite part, we see the lights, they got so far
+It went too fast, we couldn't reach it with our arms
+Wrist on a wrist, a link of charms (Ooh, yeah)
+Layin', we're still a link apart
+It's like we could die here all young
+Like we could dye hair all blonde, huh
+If we could see in twenty twin
+Twice we could see it 'til the end
+See Calvin Harris LiveGet tickets as low as $54You might also like
+Put that spotlight on her face (Spotlight)
+Put that spotlight on her face (Ah, yeah)
+We gon' pipe up and turn up (Pipe up)
+We gon' light up and burn up (Burn up)
+Mama too hot like a (Like what?)
+Mama too hot like a furnace (Furnace)
+I got a hundred G's in my Goyard (G's)
+My diamonds gon' shine when the lights dark (Shine)
+You and I take a ride down the boulevard (Yeah)
+And your friends really wanna break us apart
+Good lord
+
+(Offset) Good gracious (Hey)
+Starin' at my diamonds while I'm hoppin' out a spaceship
+Need your information, take vacation to Malaysia (Info)
+You my baby, the paparazzi flashin' crazy (Flash)
+She swallowed the bottle while I sit back and smoke gelato (Ah)
+Walk in my mansion, twenty thousand paintin', Picasso (Hey)
+Bitches be dippin', dabbin' with niggas like a nacho (Woo)
+Took off her panties, diamonds dancin' like Rick Ricardo (Flash)
+She havin' it, went to college, workin' on her bachelor (College)
+I know you got a past, I got a past, that's in the back of us (Woo)
+Average, I'ma make a million on the average (M's)
+I'm ridin' with no brain, bitch, I'm out of it (Skrrt)
+Do you slide on all your nights like this?
+Do you try on all your nights like this? (I might)
+Put some spotlight on the slide (Oh yeah)
+Whatever comes, comes through clear (Yeah)
+Do you slide on all your nights like this? (Yeah)
+Do you try on all your nights like this? (Your nights, oh)
+Put some spotlight on the side (Light on)
+And whatever comes, comes through clear (Yeah)
+
+I might
+Empty my bank account (Oh)
+And buy that boy with a pipe (Ooh, yeah, yeah)
+Buy that boy with a pipe (Come on, yeah)
+I might, I might (Come on, yeah, yeah, slide)
+Empty my bank account (Oh, slide, yeah)
+And buy that boy with a pipe (Slide, yeah)
+(Do you slide on all your nights like this?)
+Buy that boy with a pipe
+I 

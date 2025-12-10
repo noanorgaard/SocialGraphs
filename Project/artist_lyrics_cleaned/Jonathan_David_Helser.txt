@@ -1,0 +1,950 @@
+
+1 ContributorStartup School Radio Ep. 7: Kevin Hale & Johnny Chin LyricsWoman: From the campus of the Wharton School in San Francisco this is Startup School Radio. Here is Y Combinator partner, Aaron Harris.
+Aaron: Good morning and welcome to Startup School Radio from the Wharton School in San Francisco. On SiriusXM's business radio powered by the Wharton School. I'm your host, Aaron Harris. I'm a partner at Y Combinator where we fund early stage companies and work with them to help make them into billion dollar businesses.
+Every year Y Combinator does a conference called Startup School where we bring in founders that we love. Have them tell their stories and everything that they've learned. From the screw ups to the successes and everything in between. On Startup School Radio we'll be bringing those founders to you on a weekly basis. Broadcasting every Wednesday at 1:00 p.m. Eastern, 10:00 a.m. Pacific with the goal of helping anyone thinking about starting a company learn how to do it better.
+Coming up on today's show I'll be joined by Kevin Hale, one of my partners at Y Combinator and co-founder of one of our earliest funded companies, Wufoo, which was acquired by SurveyMonkey. We'll also talk about his experiences launching that company and his current role working at Y Combinator with our portfolio companies. Plus, Johnny Chin, a member of Y Combinator's 2014 batch is going to come by and talk about what it was like going through YC and how the experience helped him run his company Bannerman, a service that provides a fast and easy way to book security professionals.
+If you're thinking about starting a company or you're an entrepreneur in the early stages of running a startup and have a question for us, we would love to hear from you. You can email us at: businessradio@siriusxm.com and be sure to follow our channel on Twitter @bizradio111 and I tweet under the handle @Harris.
+I am very happy to welcome Kevin Hale as my first guest today. Kevin is one of my partners at Y Combinator and was co-founder of a really incredible company called Wufoo which he sold to SurveyMonnkey in 2011. He's with me today to talk about his experiences with Wufoo, his current role at Y Combinator, and a lot of other really awesome stuff. Kevin, thank you so much for joining me.
+Kevin: Thanks Aaron. Glad to be here.
+Aaron: It's super cool to have you. So, let's talk a little bit first about Wufoo, because I think that's kinda where it all goes back to in your experience starting a company. Why did you decide to start a company? Is it something you always knew you wanted to do?
+Kevin: Actually, no. I went to school and studies modern American literature and this wird interdisciplinary degree called Digital Arts, which combined like computer science, art, and music together and I basically made installations for museums and interactive displays. And so what I though I was going to do after college was take a year off then apply to grad school, get my MFA and teach art to hippies.
+Aaron: Which, by the way, is probably a good thing to do in San Francisco. There's a lot of hippies that want to learn about art I'm guessing.
+Kevin: Yeah, but I was actually on the east coast in Florida.
+Aaron: Ah, not a lot of hippies in Florida.
+Kevin: No. So, during that year off I actually ended up meeting my co-founders and I really liked working with them so much and we were all interested in a lot of different stuff. Eventually we found ourselves at South By Southwest because my parents had a house in Austin and we could go for very cheap. We saw a talk by Jason Fried called "Doing Big Things With Small Teams" and it changed my life. Basically...
+Aaron: Who's Jason Fried?
+Kevin: Jason Fried is the founder of 37signals. They created an awesome product called Backpack and it's one of the most well known bootstrap companies.
+Aaron: Hm.
+Kevin: One of the other founders is David Heinemeier Hansson and he founded Ruby on Rails.
+Aaron: Got it. For those of you listening, when we talk about bootstrap companies in sort of Silicon Valley parlance, I guess. A bootstrap company is a company that never raises any outside capital. They run just on the money that they make. Which may sound totally normal to most people, and it is totally normal, but it's something that people in Silicon Valley don't always talk about. They kind of give a little too much credit sometimes to companies that have raised money, because they look at that as success. Where as that's not success, success is actually building a really great company. So you heard this talk and then what happens?
+Kevin: So, basically, I look around the room and I look at them and think that there is nothing different about them versus us. I think that we're just as good as anyone else in there in terms of technical capability and our drive to make really nice stuff. So we said, "All right, we're gonna do a start up," and the advice that he gave during that talk was, like, build an audience first. Because they started doing a blog called 37signals long before they ever launched Backpack and they built up a huge audience so that when they launched, they didn't start from zero. So we thought that sounded great, so on the steps of the Austin Convention Center we started a blog. It was called Particletree and we just wrote about everything that we didn't know about running a start up. Stuff about design, stuff about entrepreneurship, stuff about programming and as we learned, we shared it with other people. Then we built up our audience that way.
+Aaron: Did you know at that time what the start up that you were going to start was going to be?
+Kevin: We had a hint of it so we were working for the university arm of a research institution and basically we were assigned the task of building lots of different applications and data base apps for lots of different departments at the university. And so we were like, it would be great if these people could just build these forms themselves. Because building little database apps, it's like fairly simple for computer science programmers but it's very tedious and they don't like doing it. It's not gratifying work. So we thought, if these people could just like, build whatever it is that they actually want, then that would be great.
+Aaron: So that's letting the non programmers basically build whatever form they need to collect information.
+Kevin: Correct.
+Aaron: So this is kinda funny because it runs, it seems to run counter to some of the advice that we give as Y Combinator partners, which is the first thing you should do is build a product and release it. And you said, "Now we're gonna build an audience first, right. We're gonna put it out there," so how do you reconcile that?
+Kevin: Well, the thing was that we didn't know how to build the product yet...
+Aaron: Got it.
+Kevin: ...that people wanted and we didn't know anything about startups. Actually, Y Combinator didn't really exist. We ran the blog for two years before Y Combinator ever came into existence. When we finally heard about it the first batch had already gone. So, we knew between the three of us that we wanted to do some kind of business and that we were building up and audience. I think we had like 50,000 people subscribed to the blog reading it like every single day.
+Aaron: That's a lot of people reading it!
+Kevin: And that was just doing hard work. Working nights and weekends putting on content. We were just obsessed with learning and putting that together and showcasing it to the world. So Chris, Ryan and I, we had this idea, it's like, okay, we want to build this software, we have some articles that would reach like 150-200,000 people. We know that we have the people that we need, now we need to build the software. But we didn't have the money saved up, we had no venture capital, we had no friends and family who were rich or whatever. And the three of us didn't have enough money saved aside to quit our jobs. So after a couple weeks thinking about this one of the co-founders, Chris, he actually volunteered and he said, "Okay, Ryan and Kevin, you two are the most equipped to make this sort of happen and I think what we can do is make a magazine," which is kind of a weird thought, but it was like, we think that we could take and build a digital PDF magazine at the time and only take two weeks to build it and then take the other two weeks of the month to work on the software we wanted to build.
+Aaron: What was the purpose of the magazine? You were going to sell it?
+Kevin: We were going to sell it and...
+Aaron: To you user base of 50,000 daily readers or whatever?
+Kevin: Exactly. And so Chris says, all right, you two, one of you's gonna build the store and the other one's gonna produce the magazine and make it happen. I had the least role in that, so I'm going to keep my job and you guys quit yours and I'll split my paycheck between the three of us.
+Aaron: Holy crap!
+Kevin: Yeah, so we were like two months into that plan when we found out that Y Combinator was going to open up for their second batch. And...
+Aaron: The level of trust that is in that situation, it is kind of mind boggling.
+Kevin: It helped that Chris and Ryan were brothers, so they have infinite trust with one another and then we had...
+Aaron: I don't know, I've met some brothers that don't trust each other very much.
+Kevin: Yes, we were very luck. And then the three of us we'd just done lots of projects together and so we knew that we worked well and that we worked hard. On nights and weekends, like outside of our normal work stuff and that we were committed to this. Chris would actually come home though every night and he'd be pretty angry, because he was like, "I've been in a cubical all day, you better show me what you built today. It better be good, 'cuz I'm pissed."
+Aaron: That's a pretty good incentive for you guys to create good things.
+Kevin: Definitely. So we launched the first magazine issue, we gave that one for free, for everyone to get a taste of it. It was like a hundred pages long.
+Aaron: All content you wrote?
+Kevin: No, we had other people write and...
+Aaron: Okay
+Kevin: ... contribute to it. Actually some of the early writers were like, John Resig, from before jQuery even existed and people like John Cervasky  who was like one of the early members of the teams of FeedBurner, before they like got acquired by Google and stuff. And then...
+Aaron: So these are people who are themselves already pretty well known to hackers and designers and things like that or people who are just super smart and had interesting things to say?
+Kevin: It was a combo. Particletree had acquired a readership where we could get some really talented people, even Jason Santa Maria at the time...
+Aaron: Who's that?
+Kevin: ... worked for the magazine. He's one of the lead designers over at A List Apart and he's a really well known web designer that helped usher in a lot of web standards in web design.
+Aaron: Got it, and web standards are just sort of the things that unite how web pages are designed so that any given browser can see all of them the same.
+Kevin: Yeah.
+Aaron: Super important, it's kinda the core piece of infrastructure for the reason that the Internet works the way it does.
+Kevin: So we actually hadn't written any lines of code for the software. We had just launched this magazine one month and we had started selling six month subscriptions to the magazine. Into that second month plan, Y Combinator opened up...
+Aaron: So you were a magazine salesman.
+Kevin: Yeah, for the most part. We were a publishing, we were trying to build a little publishing empire that would build software.
+Aaron: Right.
+Kevin: Anyway, so we applied to Y Combinator with just that and we got in just because, you know, basically, Chris showing that he was splitting his paycheck between the three of us, we had built up this amazing audience showing that we could get things done and that we were determined to have a company no matter what.
+Aaron: Right. So how did you hear about Y Combinator?
+Kevin: Huge fan of Paul Graham's essays. We would devour anything about doing entrepreneurship and stuff and so that came across.
+Aaron: So this was 2006, right?
+Kevin: Yeah, 2006. So I think what was popular at that time was Delicious and that was, like, one of the links that people would share, would be PG's essays.
+Aaron: Right, and I mean, it's kinda hard to think back to 2006, we're talking nine years ago at this point.
+Kevin: Yeah, you had to run your own servers, there's no AWS, there's no iPhone, there's no Twitter.
+Aaron: There isn't much of a startup scene. Startups aren't, I mean... Facebook is out, right?
+Kevin: Basically the biggest one that was known at that time was Flickr. And so they got known for being acquired by Yahoo and it kind of reignited all these people interested in doing web startups again because before there was a crater left by the first tech boom.
+Aaron: Right, all these companies that had started up and raised tons of money and then just disappeared with all that money basically. So you decide to start this company, you apply to Y Combinator, you get in, you move up to Boston.
+Kevin: No, we were the first batch in Mountain View, and contrary to what a lot of the startups, their reasons for coming to YC, we actually needed the money and it was only $18,000 at that time. But, we were like, we needed it so that Chris could quit his job. Yeah, and then we wrote our first lines of code. Here's the thing, we still had to produce a magazine. We had committed to six months of issues and we had sold thousands of subscriptions. So we were both putting this magazine together, doing the startup the way Y Combinator wants us to, and doing fundraising all at the same time. I literally slept maybe, on average, four hours a night, every night.
+Aaron: That is too many things to do at once. I mean...
+Kevin: It's not something I would advise startups.
+Aaron: ... if a startup came to you know and said, "Hey, Kevin, so I have a startup and also I'm publishing a magazine, so that's a good idea, right?"
+Kevin: Not at the same time. If you can avoid doing it at the same time, that's good.
+Aaron: But you managed to make it work.
+Kevin: Yeah, we made it work. We got through our six month issues and we shut the magazine down.
+Aaron: Were people upset when you shut the magazine down?
+Kevin: People, yes, a little upset, but the thing is that everyone that bought the six months of issues, we delivered on that. Then everyone sort of understood the opportunity that was given to us and they were excited.
+Aaron: And then you got them all to sign up for Wufoo?
+Kevin: Yep, well not all of them, but a good number of them. When we launched a prototype, I think we started first lines of code in January and then early February we launched a prototype and the thing is we didn't have it hooked up to a database or anything. But there is this culture of shipping that Y Combinator was pushing us to do and we said, "Okay, how can we get this out to users even though it's not ready to work?" and I said, "Well, I think this interface is really innovative, maybe we can just turn this into like a lead list." So we put it up there where you can just try out the interface and at the end of the experience when you try to save it would say, thanks for trying out our demo, sign up for the mailings and we'll let you know when we launch. We got over 200,000 emails from people just off of that demo.
+Aaron: If you're just joining us, I'm Aaron Harris and you're listening to Startup School Radio. I'm speaking with my partner Kevin Hale about how he founded Wufoo and he just dropped a totally crazy stat for those of you who might have missed it. Which is, when they first launched Wufoo, the first use and the first instance of their form was a lead list that pulled in 200,000 people. That's wild, that's a really great base to start with.
+Kevin: Yeah, and it allowed us to also have this audience because we had people subscribed on the blog. When we finally launched in July, six months later, our servers went down like many company's did at the time and because we gave TechCrunch an exclusive at the time. And so if you've seen TechCrunch launches back then, people got very, sort of, nasty very quickly.
+Aaron: Yeah.
+Kevin: And we were fortunate because we had such a huge audience reading our blog and had seen us do good work that people started commenting right away and saying, like, "Oh, I know Kevin, Chris, and Ryan's work. These guys do amazing stuff. I've been in, like, the beta for awhile, like, I'm sure their gonna figure out and this is just a hiccup." And it just changed the tide in the comments by building up this audience and creating these relationships that we had with our readers and our potential beta test users. That allowed us to get a kind of PR that we couldn't have paid for.
+Aaron: It's something so interesting because again, if you go back nine years, people didn't have tolerance for things breaking the way I think they do now. Even now people will get nasty if something goes down It's like, you gave me this free thing that didn't exist before and it didn't work perfectly. I hate you! Which is a ridiculous thing to say, but I think there is a little more tolerance now for understanding that hey, this is a startup, they're working on it, right? They're going to try and fix it. But that idea of building at a community that loves you, I think, from the start is something that startups really need to do and a lot ignore. Or they think that all they need to do is just dump something on the world.
+Kevin: I think they think of it, it's a little like Field of Dreams, they just build it, people are going to come and they'll recognize their genius. But it takes a lot of work to build the relationships that you sort of need and have people kind of see you're not as some faceless company or as a product that they're just going to abuse, but as real people working on real stuff. I think what I try to advise a lot of our startups is that, "Do your best to have people understand that you're human. Because people can have empathy and understand humans, so if you make a mistake, they're going to be understanding." For the most part people are. But the more you try to, sort of, be defensive and try to act like a big faceless corporation, the less likely you're going to get leeway when things go wrong. And inevitably, things will go wrong.
+Aaron: Yeah, I mean, I always found that when we had customers who were upset about something, as soon as you called them on the phone and just acted like a caring, rational person... They paid you hundreds of dollars or something like that and they're upset... If you talk to them, people are actually pretty reasonable once they're interacting with another human being. I think that is one of the advantages, a huge advantage that startups have over large companies. It's the fact that they are small enough and their customer base is typically small enough that they can take that extra time to actually make people happy and delight their users.
+Kevin: Yep.
+Aaron: So as you released the first version of Wufoo six months after your first line of code, Y Combinator's over, right?
+Kevin: Yeah, Y Combinator was over in April and we did okay fundraising. I mean we raised $100,000 which is like fairly small, nowadays for a Y Combinator company. But at that time we actually purposely only raised $100,000. From two angels. And the reason was just because we're like, "We're going to charge for this product from day one." We didn't know any better and we were like, "That seems like more than enough money to get us at least to launch and then see if this business is going to work or not."
+Aaron: Well you say that, "We don't know any better," as is it was a bad decision or something. It seems like it was the right thing to do for you.
+Kevin: It worked out really well for us. We actually urned down an addition $250,000 from another group because we just thought we had enough and I think when we sold to SurveyMonkey in 2011, so we ran the company for 5 years, I think that the average company at the time, TechCrunch put out this like interesting research and data graph that showed like, the average company at acquisition or IPO they would raise about $25 million on average and the returns to their investors were like 676% which is great.
+Aaron: Yeah.
+Kevin: We only raised that $100,000 so $118,000 total with YC's money and our returns to our investors when we sold to SurveyMonkey was 29,000%.
+Aaron: That's better! That's better from a return on capital perspective, that's for sure.
+Kevin: Then even after we launched we were profitable. So that's what allowed that sort of magic to happen. For the most part, we pretty much acted kinda like a bootstrap company, but we kept it really lean. We were frugal all the time. We were never ostentatious. We operated out of the east coast. We actually moved back to Florida after YC and being in Silicon Valley. We kept our heads down worked really hard, we actually never even got an office.
+Aaron: So you didn't even have an office, how do you maintain focus at a company without an office, like far away in Tampa where not as many people pushing... certainly not as many startups, not as many people doing things that you do?
+Kevin: What I recognize now after working with hundreds of startups is that we were exceptionally rare in our ability to have discipline in sort of our work ethic. So we didn't go to Florida and try to restart a startup scene over there. We focused on our company. We made sure that what we worked on was like the most important thing for the company. That if we're working on something is this going to be a 10x thing or is this going to be something that just like a 1x thing that's going to improve stuff.
+Aaron: How do you make that decision? How do you make the call between something that's going to be a 1x improvement versus a 10x improvement?
+Kevin: So the trick there is, you're mostly listening to your users, constantly, and you're kinda want to be telling them no. For the most part, but...
+Aaron: You actually have to tell your users no?
+Kevin: All the time. And you have to actually, there's an art to it that you have to figure out. How do I gracefully let people down? But you're mostly listening constantly and then eventually some pattern will emerge and you'll realize, this is what my users really need that they ultimately sort of want. But the other thing is constantly looking at what is the one number that makes the biggest difference in our company?
+Aaron: Right and for you...
+Kevin: What are the things that stick out...
+Aaron: ... what was that one number?
+Kevin: So for us it was getting people to create like a form and then having people have it filled out.
+Aaron: That was the metric, a filled out form basically?
+Kevin: Right and then you pretty much had that user hooked.
+Aaron: Right. Did they have to pay the first time they had a form filled out?
+Kevin: No, we had a freemium model, which was actually pretty rare at the time, that we put that up there.
+Aaron: Which means what?
+Kevin: That means that we had a free plan and then there was paid tiers. If you want to have access to certain features and wanted certain volumes of certain types of features. So, for example, ours was a form builder or survey builder and you got up to 100 entries or form submissions a month for free. If you needed more than that then you'd pay for different stuff. Also if you wanted payment integration, so if someone fills out your form and you wanted to take a payment, that'd be a paid feature that you'd have to upgrade in order to do. And then the thing about freemium is it's the opposite of a free sample that you would do at a small business or a bakery. You give away for free a very small percentage, like 1% of your inventory or even less than that and hoping to convert that everyone else is going to be paid. In a freemium model in software, you give away tons, your free plan is going to be the overwhelming majority of what your users are going to be using. And because you are working on volume, the small number that you convert actually makes you all the money. When you're working at scale.
+Aaron: So the things that become super important to track are what your conversion rate is and kinda what they pay.
+Kevin: Also in a freemium business, especially in a monthly subscription, retention is king. And so it's far easier to keep a user than it is to convert one. And so, I talk about this a little bit all the time with my startups. I said that there's only two sort of numbers that interplay with each other that determines growth. It is conversion rate and churn rate, right? And so, a 1% increase in conversion rate is the same thing as a 1% decrease in churn. And the gap between those two, that is where growth happens, and the further the the gap you can spread it out there, the faster your company can grow.
+Aaron: Right.
+Kevin: And so we were phenomenal at making sure our churn rate was super low for the industry. One of it was focusing on incredible customer support, but also constantly iterating and building features so people who are on the free plan would be like, "Oh crap, there's a new feature that I actually might want on the paid plan and since I've had a relationship for a long time, I can get on board."
+Aaron: When you thought about customer support, as you think about customer support now, you had a freemium model, so a lot of the people interacting with your software weren't actually customers, they weren't paying customers anyway. Did you support them, did you say, "Yeah, we'll do whatever you need."
+Kevin: Yeah, definetely, because they're leads. I think that's the thing, a lot of people will think of customer support as a cost in the cost column and I think it's an acquisition strategy. I like having freemium models where I have people constantly there. Because that means that, "Oh, I have the potential to convert them somewhere along the line." If I have only a 30-day trial that they can come and use my product and then they leave, I don't have an easy way to get them back on.
+Aaron: Right.
+Kevin: Right, so I want them using the product no matter what because I think I will eventually be the kind of startup that is going to be innovative and build up the features, and will eventually make something that they really want.
+Aaron: Right, so you're building this thing in Florida, it's growing, it's getting users, it's bootstrap, so you don't really, I mean you certainly don't have investors to answer to, it's just sort of the three of you, right? And your team. What made you decide to sell the company? That sounds like a really tough thing to do?
+Kevin: So when SurveyMonkey approached us, they weren't the first acquisition offer, we had actually said no to many offers before that. And I think, near the end of the five year mark to be really honest, we're ready to go to the next step. My co-founders, I think we were never interested in running a giant company and that's why the company never got beyond 10 people. We had crazy profits and we were lucky to have the kind of business that we could grow it the way we did and have the kind of culture that we had, which was small sort of tight knit culture and be able to do so well and work so efficiently. But, near the end of that time they're ready to do something else and I personally could have kept running that company but I never would have gotten an entrepreneurship without them and I was like, "Dude, if you're ready for us to do something else then that'll be sort of great." The thing that worked out really well was that SurveyMonkey was a great company.
+We actually had an offer from someone else and SurveyMonkey had been trying to purchase for many years and they had told us that if anyone had ever approached us, we should talk to them first. And so we had another offer and Chris reminded... kind of felt like they're ready to see what opportunities are out there and we talked to SurveyMonkey and it ended up being a great place. Every promise that they ever made to us beforehand, they fulfilled on. It's like the best sort of acquisition story that I can ever imagine. They got our product, they didn't dismantle, they kept true to their word about taking care of our users and we were able to skip this whole process that goes from 10 people to hundreds of people and just learn all of this amazing experience, like watching SurveyMonkey grow. Their numbers and their progress looked exactly like ours except they were five years older than us. So everything looked to be on the same trajectory...
+Aaron: So the model fit, the culture fit, all those things.
+Kevin: Yep.
+Aaron: That's super rare to hear. Most of the times you here acquisitions and they go...
+Kevin: I would say 99% of the time you don't get a story like ours.
+Aaron: Yeah and yet you left at the end of the day. So, this is probably a deeper question than something to talk about, but could you say why you decided to leave and do something else?
+Kevin: Why I decided to leave and do something else? Well, like I said, I think it was exciting to see what else was going to be out there for us. Here's the thing, I knew that whatever was going to happen afterwards we were going to land on our feet, all three of us. And I was glad to see that there was going to be an opportunity that all my employees were going to be taken care of and all my users were going to be. And it was a good opportunity for that transition. If we had the option of keep going, I would have loved to keep going because it's super rare that you get to build a product and a community that was the way Wufoo's was. So at the end of it, actually at the end of my time at SurveyMonkey I actually got approached by Paul Graham and Sam Altman and they gave me the hard sell for Y Combinator and they said, "YC is so much like a startup that you might be able to make your mark there in a very similar way." And that's always what's been interesting to me, is that work on very interesting problems and YC has some of the best.
+Aaron: Well, I'm glad you made that decision because I get to work with you and it's pretty awesome.
+Kevin: Thanks, Aaron.
+Aaron: I'm Aaron Harris and my guest this hour is Kevin Hale. Just ahead, Johnny Chin joins Kevin and I to talk about his experience as part of Y Combinator's summer 2014 batch. But more importantly he's going to tell us about Bannerman, a service that provides a fast and easy way to book security professionals. You're listening to Startup School Radio on business radio powered by the Wharton School SiriusXM 111.
+Woman: You're listening to Startup School Radio powered by the Wharton School. Here again is Aaron Harris.
+Aaron: Welcome back to Startup School Radio on business radio powered by the Wharton School SiriusXM channel 111. I'm your host Aaron Harris. I'm a partner at Y Combinator and I've been speaking this hour with my partner at Y Combinator Kevin Hale. Kevin, thanks for sticking around.
+Kevin: Thanks.
+Aaron: I'm happy to welcome my next guest, Johnny Chin. Johnny is the co-founder and CEO of Bannerman a service that provides a fast and easy way to book security professionals. Johnny was a member of YC's summer 2014 batch and he's going to tell us a little about the program and how it helped him run his company. I would also add that Bannerman is the exclusive provider of security profesionals any time Y Combinator needs someone, so I can vouch for it being a super awesome service that works really well. so Johnny, thanks for joining us.
+Johnny: Glad to be here.
+Aaron: So Bannerman is not the first company you ever tried to start, in fact it's not the second or the third. How many companies did you found before Bannerman?
+Johnny: I have founded and failed four companies.
+Aaron: That's a lot. What made you keep going? That's perseverance on an awesome level.
+Johnny: Absolutely. I believe it's just the love of creating, of building. And I was very blessed to meet my co-founder Antoine and I attribute a lot of where we've gotten right now to Antoine.
+Aaron: So how do you guys meet and how did the idea for Bannerman take shape?
+Johnny: Absolutely, we used to work together and for some odd reason they sat the sales guy, which was me, next to the engineer, which was Antoine.
+Aaron: What were you doing?
+Johnny: We were working at a food tech startup in San Francisco and all day we couldn't stop talking. We were debating about these Snapchat and technologies like Google Glass. I feel bad now for all our colleagues because we were arguing back and forth,
+this company's going to change the world, no that's a silly technology, that's a silly idea, it's not going to scale. All day, all day, all day.
+Aaron: Were you getting any work done?
+Johnny: Not a lot, off the record I guess. And eventually we just started hacking things on the weekend for fun. So one was a Google Glass app that would display subtitles when you watched a film. Then we had this crazy idea of Bannerman. Since we had both lived around the world. Antoine has lived around, let's just say some not so safe cities. And this idea came to us where you could push a button and have security come to you. But we wrote it off, we thought, oh that's just such a silly idea.
+Aaron: Were you thinking about a bodyguard shows up and walks you to down the street or something?
+Johnny: Yeah, yeah, that's what we were thinking. We literally said, an app that would prevent Taken from happening.
+Aaron: I think that's the first time I've heard of Taken inspiring a startup company.
+Johnny: So we thought it was a crazy idea, so we sort of tabled it. But it kept keeping me up at night and I kept bringing it back.
+Aaron: Because you didn't have a security professional part of you...
+Johnny: Exactly. And so I said, "Antoine, there's really something here." And you know we said, "You know what let's hack it. Let's put something together and see what happens."
+Aaron: So how does that go from, "Let's hack it," how do you find security professionals, how do you find people who need them. What do you actually do to get this thing rolling?
+Johnny: Yeah, so we put together a very ugly v1 definitely a face for radio. Looked pretty bad, and I just started going out there and talking to prospective clients. You know, asking, "What do you think of this?"
+Aaron: What did clients look like at that time? How did you know what a client would be?
+Johnny: Oh, I had no idea. I literally sent out a mass email to my friends saying, "Is this something interesting? Is this something intriguing?" and then again radio silence. No pun intended, so I just continued to walk around to restaurants, bars, you know, whomever or whatever and...
+Aaron: I'm hoping you didn't follow people down dark streets in seedy neighborhoods.
+Johnny: No, no I didn't do that. And I guess that we got a little lucky that certain establishments would talk to me and early on it was great that I was able to speak with them and sort of understand what were their pain points. What might be interesting for us to build. So I would go out there and I would act as a journalist and poll all of these perspective users or clients and then I would go talk to Antoine and we would work together on designing something a little better. So it was definitely a very iterative process.
+Aaron: So it sounds like you were moving away pretty quickly from the idea of having security to make a single person feel safe, right. Into more of this idea of, "Hey, let's find places that seem to have security guards or security professionals of various types and find out how they work."
+Johnny: Absolutely, so it became more displacing and actually building a much easier way of scheduling and booking security.
+Aaron: So on the one hand, it sounds like you followed this core precept, which is so important, of talking to your users and finding out kinda what they need. On the other hand, you weren't really building something for yourself anymore. Was that hard to reconcile or hard to get around, or it jut made so much sense that, okay, of course that's what we go and do?
+Johnny: That's a great question. I tried to, I guess I would consider myself a "method actor." I really wanted to get into the mind of the user. I used to go, it's a funny story actually, friends of mine who knew me before Bannerman called me Jonathan and then I started going by Johnny. And I took this sort of pseudo name Johnny, like the general manager of the bar, he's too busy to sit down at his computer, he's always on the go, he doesn't have time to book security. And so I tried to really get into this mindset, Johnny, Johnny, Johnny, what does Johnny need, where does Johnny want that call to action button. And so that, I guess that kinda...
+Aaron: Did you start dressing differently, talking differently, you know all that or...
+Johnny: Oh no, I very much dress like a techie. I'm in a hoodie every single day of the week.
+Aaron: So you kind of inhabit this mindset of someone who will need to hire a security professional and start talking to them all the time. What did you, what were these features that you started adding that you realized that people really needed?
+Johnny: That's a great question. Surprisingly it's actually taking away features. That is really the most important thing. To take away features and when a user doesn't complain then you're on to something. I feel earlier on with my four failed companies, it was always about adding more. Adding more, adding more. Let's add this social hook or let's add this button here. But it turns out with Bannerman we did the exact opposite. And that proved to be quit interesting.
+Aaron: So Kevin, you were telling us a little bit about how you thought about feature addition and listening to your users and saying no most of the time until you saw a pattern develop. How did you think about removing features, when did stuff disappear?
+Kevin: Stuff disappeared not that often because we actually made it incredibly difficult to add a feature and so our philosophy was, "Oh, you now what, writing code that should be considered the nuclear option." Because adding code to your interface adds all this complexity that ripples down into customers and has unintended consequences. And we noticed that with our small team we're trying to contain customer support because that was something that we had a lot of human capital invested in. And so for us, we were like, okay if we have a problem with the user, is there a way that we can solve it without writing code?
+And so the first thing would be, okay, if I just instruct them well. Is this a one time mistake where if I just tell them how it works they'll never have this problem again. And so that is just inform them? Is there copy that I can write, is there documentation I can change? Is there tool tips that I can add? Then the next step is going be, okay, is there interfaces that we can change? And so not adding any new features, but can I just rearrange stuff, make things pop out a little more and sort of solve the problem that way. And then the last step will be, oh, let's actually change the interface that's going to sorta impact things. Because for me, I fall very heavily like, okay, there's only so much information that a user can process and really there's one goal to have my user, that I want them to do at any page, or there's some targeted goal that I need them to get right away. And so I want to make sure that's as clear as possible. And so what we said was, okay, Wufoo is going to be the kind of product that is for non technical people. And it's going to have the lowest common denominator. And for that to happen I can't cram this thing full of features.
+Aaron: I wonder if one of the things that let you do that is sort of the build up method towards the features you need and being able to strip away versus Johnny, what he kinda had to do was strip things away, is where you started in that process where Kevin, you were your initial user so your iteration cycle looked different than Johnny where you kind of had to become your user over time. And both of those things can lead to really successful products and really successful companies if you have the discipline, but I wonder if Johnny, you had to go through more struggle than you might have and you're coming out of the other side really well, which I think shows an awesome amount of discipline. So, what did you come down to as you started stripping away all these features. What was that core, minimal useful piece of software that you could give people?
+Johnny: That's actually quite interesting because Kevin sat with us and helped us strip down a lot of that. I think that might be when we start talking about our experience through YC. But what existed before Kevin helped us was I guess we can call it painful, it was many different steps and Kevin really helped us cut a lot of those unnecessary steps out of it in order to make it just much easier for someone to be able to press the book now button.
+Kevin: I think what Johnny's talking about is his conversion flow. He was asking for lots of information to just make a booking. And if it's security at a push of a button then it should feel as simple when booking the stuff.
+Aaron: What's some of the stuff you stripped away? Do you remember, like one really silly thing that you had that seemed really important at the time but ended up being, like, there's no way anyone needs this, it's just getting in the way?
+Johnny: It was more along the lines of putting it all on one page as opposed to stringing it out to five to seven different pages. It sounds ridiculous now, but it literally was some many different clicks that...
+Aaron: Each step was a different thing?
+Johnny: Exactly, exactly. So now we actually add a lot of those as optional so you can still go through the process without having to give all that information. It helps to give more information in certain instances, in order to give some specific instructions. But it's not necessary.
+Aaron: So how does it work now? What do I do if I need a security professional, what actually happens in the app?
+Johnny: Yeah, you just put in the start time, the end time, the number of guards you need, and the address and it's all handled for you.
+Aaron: That's awesome.
+Johnny: Yeah
+Aaron: So I could just have 30 security guards show up at my house for three hours because I decide I just want a ring of really strong people defending me?
+Johnny: Absolutely.
+Aaron: How long does it take for you to get a security guard to someone's home or someone's place of business or wherever someone is?
+Johnny: 30 minutes.
+Aaron: 30 minutes! Wow! In, and this is in which locations?
+Johnny: This is in San Francisco. We recently expanded into Los Angeles. Our goal is to drive that SLA down to 30 minutes, but right now with traffic it's a little more.
+Aaron: Yeah, it can take a while to get places. How many security guards did you need, or this is a marketplace problem, right?
+Johnny: Yes it is. Yes.
+Aaron: Which is a super, it's funny it keeps coming up again and again because a lot of startups try to build marketplaces because they are incredible valuable once you have them. But they're incredibly hard to build because you need the buyers and the sellers, or you need the suppliers and, in this case, the users. So how did you think about building both sides of that market? How'd you get your security professionals and how'd you get people who needed them?
+Johnny: Early on it was a lot of trial and error.
+Aaron: Okay.
+Johnny: More recently we've actually figured out that a lot of former military use our service to get work.
+Aaron: Really?
+Johnny: Which has been really interesting.
+Aaron: That's pretty cool. How did you discover that?
+Johnny: It was almost by accident. As we were out there talking to security professionals, seeing if they wanted to partner with our platform, we started meeting a lot of former military. And the fact that we have technology that replaces a lot of human elements allowed us to actually pay our security professionals more and charge clients less. And the fact that we could pay more really enticed a lot of really high level talented security professionals that now work with Bannerman.
+Aaron: That's really, really cool to hear. If you're just joining us I'm Aaron Harris and you're listening to Startup School Radio. I'm speaking with Y Combinator partner Kevin Hale and Johnny Chin, co-founder and CEO of Bannerman. And we were just talking about how Johnny basically finds the two sides of his marketplace. So now you're into this network of service men and women who are looking for work, I guess after deployment. Some of them may have been working as security guards already, certainly they make amazing security professionals. How do you then match them up with people who need them?
+Johnny: Great question. So we figured out that security isn't something that, how would I put this, so a certain type of bar in the mission district of San Francisco wants a different security professional than a five star hotel for a private event.
+Aaron Harris: Interesting.
+Johnny: And so we've done a good job using technology of matching in real time the right security professionals. And so we...
+Aaron: I understand how you might do that with someone who's worked with you before, "Hey, you keep sending guards to the Four Seasons or something like that, you know when someone requests someone there, it looks, you know the profile. How do you do that ahead of time? Like a brand new client, how do you know you're sending the right people?
+Johnny: How from a client's point of view or from the...
+Aaron: From your perspective. If you get a brand new request, how do you know what security professional to send to fill that request?
+Johnny: Looking under the hood there's a few different things we do. We've built integrations with Google Maps so we can see where it is, we can see what type of establishment it is.
+Aaron: Okay.
+Johnny: On the security professional side we actually are very stringent, we have a very strict vetting and on boarding process so amongst those different interactions that we have with the security professional we can find out, we can ask stuff. What is your experience with these type of events, with this type of work, where do you prefer, where do you see yourself working?
+Aaron: Does it take a long time to acquire a customer, do you think about it in terms of a traditional sales cycle where you have to go to a bar and, or a restaurant, or a hotel and convince them to use Bannerman? Or is there some other way that people are finding out about you and starting to use you?
+Johnny: That's the beauty of it. Since we've made it so easy to book, we get so many different requests coming in. They found out about us through word of mouth. Early on obviously no one had heard about Bannerman or this new crazy idea. So it was us going out there and hustling and talking to prospective clients, but now we're blessed such that the clients have an amazing experience with us, they keep using us and they also happen to tell their whole network about us.
+Kevin: The other thing that's kinda cool about Bannerman is they're at the front of the event. So when people come in through the doors and stuff, they're seeing Bannerman there. And so events are this place where you're seeing a bunch of people experience, "Oh, that's interesting. I'd like that for my own event." Or what have you so it's got this naturally viral component that's pretty exciting. So most of their growth happens by word of mouth and it's amazing as a result.
+Aaron: That's actually the best way to grow, right? You don't have to spend marketing dollars, you don't have to hire a big sales force. It's just people find out about it.
+Johnny: Yeah, I actually think marketing and advertising is like a tax you pay because you're not remarkable, people don't want to talk about you.
+Aaron: Yeah, I mean Kevin when you look at that and say, "Oh there's another business growing through the fact that people love it and people see it, that's right out of your experience, right?
+Kevin: Yeah, it's kind of interesting because Wufoo is a form builder, it's a database product so that's not something that people want to talk about at the dinner table. You're not the most interesting person at the table when you talk about forms and Wufoo. So a lot of the stuff that we talk about is the interesting things, how we ran a remote working company, how we dealt with customer support, but a lot of the way we built Wufoo is very personalized. It's actually kind of fun. It looks like making an interface that's Microsoft Access built by Fisher Price.
+Aaron: Yeah, it's got bright colors, there's dinosaurs...
+Kevin: ...and it's stuff that a lot of people were like, I don't think businesses are going to use that. And we have almost every company in the Fortune 500, they have teams using Wufoo. And the reason you have that is it's people who use software and they don't like using software that reminds them their in a cubicle and that's stuff that they're willing to talk to people about.
+Aaron; Yeah, I mean I think that applies to just sort of both of you. It's not companies that use apps or software, it's the people at those companies and if you make those people happy that's what happens. So you're not selling to a bar, Johnny, right? It's the person who went to a party who realizes they need something for their own event, and so hey, they're going to request someone.
+Johnny: Absolutely.
+Aaron: Can you talk about any particularly crazy places where you've sent Bannerman or like the largest number you've ever sent to an event?
+Johnny: Good question. We have some interesting stories or certain requests rather. One, I guess I'll talk about the one's where we didn't actually fulfill the request.
+Aaron: Okay.
+Johnny: Out of privacy for our clients. But we've literally had examples of people saying, I'd like to hire Bannerman so I can play basketball with them.
+Aaron: So rent a friend.
+Johnny: Exactly, yeah.
+Aaron: How do you deal with that? How do you decide that's not something that you're going to do?
+Johnny: You know our mission is everyone deserves to be safe. Right?
+Aaron: Yeah.
+Johnny: We're building technology to make that happen and so in the instance of using Bannerman for the right utility, that makes sense for us. And so we've done it all, we've done weddings, bar mitzvahs, funerals, private events. We work with offices, bars, restaurants, we do it all. But in those type of very, how would you say, ridiculous requests, it's something that we deny.
+Aaron: One of the things that keeps, I think probably keeps going through a lot of peoples heads is just trying to understand why this is a big opportunity. "Okay, I understand you were talking about this thing, you didn't feel safe. You started talking to bars and and restaurants and hotels and they seemed to need people." But I don't think most people think about the fact that there's a bouncer outside of every bar in every city throughout the country and probably throughout the world. There's these people, like security professionals are everywhere, but how did you think about whether or not this was actually a large thing and worth going after?
+Johnny: To be honest, I think we stumbled upon it by accident. How big this market is. It just was fascinating to Antoine and I because we had lived around the world. We unfortunately had encountered times when we felt very unsafe. And so that sort of piqued my interest even before we started working on Bannerman. I would observe how many security professionals were out there. Where as a normal person might ignore them. They might just be someone that was thankless or you know they wouldn't even see them. So for us that was something pretty interesting.
+Aaron: And so you start looking at it like, Oh well, this happens in a lot of places. Did you ever sit down and say, well how large is this market actually? Is this worth spending our time on? Or is it just like, people seem to need this, let's just go?
+Johnny: It was kind of the latter. We kind of went with it an discovered along the way how big in fact it really is.
+Aaron: Yeah, how big do you think it it? How much do companies or people spend on private security in the U.S.?
+Johnny: In the U.S. I don't have a specific number. The last number that I looked at that seemed fairly accurate was $96 billion.
+Aaron: Holy cow!
+Johnny: Yeah.
+Aaron: $96 billion dollars?
+Johnny: That only includes manned security, or security guards. That does not include alarms or surveillance.
+Aaron: That number blows my mind. To think that this thing that I never even think about is that large of a business opportunity, you know that's wild. Frankly, and that you just sort of fell into it by following users, right? By following where people needed things.
+Kevin: Here's what also is super exciting and always bends my brain is like when startups like Bannerman make it as easy as a push of a button. That number for the market actually could be so much bigger. They're expanding the market because now people can get access to security that never even thought it was possible. They weren't even thinking, "Oh that's and option for me when I want to be safe." So as a result, who knows how much bigger that number actually could be.
+Aaron: Right, those are the most fascinating markets, right? The one's that are going to grow because you exist.
+Johnny: Well, to dovetail Kevin, what we've discovered now actually is what existed before Bannerman would take you two weeks to two months to negotiate and get a security contract in place. But now what we're seeing, for instance...
+Aaron: Wait, wait, so you went from a process that goes from two week to two months and boiled it down to 30 minutes?
+Johnny: Oh yeah, absolutely.
+Aaron: Wow.
+Johnny: And so we get requests where it's late on a Saturday, the only support team's at the office and they spot someone looking suspicious or maybe someone's tagging the side of their building and they can push a button and have Bannerman come right away. And that did not exist before.
+Aaron: That's actually awesome! That is kind of how you start to think about this as transformational, for how people view their own safety and view the safety of buildings because you know, especially if you live in a bad area this is something that just gives you safety. Really at the push of a button, your mission really is that.
+Johnny: Everyone deserves to be safe.
+Aaron: That's awesome. So you know we just have a few minutes left to talk and one of the things I wanted to touch on was something you brought up earlier. Which is you're in San Francisco, you've got about 30 minutes wherever you are Bannerman shows up, and you're expanding to L.A. How do you think about expanding to a new market? Is it just, "Oh we just open the app up in that market?" or what do you have to do?
+Johnny: I think the best thing to do is not bring that bias from one market to the next.
+Aaron: What do you mean?
+Johnny: You don't want to take all of the data that you've learned from one city and believe it's going to function the same way in that second market. L.A. and San Francisco although they are an hour away in a plane are completely different cities. Very, very different in the way they function. And just to give you one specific example, in San Francisco we built a brand around practicality. It was practicality first and brand second where as in L.A. it's a little more about the brand. So we've been changing up the copy a little bit to explain the ease of use, to explain sort of the glitz behind it and practicality sort of reinforces that copy, if you will.
+Aaron: Johnny, that's just really cool. Good luck as you expand to L.A. and then other cities, states and countries. Kevin, Johnny thank you both for joining me today. This was just some really awesome stuff to learn, some really great lessons.
+For more information about Kevin and what he likes to do, check out roundedbygravity.com which is his blog. And you can follow him @Ilikevests. You can also just check in on him at Y Combinator and yeah, come apply to Y Combinator if you're starting a company.
+To find out more about Bannerman, visit them online at getbannerman.com or follow him and them on Twitter at @getbannerman. You can also download the app in the App Store.
+Startup School Radio airs live every Wednesday at 1 p.m. Eastern, 10 a.m. Pacific, right here on business radio channel 111. If you have a question about something you heard on today's show, email us at businessradio@siriusxm. Thank you for joining us today. Special thank you to senior producer Lisa Mantineo and associate producer and engineer Dion Simpkins. I'm Aaron Harris. Be sure to tune in next week to business radio. Thanks very much and have a great 
+1 ContributorWrecking Ball (Extended Version) Lyrics
+Let Heaven fall
+Like a wrecking ball
+And crush every fear in my veins
+Let the love of God
+Like a tidal wave
+Wash away all my shame
+
+You can’t stay away
+When love starts singing
+You can’t stay away
+When love starts ringing
+You can’t stay away
+When love starts singing
+You can’t stay away
+When love starts ringing
+
+
+Let healing power
+Come like fire
+And burn in the marrow of my bones
+Let the Holy Ghost
+Come so close
+Our hearts explode with Your love
+You might also like
+You can’t stay away
+When love starts singing
+You can’t stay away
+When love starts ringing
+You can’t stay away
+When love starts singing
+You can’t stay away
+When love starts ringing
+
+Open the sky
+Come and ride
+On the songs we sing
+On our melody
+Open the sky
+Come and ride
+On the songs we sing
+On our melody
+
+Oh-oh-oh-oh-oh-ohhh
+Oh-oh-oh-oh-oh-ohhh
+Oh-oh-oh-oh-oh-ohhh
+Let Heaven fall
+Like a wrecking ball
+And crush every plan of my enemy
+Let Heaven fall
+Like a wrecking ball
+And crush every plan of my enemy
+
+You can’t stay away
+When love starts singing
+You can’t stay away
+When love starts ringing
+
+
+Oh-oh-oh-oh-oh-ohhh
+Oh-oh-oh-oh-oh-ohhh
+
+You come running when You hear me singing
+You open the sky
+And You ride on our melodies
+And You ride on the songs we sing
+You open up the sky
+You come and ride on our songs
+On our melodies
+Open the sky
+And come and ride
+On the songs we sing
+On our melody
+
+Oh-oh-oh-oh-oh-ohhh
+Oh-oh-oh-oh-oh-ohhh
+Oh-oh-oh-oh-oh-ohhh
+Oh-oh-oh-oh-oh-ohhh
+
+
+Let Heaven fall
+Like a wrecking ball
+And crush every fear that's in my 
+
+I was made, I was made
+For intimacy
+I was made, I was made
+For intimacy
+
+These ears You've made
+To hear Your rhythms of love
+And this voice You placed
+To sing You songs of grace
+And this hair You wove
+You've numbered every strand
+And this gaze You love
+It captures You with one glance
+You might also like
+I was made, I was made
+For intimacy
+I was made, I was made
+For intimacy
+I was made, I was made
+For intimacy
+I was made, I was made
+For intimacy
+
+Intimacy
+Is what I need
+Intimacy
+Is calling me
+Intimacy
+Is what I need
+Intimacy
+Is calling me
+
+Is calling me
+Come away (Come away)
+To come away
+You're speaking my name
+You're calling me (Calling my name)
+Calling me
+
+
+I’m just dust without Your breath
+I’m just clay without Your kiss
+I’m just skin and bone
+Without Your wind in my lungs
+
+I can hear a love song
+In everything You’re singing
+I can hear Your heartbeat
+Flowing through me, You’re inside me
+
+I’m just dust without Your breath
+I’m just clay without Your kiss
+I’m just skin and bone
+Without Your wind in my lungs
+
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+You might also like
+
+I can hear a love song
+All around me when the wind blows
+I can hear Your voice speak
+It surrounds me when the leaves move
+
+And I’m just dust without Your breath
+I’m just clay without Your kiss
+I’m just skin and bone
+Without Your wind in my lungs
+
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+
+I’m just dust without Your breath
+I’m just clay without Your kiss
+I’m just skin and bone
+Without Your wind in my lungs
+I'm breathing in
+I'm breathing in Your love song
+I'm breathing in Your love
+I'm breathing out Your praise
+I'm breathing in Your love
+Breathing out Your praise
+I'm breathing in Your love
+Breathing out Your praise
+Giving the song You first gave
+I'm breathing in Your love
+I'm breathing out Your praise
+Breathing in Your love
+Breathing out this 
+1 ContributorJust One (Extended Version) Lyrics
+
+Just one drop of Your blood, my sins are gone
+Just one thread of Your robe, I’m made whole
+Just one glimpse of Your face is all I can dream of
+Just one moment of Your favor is so much greater
+
+You are the One who was
+You are the One who is
+You are the One who will always love
+You are the One who was
+You are the One who is
+You are the One who will always love
+
+Just one word from Your lips, the heavens were made
+Just one touch of Your hand, I am changed
+Just one breath from Your mouth, I come alive
+Just one moment of Your favor is so much greater
+
+You are the One who was
+You are the One who is
+You are the One who will always love
+You might also likeYou are the One who was
+You are the One who is
+You are the One who will always love
+
+No matter what my circumstances try to say
+I will trust in You, I will lift my voice
+And I will say You are greatly to be praised
+
+You are the One who was
+You are the One who is
+You are the One who will always love
+You are the One who was
+You are the One who is
+You are the One who will always love
+You are the One who was
+You are the One who is
+You are the One who will always love
+You are the One who was
+(You will love) You are the One who is
+(You will always, always love) You are the One who will always love
+You are the One who was
+(You will love) You are the One who is
+(You will always, always love) You are the One who will always love
+It's who You'll always be
+
+Just one drop of Your blood, my sins are gone
+Just one thread of Your robe, I’m made whole
+Just one glimpse of Your face is all I can dream of
+
+
+You're the One who looked into the eyes of the fishermen
+And they followed
+You're the One who the prostitute clung to
+And she became brand new
+You're the One, You're the One who holds my heart
+And You're the One who holds the mountains
+Just one look at You, just one look at You
+And everything changes
+That's all it takes, my God
+Just a breathe, just a drop of Your blood
+It's just how good You are
+It's just how good You are
+And just one drop of Your blood, my sins are gone
+And just one drop, my mountains are swimming
+Just one drop, nations are changing
+Just one drop, everything, everything, everything changes
+With just one drop
+And just one drop, everything, everything
+Just one drop, everything changes
+Just one drop, everything will change
+Just one drop, and everything will change
+Just one drop, and everything will change
+Just one drop, (I saw eternity, I saw eternity) and everything will change
+(I saw eternity)
+Just one drop, (that's just how good You are) and everything will change
+And just one drop, everything will change
+And just one drop, everything will 
+1 ContributorCageless Birds Lyrics
+
+Standing on the shore of decision. Looking into the face of adventure. Desire to abandon all I know. What pushes me is rooted somewhere between understanding and knowing. Knowing that what I want to understand is not within my reach. So I ponder my escape. Not knowing what lies ahead. Adventure and fury is full of excitement and bleeds with passion for life. But adventure in reality is full of breathless moments, silent nights, and wounds that leave scars and memory on our heart. Can I go the distance? Can I give all my mind to get what the Messenger is saying? Can I surrender my knowing? Will I survive the humility of ignorance to obtain the treasure that earthly gold cannot buy? Will I ask the question of honesty even if the answer convicts my soul? And sends me to the land of repentance?
+
+All of these thoughts flood my mind
+Oh, all of these thoughts flood my mind
+All of these thoughts flood my mind
+All of these thoughts flood my mind
+
+As I stand on the shore of choosing, and in the distance of my wondering I see with clear eyes a flock of wild, beautiful birds. Sweeping clearly in my direction as if they see me and are coming for me. And how strange it is that their eyes are full of clarity. And the melody of their flapping wings sings out
+
+"We are coming for you
+We are coming for you
+We are coming for you
+We are coming for you
+We are coming for you
+We are coming for you
+We are coming for you
+We are coming for you"
+For you, for you
+
+My song is where 
+My song is where , yeah
+We want to hear Your melodies
+We want to hear Your melodies
+We want to hear Your melodies
+, wake up and start singing
+Start singing
+Start singing
+You're not in your cage anymore
+Bound by your shame anymore
+The walls that held you in prison
+The gate is flung wide open, yeah
+You might also like
+Start singing
+Start singing
+Start singing
+Start singing cageless birds
+Start singing
+Start singing cageless birds
+Start singing
+Start singing cageless birds
+Start singing
+Start singing cageless birds
+Start singing
+Start singing cageless birds
+Embed
+
+For February 2022 album releases, visit this page
+
+This page highlights all singles released in every genre of Christian music… Read More 2/1Austin Ryder - "Light It Up" feat. S.O. ⏳
+Danny Plett - "As Diamond Cuts Diamond" ⏳
+Desi Raines - "5am In The Dungeon" ⏳
+Hyper Fenton & HGHTS - "Unashamed" ⏳
+J. Monty - "Concert on Zion"
+Sondae - "Preach"
+Swaizy - "until it falls" ⏳2/2Mogli the Iceburg - "hypocrite" feat. Eshon Burgundy
+Poor Bishop Hooper - "Psalm 110"
+The Potters - "hummingbird"2/3Vaes - "Amor Cósmico"2/4All Creatures - ""
+Ben Trip - "In Your Presence" ⏳
+Brooke Ligertwood - "Nineveh (Live)"
+Cephas - "Revolutionary"
+Common Hymnal & The Spirituals - "Walk With Me (Otis' Dream)" feat. Junior Garr, Niiella, Chris Blue & Sharon Irving
+Creative Culture Co. - "Black Boy" feat. Aklesso ⏳
+Dan Bremnes - "Hold You Tight"
+Danielle Apicella - "Cold"
+David Leonard - "Every Hour"
+De Hombre A Hombre - "Soy Libre En Ti"
+DIE-REK - "Wheel Back, Come Again"
+Ealle, Rehmahz & Kojo Dave - "Efficient" ⏳
+Elevation Worship - "What I See"
+Harborside Music - "Temple" ⏳
+HLYGHST - "Selah"
+Honor & Glory - "Jesus We Love You" ⏳
+JJ Heller - "Wild and Precious Life"
+John Michael Howell - "Introverted"
+Jonathan David Middleton - "Remember"
+Joshua Micah - "Let The Light In" feat. Owl City
+Kelontae Gavin - "Peace Be Still" ⏳
+Lovkn - "Survive These Seas"
+Mack Brock - "The Best Is Yet To Come" feat. Pat Barrett
+Melissa Lischer - "24/7 (twentyfourseven)"
+Pursue Worship - "High Praise" feat. Dusty Joplin
+River Valley AGES - "Sunrise"
+Rock City Worship - "Glory Fills This Room"
+Sam Wesley - "California Gold"
+Steven Malcolm - "RESPECT"
+Tay Collier - "Siyahamba" feat. Sy-1 & Tylynn ⏳
+Ted and Sheri & The Walls Group - "Now I Know" ⏳
+The Porter's Gate - "The Promise" feat. Molly Parden & Jonathan Ogden ⏳
+The War Within - "Rediscover You" feat. Madison Nightingale
+Yemi Alififuni - "HERE"2/6Tobe Nwigwe - "UNFOLLOW ME" feat. Zacardi Cortez2/7City Impact Church - "One With You"
+Collision of Innocence - "Falling to Rise"
+psv:gun - "Life's A Dance" feat. Eden Kim & MinhaHa2/8Dee-1 & Ade - "Drip" ⏳
+Gabriela Rocha - "Os Sonhos de Deus"2/9Aaron Kell - "words to tell you" ⏳
+Don Ready - "Heavenly Poetry II" ⏳
+Mogli the Iceburg - "ctrl+z"2/10Bella Vantes - "Self Care" feat. Joey Vantes ⏳
+George.Rose - "Lituation"2/11AP - "1984 Love" ⏳
+Austin Ludwig - "Unconditional"
+Ben Rector - "Steady Love"
+Brett Raio - "Bloom" ⏳
+Bryan Boliver - "Miracle Man" feat. Katy Reynolds & Jonathan Jackson
+Caleb Gordon - "Evidence"
+Campus Rush Music - "Awesome Wonder" feat. Kofi Dartey & Daphne Richardson
+CASS - "Clouds"
+Christopher Syncere - "ATREYU"
+Christian Singleton - "I Won't Let Go"
+CRFT - "Waiting" ⏳
+CRYS - "Lo Primero"
+Erica Mason - "Walk Away" feat. Tylynn & Lite Pole ⏳
+Erik Nieder - "Miracle Maker"
+Fellowship Creative - "The Church"
+Folabi Nuel - "Glory (Live)" ⏳
+Gateway Worship - "I Need You (Live)" feat. Jessie Harris
+Grace City - "I am." feat. Anna Hallsten
+ISLY - "Searching For"
+Jack Price - "i'm too sentimental" ⏳
+James Wilson - "Love Me Anyway"
+Jes Norris - "better" feat. Datin
+Johnnyswim - "Heaven Is Everywhere"
+Jonathan Ogden - "Always Will Be"
+Jor'dan Armstrong - "SHE" ⏳
+Jordan Frye - "Chase the Sun"
+Jordan St. Cyr - "Grateful"
+JXHN PVUL & Vianca "The Grace" - "M626" ⏳
+KJ Scriven - "Heartbeat (Live)"
+Kmo - "Ant In The Room"
+Kushim - "The Call" ⏳
+Legin - "3PM" feat. Mission & Muhanjii ⏳
+Legin - "Wish I Knew You" ⏳
+LifePoint Music & TEMITOPE - "My Redeemer (Live)" ⏳
+Menna - "Alive"
+Naffymar & Sam Jamz - "Check" ⏳
+Nate Emmanuel - "Butterfly"
+New Christian Order - "GLO" feat. Chris Soul, International Show, outr.cty & Q-Flo
+New Life Worship - "Awaken the Anthem (Live)" feat. Dee Wilson ⏳
+Nolly - "Balance" ⏳
+Radiant City Music & Gretta Karwowski - "Break It Open" ⏳
+Radical Worship - "SEND ME"
+RAY G & OnBeatMusic - "Energy" feat. Dia Viola ⏳
+Savannah Gibson - "Safe Place"
+Shimon Atunde - "First Love" feat. Rae Rae ⏳
+simplyollie - "All I Have" ⏳
+SIV & Moflo Music - "Heartache Dejavu"
+Stars Go Dim - "This Is Love"
+Surveyor - "Flawless" ⏳
+Switch - "Covered"
+The Belonging Co & Henry Seeley - "Because Of Christ (Live)"
+THEM PARENTS - "Dawning"
+The War Within - "Anchor" feat. Madison Nightingale ⏳
+Tjsarx - "I Am" feat. CalledOut Music ⏳
+Torey D'Shaun - "SCROLLIN"
+Wolves At The Gate - "Peace That Starts the War"
+WorshipMob - "The Lord Is Great" ⏳
+Yael Hilton - "Jesus" ⏳
+Yamaree - "Let It Be Me" feat. Arianna McLean ⏳2/12Coop - "BIRTHDAY FREESTYLE"2/13Kingdomcity - "Pour Out Your Fire" ⏳2/14Konola - "Valentine" ⏳
+Praise Lubangu - "GOD IS LOVE"
+Stephen Witt - "Beautiful Man" ⏳
+Swaizy - "out of sight"
+Xael - "Roll Call" feat. Rhett Hayes & Chiazo ⏳2/15Errol Allen - "Untold Freestyle, Pt. III"
+J. Monty - "Beat the Block Up"2/16Aklesso - "Wedding Day"
+Edgar Sandoval Jr & Jordan May - "PERFECT TIMING"
+Mirella - "Je veux vivre"
+Mogli the Iceburg - "a million shades of red"
+Poor Bishop Hooper - "Psalm 112"2/17Patrick McMillan & Xay Hill - "Save Me" ⏳2/18Andrez Babii - "His Will > Mine" ⏳
+Audrey Marie - "Focus"
+AWAKE84 - "Everything You Are"
+Billy Ballenger - "I Believe It (Radio Version)" ⏳
+Black Voices Movement - "This Is What It Looks Like (Live)" feat. Eniola Abioye & Alvin Muthoka
+Bristol House - "Here I Am" feat. Nathan Guerry & Matthew Kerley ⏳
+Bryan McCleery - "A Love That Remains (Live)"
+Caleb Gordon - "Flow Getting Better" ⏳
+Caleb McCoy & Shanell Alyssa - "Witness" ⏳
+CASS - "foreigner"
+Cecily - "Look At You"
+Central Live - "Love Has Won (Live)"
+Citipointe Worship & Chardon Lewis - "The Good Thief (Hallelujah) "
+Civilized Creature - "Better Bet" feat. Patrick Spatz ⏳
+Colorvault - "I Will Wait For You" feat. Alex Taylor
+Common Hymnal & The Spirituals - "Walk With Me (Otis' Dream) (Afternoon)" feat. Kierre Bjorn ⏳
+Dennis Gorcea - "Need You"
+Faith Lofi - "forever"
+First15 Worship - "Coming Through" feat. Jeremiah Brinkley
+for KING & COUNTRY - "Love Me Like I Am"
+Gabby Callwood & J1W - "Holy" ⏳
+Gatherhouse Music - "Right Now (In the Name of Jesus)" feat. Ryan Kennedy
+Henrik - "LOVE RACE"
+Imani Taalib - "Calm" feat. Cara Davis
+Jars Of Clay - "Broken Places"
+Jeremiah Paltan - "You Won't Leave Us"
+JJ Heller - "Beautiful Day"
+John Michael Howell - "Don't Know Till You Try"
+John Tibbs - "I'll Stand By You" ⏳
+Jor'dan Armstrong - "YOU" ⏳
+Justin Tweito - "Temple (Live)"
+Kelsey J. - "Even Now"
+Kenny Rivers - "NOMBRE"
+Kinnship - "Where I Lay My Head"
+K-SEE - "On It" feat. Christopher Syncere ⏳
+Laney Rene - "Show Me Where You Were"
+Lilmizzy & Rehmahz - "GOD'S LOVE" ⏳
+Maddie Rey - "On My Way"
+Manafest - "Gravity Falls" feat. Trevor McNevan
+Manor Collective - "Golden" feat. CalledOut Music & Elle Limebear
+Maria Hilman - "Search My Heart" ⏳
+Marie Love - "Wait For You" ⏳
+Marllon Ribeiro & A'saph - "Rio"
+Matthew West - "Me on Your Mind"
+Michael W. Smith & Jonathan Cilia Faro - "Sing Again (Canto Ancora)"
+Mike Sarge - "30 PC" ⏳
+Mitch Darrell & Kris Noel - "Chop It Up Pt. 3" feat. Alcott, DJLC, Monster Tarver & Sean Wyckoff
+Mosaic MSC - "This Is How I Thank The Lord"
+MUCH MORE - "Kid" ⏳
+Nate Emmanuel - "Terrified"
+Neon Feather & NEON Worship - "Righteousness" feat. SOFYKA ⏳
+Phil Keaggy - "Lazarus Heart"
+Radical Worship - "Where I'm Going"
+Raging Moses & Datin - "Awake"
+Rebecca St. James - "Praise" ⏳
+Reed Deming - "ilym" ⏳
+Refiner - "Blackout"
+Rend Collective - "As For Me"
+RIYL & S.O. - "Can't Lose" ⏳
+Sam Rivera - "Worth The Risk"
+Scootie Wop - "WANTED FREESTYLE" ⏳
+Several Other Ghosts - "ITGFYED" ⏳
+Shelly E. Johnson - "My Peace Is Jesus"
+Sidewalk Prophets - "I Believe It Now" feat. Olivia Lane ⏳
+Sully Bright - "It's You"
+sxxnt. & Sara Damon - "Another In The Fire" feat. Joseph Whettam ⏳
+TEMITOPE - "GREAT IS YOUR FAITHFULNESS"
+The Apartment - "Cold Outside" feat. Dante Bowe & Propaganda
+Trip Lee - "STONE"
+Unspoken - "Love Is Everything We Need"
+UPPERROOM & Toma Tu Lugar - "Bendita Esperanza (Live)" feat. Marcos Brunet & Yvonne Muñoz
+UPPERROOM & Toma Tu Lugar - "Maranatha (Espontanéo) " feat. Marcos Brunet & Lucas Conslie ⏳
+Valley Creek Worship - "Bless The Lord (Live)" ⏳2/20Moses Bliss & Chizie - "Never seen" ⏳2/21Isaias Saad - "Bondade de Deus"2/22Desi Raines - "Never Knew" ⏳
+Dresden Is Lost - "Shackles" feat. Cole The VII, Rockatoxx & CER10
+Gabriela Rocha - "Hino da Vitória"
+Rachel Jeanette - "Mercy on Me" ⏳
+Sinach - "Final Word"
+The Fold - "Behind Us Now"
+Tim Ophus - "Jonah"
+Vocal Livre - "Nova Canção"2/23hadassa morais - "newspapers no one reads anymore, love, the teacher"
+Jodi Essex - "UNRAVEL"
+Poor Bishop Hooper - "Psalm 113"2/24Bryson Price - "Dia Bom" feat. Melck Emanuel2/25After Grace - "More Than Ever"
+Alec Shaw - "Spinning"
+Andrew Ripp - "Fill My Cup"
+Austin Joyce - "No Hesitation" ⏳
+BigGucciDame - "i'm not alone" ⏳
+Bizzle - "One Time" feat. Parris Chariz ⏳
+BOUE - "Without You" ⏳
+Brandon Heath - "He Is Not Worried"
+Brandyn Kalani & Oliver Trinidad - "CANOPY" ⏳
+CCV Music - "Jesus Made A Way" ⏳
+Cephas - "One Step Away" ⏳
+Chesron - "Tijd" feat. Butet
+Chidiya Ohiagu - "Already Blessed"
+Chris Jackson - "good morning" ⏳
+Creative Culture Co. - "Breathe" feat. Tedashii & Liz Vice
+CRFT - "Higher Above" feat. Wind & Color
+Darla Baltazar - "Let You In"
+Dawson Hollow - "Seabird"
+Destiny Worship Music - "It Is Finished"
+Double Atl, George.Rose & Derek Minor - "Obvious" ⏳
+Gwil Davey - "Dawn till dusk" feat. Christian Singleton ⏳
+Harborside Music - "Tu Me Compraste" ⏳
+ICF Worship - "Here's to the One We Love"
+Isadora Pompeo - "Ela Brilha"
+Jackie Legere - "Did It For Me" ⏳
+John Mark McMillan - "Re-Enchanted World (Sessions)" feat. Owl City
+Jonathan David Middleton - "Amidst the Roar (Billows)"
+Jonny Henninger & Naomi Mae - "Way, Truth, Life"
+Jor'dan Armstrong - "GRACE" ⏳
+Jordan May - "Praying For Ye"
+Kate Matiew - "Hold You Close" ⏳
+Katy Weirich - "More" ⏳
+KB & nobigdyl. - "King Jesus"
+Kelechi - "Thank You"
+Kenny Rivers - "FREE" ⏳
+Kings Kaleidoscope - "JOY"
+K3ndrick & Oba Reengy - "Oluwa" ⏳
+Lee Green - "YCHMC (You can have my color)" ⏳
+Love & The Outcome - "I'll Find You" ⏳
+Lovkn - "Mercy Shores"
+Maximilian - "Without You"
+Medisin - "Astray" ⏳
+Melanie Penn - "Look Up"
+Mercy Culture Worship - "You Can Have It All."
+Mia Pearl - "Wait for it"
+Noontides - "Off The Ground"
+Paul-Emmanuel - "True Love" feat. Break The Eyes ⏳
+Paul Zach & The Sing Team - "From the Dust"
+Proficient 6ix - "Need God" feat. KB, Derek Minor & Hulvey ⏳
+Saintz - "Undertow" ⏳
+Sam Hibbard - "Rebel Heart"
+Sarah Nathalié - "Better"
+Scootie Wop - "DAYTONA" ⏳
+Shepherd - "Still Alive" feat. Thi'sl, Scootie Wop & BigBreeze ⏳
+simplyollie - "Dangerous Love" ⏳
+SONS THE BAND & Maryanne J. George - "O Praise The Lord"
+Steven Malcolm - "Accelerate" feat. Canon
+Tauren Wells - "Fake It" feat. Aaron Cole
+Taylor Marshall - "Watch the Rain"
+Tekoa & Rory Mckenna - "To Be Known" feat. Shady Gendy
+The Belonging Co & Shantrice Laura - "Everything Is Changing (Live)"
+The Swon Brothers - "Who You Are" feat. Emily Ann Roberts
+The War Within - "I Can't Believe" feat. Madison Nightingale ⏳
+Thiago Ramalho - "Meu Lar"
+Thomas Ware - "Love Me to Death"
+Tommy Royale - "Antagonista" ⏳
+UPPERROOM & Toma Tu Lugar - "To The One Who Is Seated On The Throne (Live)" feat. Elyssa Smith, Marcos Brunet & Lucas Conslie
+UPPERROOM & Toma Tu Lugar - "Nadie Va A Robar Tu Gloria (Espontáneo) " feat. Lucas Conslie, Elyssa Smith & Nick Gaggero
+Verses - "Psalm 90:12-14" feat. Anabeth Morgan ⏳
+Via Music - "Views" ⏳
+WEARETHEGOOD & Scootie Wop - "Live in the Moment"
+Wisecarvers - "Like This" ⏳2/27Baruch - "No Dior" feat. 1K Phew
+Convergência Music & Os Carvalhos - "Salmo 132" feat. Davi Romano
+JPCC Worship - "主のもとに帰ります" feat. Live Church Worship ⏳2/28KJ-52 - "Undefeated" ⏳
+Matthijn Buwalda - "Altijd nog wel ergens Halleluja"
+Wonderstate - "Self Love (single version)"
+Zero (제로) - "
+1 ContributorAbba Prelude LyricsYou're more real than
+The ground I'm standing on
+You're more real than
+The wind in my lungs
+Your thoughts define me
+You're inside me
+You're my reality
+Abba, I belong to You
+Abba, I belong to You
+You're closer than the
+Skin on my bones
+You're closer than the
+Song on my tongue
+Your thoughts define me
+You're inside me
+You're my reality
+Abba, I belong to You
+Abba, I belong to You
+Abba, I belong to You
+AbbaYou might also 
+1 ContributorOn the Shores (Extended Version) Lyrics
+
+On the shores of my soul I give You permission
+To wash my tears away
+And take all my disappointment
+And fill me with joy once again
+On the shores of my soul I give You permission
+To wash my tears away
+And take all my disappointment
+And fill me with joy once again
+
+I’m gonna sing out loud
+And let my voice be heard
+It’s a song of victory
+And it’s ringing in the earth
+I’m gonna sing out loud
+Let my voice be heard
+It’s a song of victory
+And it’s ringing in the earth
+
+On the top of my cage I am sitting
+Above the shame so lonely
+Your kindness it has lifted me
+To see the way that You see
+You might also like
+I’m gonna sing out loud
+And let my voice be heard
+It’s a song of victory
+And it’s ringing in the earth
+I’m gonna sing out loud
+And let my voice be heard
+It’s a song of victory
+And it’s ringing in the earth
+
+Hallelujah
+Hallelujah
+Hallelujah
+Hallelujah
+
+I'm gonna let my voice be heard (Hallelujah)
+It’s a song of victory (Hallelujah)
+And it’s ringing in the earth (Hallelujah)
+
+Hallelujah
+Hallelujah
+Hallelujah
+Hallelujah
+
+Hallelujah
+Hallelujah
+Hallelujah
+Hallelujah
+
+I can hear melodies falling from the sky
+Heaven's singing, "Hallelujah"
+I can hear melodies falling from the sky
+Heaven's singing, "Hallelujah
+Hallelujah"
+
+I'm gonna sing out loud
+And let my voice be heard
+My song is one of victory
+And it's ringing in the earth
+Come on, let's sing out loud
+And let our voices be heard
+The song is one of victory
+And it's ringing in the earth
+Come on, let's sing out loud
+And let our voices be heard
+The song is one of victory
+And it's ringing in the earth
+
+Hallelujah
+Hallelujah
+Hallelujah
+Hallelujah
+
+Hallelujah
+Hallelujah, Hallelujah
+Hallelujah, Hallelujah
+Hallelujah, Hallelujah
+Hallelujah, Hallelujah
+Hallelu, Hallelujah
+Hallelujah, Hallelujah
+Hallelujah, Hallelujah
+Hallelu, Hallelu
+Hallelujah, Hallelujah
+Hallelu, Hallelu, Hallelu
+Hallelujah, Hallelujah
+Hallelu, Hallelu, Hallelu
+Hallelujah, Hallelujah
+Hallelujah, Hallelujah
+It's ringing in the 
